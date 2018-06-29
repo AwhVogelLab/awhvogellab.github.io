@@ -2,7 +2,7 @@
 layout: default
 ---
 
-There’s lots of different things you can do with markdown.
+There’s lots of different things you can do with markdown. Add /example to the URL to see how it looks.
 
 There’s multiple types of headers
 
@@ -13,13 +13,9 @@ There’s multiple types of headers
 ##### Header 5
 ###### Header 6
 
-[Links are easy.](awhvogellab.com)
+[Links are easy (Just don’t forget the http).](http://awhvogellab.com)
 
-Or you can put them in directly.
-
-<awhvogellab.com>
-
-An image is a link to a file
+An image is a link to a file, just stick it in the right folder.
 
 [alt text](/files/images/header.jpg)
 
