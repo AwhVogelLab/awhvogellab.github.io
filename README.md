@@ -15,7 +15,9 @@ If you want to add a photo or a paper to an existing page, just copy the syntax 
 ### Committing changes
 
 Whenever you want to make a change, you will have to commit changes in order for them to go live. To this, you will need push access on the lab organization. Talk to someone who has it already to get this set up. Then run the following command to get a copy of the files in your working directory:
+
 `git clone https://github.com/AwhVogelLab/awhvogellab.github.io.git`
+
 If you don’t have git installed, you’ll get a message telling you to install it. Once you have the files, make whatever changes you want to make. Then run the following commands:
 
 `git status`
