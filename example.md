@@ -15,9 +15,9 @@ There’s multiple types of headers
 
 [Links are easy (Just don’t forget the http).](http://awhvogellab.com)
 
-An image is a link to a file, just stick it in the right folder.
+An image is like a link to a file with an exclamation point, just stick it in the right folder.
 
-[alt text](/files/images/header.jpg)
+![alt text](/files/images/header.jpg)
 
 * you
 * can
