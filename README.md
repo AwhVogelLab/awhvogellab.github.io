@@ -6,7 +6,7 @@ This website is powered by github pages and jekyll. Github pages hosts the serve
 
 ### Adding a page
 
-If you want to add a page, you just have to make a new markdown (.md) file. Jekyll will automatically parse it and turn it into html. The page is then immediately available at `/filename`. See the `example.md` file to check out some basic syntax and `/example` to see how it looks. Just make sure the header that specifies the layout as default is present in your new page. This tells jekyll what css to use.
+If you want to add a page, you just have to make a new markdown (.md) file. You can do this with any text editor (except word), just save it as `.md` instead of `.txt`. Jekyll will automatically parse it and turn it into html. The page is then immediately available at `/filename`. See the `example.md` file to check out some basic syntax and `/example` to see how it looks. Just make sure the header that specifies the layout as default is present in your new page. This tells jekyll what css to use.
 
 ### Adding content
 
@@ -36,7 +36,7 @@ This commits your changes to your local history, but we still need to send them 
 
 This may require you to provide your github username and password
 
-That’s it! Your changes are now live.
+That’s it! Your changes are now live. You can now safely delete that folder.
 
 ## Resources
 
