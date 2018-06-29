@@ -14,16 +14,24 @@ If you want to add a photo or a paper to an existing page, just copy the syntax 
 
 ### Committing changes
 
-Whenever you want to make a change, you will have to commit changes in order for them to go live. To this, you will need push access on the lab organization. Talk to someone who has it already to get this set up. then run the following command to get a copy of the files in your working directory:
+Whenever you want to make a change, you will have to commit changes in order for them to go live. To this, you will need push access on the lab organization. Talk to someone who has it already to get this set up. Then run the following command to get a copy of the files in your working directory:
 `git clone https://github.com/AwhVogelLab/awhvogellab.github.io.git`
 If you don’t have git installed, you’ll get a message telling you to install it. Once you have the files, make whatever changes you want to make. Then run the following commands:
+
 `git status`
+
 Check to make sure only files you actually changed show up.
+
 `git add -A`
+
 This "stages" all your changes.
+
 `git commit -m 'a helpful message about what you did'`
+
 This commits your changes to your local history, but we still need to send them to github
+
 'git push'
+
 This may require you to provide your github username and password
 
 That’s it! Your changes are now live.
@@ -31,18 +39,23 @@ That’s it! Your changes are now live.
 ## Resources
 
 git basics:
+
 http://rogerdudler.github.io/git-guide/
 
 markdown syntax:
+
 https://daringfireball.net/projects/markdown/syntax
 
 Github pages and Jekyll info:
+
 https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/
 
 HTML basics:
+
 https://www.w3schools.com/html/html_basic.asp
 
 Jekyll docs:
+
 https://jekyllrb.com/docs/home/
 
 ## Advanced
