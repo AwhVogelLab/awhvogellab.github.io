@@ -32,7 +32,7 @@ This "stages" all your changes.
 
 This commits your changes to your local history, but we still need to send them to github
 
-'git push'
+`git push`
 
 This may require you to provide your github username and password
 
