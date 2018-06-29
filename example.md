@@ -51,11 +51,11 @@ If you prefer to use html, you can do that as well
     <th>Header 2</th>
   </tr>
   <tr>
-    <th>_Element 1_</th>
+    <th><em>Element 1</em></th>
     <th>Element 2</th>
   </tr>
   <tr>
     <th>Element 3</th>
-    <th>**Element 4**</th>
+    <th><strong>Element 4</strong></th>
   </tr>
 </table>
