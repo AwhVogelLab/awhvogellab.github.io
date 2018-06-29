@@ -56,6 +56,6 @@ If you prefer to use html, you can do that as well
   </tr>
   <tr>
     <th>Element 3</th>
-    <th><strong>Element 4</strong></th>
+    <th><span style='color:blue;font-size:16px;'>Element 4</span></th>
   </tr>
 </table>
