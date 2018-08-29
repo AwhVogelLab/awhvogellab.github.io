@@ -4,23 +4,24 @@ layout: default
 
 # People
 
-## Principal Investigators
 
-#### Edward Awh
-#### Edward Vogel
+| ## Principal Investigators         |
+| ------------- | ------------------ |
+|               | #### Edward Awh    |
+|               | #### Edward Vogel  | 
 
-## Post-docs
+
+## Post-doc
 
 #### Megan deBettencourt
 
 ## PhD Students
 
-#### Kirsten Adam
-#### Dave Sutterer
 #### Joshua Foster
 #### Nicole Hakim
 #### Colin Quirk
 #### Gisella Diaz
+#### William Thyer
 
 ## Research Specialists
 
@@ -52,23 +53,54 @@ layout: default
 
 ### Former PhD Students
 
+#### Kirsten Adam
+Current position: Post-doc at UCSD
+
+#### David Sutterer
+Current position: Post-doc at Vanderbilt
+
 #### Irida Mance
+Current position: Apple
+
 #### Brittany Dungan
+Current position: Senior UX Researcher at Big Fish Games
+
 #### Keisuke Fukuda
+Current position: Assistant professor at University of Toronto Mississauga
+https://fukudalab.org/
+
 #### Eddie Ester
+Current position: Assistant professor at Florida Atlantic University
+https://www.esterlabfau.com/
+
 #### Trafton Drew
+Current position: Assistant professor at the University of Utah
+http://aval.psych.utah.edu/
+
 #### Andrew McCollough
+Current position: Data Scientist at EdgeRock Technology Partners, A CDI Company
 
 ### Former Masters Students
 
 #### Akiko Ikkai
+Current position: UX Researcher
+
 #### Akina Umemoto
+Current position: Postdoctoral Research Fellow at Toyama University/University of Toronto
+Personal website
+
 #### Miranda Scolari
+Current position: Assistant professor at Texas Tech University
+https://www.depts.ttu.edu/psy/people/mscolari/
+
 #### Maro Machizawa
+Current position:Assistant professor at Hiroshima University
+https://sites.google.com/site/maromachizawa/Home
 
 ### Former Research Specialists
 
 #### Brendan Colson
+Current position: UX Researcher
 
 ### Former Undergraduate Research Assistants 
 
