@@ -27,7 +27,7 @@ layout: default
   </td>
   <td>
     <strong>Edward Vogel</strong><br><br>
-    <span style='line-height:15px'>
+    <span style='line-height:1.2em'>
       <p>Professor</p>
       <p>Department of Psychology and Institute for Mind and Biology</p>
       <p>University of Chicago</p>
