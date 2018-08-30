@@ -4,12 +4,38 @@ layout: default
 
 # People
 
+## Principal Investigators
 
-| ## Principal Investigators         |
-| ------------- | ------------------ |
-|               | #### Edward Awh    |
-|               | #### Edward Vogel  | 
-
+<table>
+  <tr>
+  <td>
+    <img src="/files/images/awh.jpg" style="width:200px"/>
+  </td>
+  <td>
+    <strong>Edward Awh</strong><br><br>
+    <span style='line-height:1.2em'>
+      <p>Professor</p>
+      <p>Department of Psychology and Institute for Mind and Biology</p>
+      <p>University of Chicago</p>
+      <a href='https://imb.uchicago.edu/directory/edward-awh-phd'>Faculty Page</a>
+    </span>
+  </td>
+  </tr>
+  <tr>
+  <td>
+    <img src="/files/images/vogel.jpg" style="width:200px"/>
+  </td>
+  <td>
+    <strong>Edward Vogel</strong><br><br>
+    <span style='line-height:15px'>
+      <p>Professor</p>
+      <p>Department of Psychology and Institute for Mind and Biology</p>
+      <p>University of Chicago</p>
+      <a href='https://imb.uchicago.edu/directory/edward-vogel-phd'>Faculty Page</a>
+    </span>
+  </td>
+  </tr>
+</table>
 
 ## Post-doc
 
