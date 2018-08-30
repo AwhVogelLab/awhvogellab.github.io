@@ -12,6 +12,14 @@ If you want to add a page, you just have to make a new markdown (.md) file. You 
 
 If you want to add a photo or a paper to an existing page, just copy the syntax that is present. Make sure you place your file in the appropriate folder. Commit your changes and you are done!
 
+### Testing Changes
+
+If you are making bigger changes and you want to see how they look before commiting them to the live site, check out this link for how to run the site locally:
+
+https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/
+
+After setting this up you will be able to see any changes you make in real time without having to commit anything. It can be a bit tricky to setup so ask if you need help.
+
 ### Committing changes
 
 Whenever you want to make a change, you will have to commit changes in order for them to go live. To this, you will need push access on the lab organization. Talk to someone who has it already to get this set up. Then run the following command to get a copy of the files in your working directory:
