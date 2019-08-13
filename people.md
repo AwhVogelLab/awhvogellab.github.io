@@ -109,7 +109,7 @@ Current position: Post-doc at BU
 [Personal website](https://joshuajfoster.github.io/)
 
 **Kirsten Adam**  
-Current position: Post-doc at UCSD
+Current position: Post-doc at UCSD  
 [Personal website](https://kirsten-adam.com/)
 
 **David Sutterer**  
