@@ -6,18 +6,18 @@ layout: default
 
 ## Principal Investigators
 
-<img align="left" width="200" margin-left="20px" margin-right="20px" src="/files/images/awh.jpg" >**Ed Awh** <br>  
-Professor  
-Department of Psychology and Institute for Mind and Biology  
-University of Chicago  <br>  
+<img align="left" width="200" src="/files/images/awh.jpg" >   **Ed Awh** <br>  
+   Professor  
+   Department of Psychology and Institute for Mind and Biology  
+   University of Chicago  <br>  
 [Faculty Page](https://imb.uchicago.edu/directory/edward-awh-phd)
 
 ---
 
-<img align="left" width="200" margin-left="20px" margin-right="20px" src="/files/images/vogel.jpg">**Ed Vogel** <br>  
-Professor  
-Department of Psychology and Institute for Mind and Biology  
-University of Chicago  <br>  
+<img align="left" width="200" margin-left="20px" margin-right="20px" src="/files/images/vogel.jpg">   **Ed Vogel** <br>  
+   Professor  
+   Department of Psychology and Institute for Mind and Biology  
+   University of Chicago  <br>  
 [Faculty Page](https://imb.uchicago.edu/directory/edward-vogel-phd)
 
 ## Post-docs
