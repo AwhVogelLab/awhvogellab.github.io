@@ -27,6 +27,7 @@ University of Chicago  <br>
 [Personal website](http://home.uchicago.edu/~debetten/)
 <br>  
 <br>  
+
 ---
 
 <img align="left" width="200" src="/files/images/ngiam.jpg">**William Ngiam** <br>  
@@ -42,6 +43,8 @@ University of Chicago  <br>
 Personal website
 <br>  
 <br>  
+<br>  
+
 ---
 
 <img align="left" width="200" src="/files/images/quirk.png">**Colin Quirk** <br>
@@ -49,15 +52,20 @@ Personal website
 [Personal website](http://colinquirk.com/)
 <br>  
 <br>  
+<br>  
+
 ---
 
 <img align="left" width="200" src="/files/images/squares.png">**Gisella Diaz** <br>
 <br>  
 <br>  
 <br>  
+<br>  
+
 ---
 
 <img align="left" width="200" src="/files/images/squares.png">**William Thyer** <br>
+<br>  
 <br>  
 <br>  
 <br>  
