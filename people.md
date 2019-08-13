@@ -110,6 +110,7 @@ Current position: Post-doc at BU
 
 **Kirsten Adam**  
 Current position: Post-doc at UCSD
+[Personal website](https://kirsten-adam.com/)
 
 **David Sutterer**  
 Current position: Post-doc at Vanderbilt
