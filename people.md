@@ -6,61 +6,61 @@ layout: default
 
 ## Principal Investigators
 
-<img align="left" width="200" src="/files/images/awh.jpg">**Ed Awh** <br></br>
+<img align="left" width="200" src="/files/images/awh.jpg">**Ed Awh** <br>  
 Professor  
 Department of Psychology and Institute for Mind and Biology  
-University of Chicago  <br></br>
+University of Chicago  <br>  
 [Faculty Page](https://imb.uchicago.edu/directory/edward-awh-phd)
 
 ---
 
-<img align="left" width="200" src="/files/images/vogel.jpg">**Ed Vogel** <br></br>
+<img align="left" width="200" src="/files/images/vogel.jpg">**Ed Vogel** <br>  
 Professor  
 Department of Psychology and Institute for Mind and Biology  
-University of Chicago  <br></br>
+University of Chicago  <br>  
 [Faculty Page](https://imb.uchicago.edu/directory/edward-vogel-phd)
 
 ## Post-docs
 
-<img align="left" width="200" src="/files/images/debettencourt.jpg">**Megan deBettencourt** <br></br>
-<br></br>
+<img align="left" width="200" src="/files/images/debettencourt.jpg">**Megan deBettencourt** <br>  
+<br>  
 [Personal website](http://home.uchicago.edu/~debetten/)
-<br></br>
-<br></br>
+<br>  
+<br>  
 ---
 
-<img align="left" width="200" src="/files/images/ngiam.jpg">**William Ngiam** <br></br>
-<br></br>
+<img align="left" width="200" src="/files/images/ngiam.jpg">**William Ngiam** <br>  
+<br>  
 [Personal website](https://williamngiam.github.io/)
-<br></br>
-<br></br>
+<br>  
+<br>  
 
 ## PhD Students
 
-<img align="left" width="200" src="/files/images/hakim.jpg">**Nicole Hakim** <br></br>
-<br></br>
+<img align="left" width="200" src="/files/images/hakim.jpg">**Nicole Hakim** <br>  
+<br>  
 Personal website
-<br></br>
-<br></br>
+<br>  
+<br>  
 ---
 
-<img align="left" width="200" src="/files/images/quirk.png">**Colin Quirk** <br></br>
-<br></br>
+<img align="left" width="200" src="/files/images/quirk.png">**Colin Quirk** <br>
+<br>  
 [Personal website](http://colinquirk.com/)
-<br></br>
-<br></br>
+<br>  
+<br>  
 ---
 
-<img align="left" width="200" src="/files/images/square.png">**Gisella Diaz** <br></br>
-<br></br>
-<br></br>
-<br></br>
+<img align="left" width="200" src="/files/images/squares.png">**Gisella Diaz** <br>
+<br>  
+<br>  
+<br>  
 ---
 
-<img align="left" width="200" src="/files/images/squares.png">**William Thyer** <br></br>
-<br></br>
-<br></br>
-<br></br>
+<img align="left" width="200" src="/files/images/squares.png">**William Thyer** <br>
+<br>  
+<br>  
+<br>  
 
 ## Research Specialists
 
