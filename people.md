@@ -140,7 +140,7 @@ Current position: Data Scientist at EdgeRock Technology Partners, A CDI Company
 **Akiko Ikkai**  
 Current position: UX Researcher
 
-**Akina Umemoto** 
+**Akina Umemoto**  
 Current position: Postdoctoral Research Fellow at Toyama University/University of Toronto  
 [Personal website](https://www.researchgate.net/profile/Akina_Umemoto)
 
