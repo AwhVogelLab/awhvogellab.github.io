@@ -6,7 +6,7 @@ layout: default
 
 ## Principal Investigators
 
-<img align="left" width="200" margin-right="7px" src="/files/images/awh.jpg" >**Ed Awh** <br>  
+<img align="left" width="200" margin-left="20px" margin-right="20px" src="/files/images/awh.jpg" >**Ed Awh** <br>  
 Professor  
 Department of Psychology and Institute for Mind and Biology  
 University of Chicago  <br>  
@@ -14,7 +14,7 @@ University of Chicago  <br>
 
 ---
 
-<img align="left" width="200" margin-right="7px" src="/files/images/vogel.jpg">**Ed Vogel** <br>  
+<img align="left" width="200" margin-left="20px" margin-right="20px" src="/files/images/vogel.jpg">**Ed Vogel** <br>  
 Professor  
 Department of Psychology and Institute for Mind and Biology  
 University of Chicago  <br>  
