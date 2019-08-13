@@ -22,7 +22,7 @@ layout: default
 
 ## Post-docs
 
-<img align="left" width="200" margin-right="7px" src="/files/images/debettencourt.jpg">**Megan deBettencourt** <br>  
+[Megan](/files/images/debettencourt.jpg){: .image-left}**Megan deBettencourt** <br>  
 <br>  
 [Personal website](http://home.uchicago.edu/~debetten/)
 <br>  
