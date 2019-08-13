@@ -6,18 +6,18 @@ layout: default
 
 ## Principal Investigators
 
-<img align="left" width="200" src="/files/images/awh.jpg" >   **Ed Awh** <br>  
-   Professor  
-   Department of Psychology and Institute for Mind and Biology  
-   University of Chicago  <br>  
+![Awh](/files/images/awh.jpg){: .image-left}**Ed Awh** <br>  
+Professor  
+Department of Psychology and Institute for Mind and Biology  
+University of Chicago  <br>  
 [Faculty Page](https://imb.uchicago.edu/directory/edward-awh-phd)
 
 ---
 
-<img align="left" width="200" margin-left="20px" margin-right="20px" src="/files/images/vogel.jpg">   **Ed Vogel** <br>  
-   Professor  
-   Department of Psychology and Institute for Mind and Biology  
-   University of Chicago  <br>  
+![Vogel](/files/images/vogel.jpg){: .image-left}**Ed Vogel** <br>  
+Professor  
+Department of Psychology and Institute for Mind and Biology  
+University of Chicago  <br>  
 [Faculty Page](https://imb.uchicago.edu/directory/edward-vogel-phd)
 
 ## Post-docs
@@ -29,8 +29,7 @@ layout: default
 <br>  
 
 ---
-
-<img align="left" width="200" margin-right="7px" src="/files/images/ngiam.jpg">**William Ngiam** <br>  
+![Will](/files/images/ngiam.jpg){: .image-left}**William Ngiam** <br>  
 <br>  
 [Personal website](https://williamngiam.github.io/)
 <br>  
@@ -38,7 +37,7 @@ layout: default
 
 ## PhD Students
 
-<img align="left" width="200" src="/files/images/hakim.jpg">**Nicole Hakim** <br>  
+![Nicole](/files/images/hakim.jpg){: .image-left}**Nicole Hakim** <br>  
 <br>  
 Personal website
 <br>  
@@ -47,7 +46,7 @@ Personal website
 
 ---
 
-<img align="left" width="200" src="/files/images/quirk.png">**Colin Quirk** <br>
+![Colin](/files/images/quirk.jpg){: .image-left}**Colin Quirk** <br>
 <br>  
 [Personal website](http://colinquirk.com/)
 <br>  
@@ -56,7 +55,7 @@ Personal website
 
 ---
 
-<img align="left" width="200" src="/files/images/squares.png">**Gisella Diaz** <br>
+![Gisella](/files/images/squares.png){: .image-left}**Gisella Diaz** <br>
 <br>  
 <br>  
 <br>  
@@ -64,7 +63,8 @@ Personal website
 
 ---
 
-<img align="left" width="200" src="/files/images/squares.png">**William Thyer** <br>
+
+![Will](/files/images/squares.png){: .image-left}**William Thyer** <br>
 <br>  
 <br>  
 <br>  
