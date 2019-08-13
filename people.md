@@ -66,12 +66,47 @@ layout: default
 
 ## PhD Students
 
-#### Nicole Hakim
-#### Colin Quirk
-[Personal website](http://colinquirk.com/)
-
-#### Gisella Diaz
-#### William Thyer
+<table>
+  <tr>
+  <td>
+    <img src="/files/images/hakim.jpg" style="width:200px"/>
+  </td>
+  <td>
+    <strong>Nicole Hakim</strong><br><br>
+    <span style='line-height:1.2em'>
+    </span>
+  </td>
+  </tr>
+  <tr>
+  <td>
+    <img src="/files/images/quirk.png" style="width:200px"/>
+  </td>
+  <td>
+    <strong>Colin Quirk</strong><br><br>
+    <span style='line-height:1.2em'>
+      <a href='http://colinquirk.com/'>Personal website</a>
+    </span>
+  </td>
+  </tr>
+  <tr>
+  <td>
+  </td>
+  <td>
+    <strong>Gisella Diaz</strong><br><br>
+    <span style='line-height:1.2em'>
+    </span>
+  </td>
+  </tr>
+    <tr>
+  <td>
+  </td>
+  <td>
+    <strong>William Thyer</strong><br><br>
+    <span style='line-height:1.2em'>
+    </span>
+  </td>
+  </tr>
+</table>
 
 ## Research Specialists
 
