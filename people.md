@@ -22,7 +22,7 @@ layout: default
 
 ## Post-docs
 
-[Megan](/files/images/debettencourt.jpg){: .image-left}**Megan deBettencourt** <br>  
+!(/files/images/debettencourt.jpg){: .image-left}**Megan deBettencourt** <br>  
 <br>  
 [Personal website](http://home.uchicago.edu/~debetten/)
 <br>  
