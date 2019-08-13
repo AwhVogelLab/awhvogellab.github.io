@@ -46,7 +46,7 @@ Personal website
 
 ---
 
-![Colin](/files/images/quirk.jpg){: .image-left}**Colin Quirk** <br>
+![Colin](/files/images/quirk.png){: .image-left}**Colin Quirk** <br>
 <br>  
 [Personal website](http://colinquirk.com/)
 <br>  
