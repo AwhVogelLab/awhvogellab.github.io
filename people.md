@@ -133,17 +133,17 @@ Current position: Post-doc, Columbia University
 [Personal website](https://www.erengunseli.com/)
 
 **Roy Luria**  
-Current position: Professor, Tel Aviv University
+Current position: Professor, Tel Aviv University  
 [Personal website](http://people.socsci.tau.ac.il/mu/royluria/)
 
 **Hiroyuki Tsubomi**  
-Current position: Associate Professor, University of Toyama
+Current position: Associate Professor, University of Toyama  
 [Personal website](https://sites.google.com/site/htsubomi/)
 
 ### Former PhD Students
 
 **Joshua Foster**  
-Current position: Post-doc at BU
+Current position: Post-doc at BU  
 [Personal website](https://joshuajfoster.github.io/)
 
 **Kirsten Adam**  
@@ -159,15 +159,15 @@ Current position: Apple
 Current position: Senior UX Researcher at Big Fish Games
 
 **Keisuke Fukuda**  
-Current position: Assistant professor at University of Toronto Mississauga
+Current position: Assistant professor at University of Toronto Mississauga  
 [Lab website](https://fukudalab.org/)
 
 **Eddie Ester**  
-Current position: Assistant professor at Florida Atlantic University
+Current position: Assistant professor at Florida Atlantic University  
 [Lab website](https://www.esterlabfau.com/)
 
 **Trafton Drew**  
-Current position: Assistant professor at the University of Utah
+Current position: Assistant professor at the University of Utah  
 [Lab website](http://aval.psych.utah.edu/)
 
 **Andrew McCollough**  
@@ -179,15 +179,15 @@ Current position: Data Scientist at EdgeRock Technology Partners, A CDI Company
 Current position: UX Researcher
 
 **Akina Umemoto** 
-Current position: Postdoctoral Research Fellow at Toyama University/University of Toronto
+Current position: Postdoctoral Research Fellow at Toyama University/University of Toronto  
 [Personal website](https://www.researchgate.net/profile/Akina_Umemoto)
 
 **Miranda Scolari**  
-Current position: Assistant professor at Texas Tech University
+Current position: Assistant professor at Texas Tech University  
 [Personal website](https://www.depts.ttu.edu/psy/people/mscolari/)
 
 **Maro Machizawa**  
-Current position:Assistant professor at Hiroshima University
+Current position:Assistant professor at Hiroshima University  
 [Personal website](https://sites.google.com/site/maromachizawa/Home)
 
 ### Former Research Specialists
