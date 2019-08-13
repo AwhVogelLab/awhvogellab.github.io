@@ -37,7 +37,7 @@ layout: default
   </tr>
 </table>
 
-## Post-doc
+## Post-docs
 
 <table>
   <tr>
