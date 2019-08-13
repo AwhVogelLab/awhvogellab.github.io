@@ -6,107 +6,61 @@ layout: default
 
 ## Principal Investigators
 
-<table>
-  <tr>
-  <td>
-    <img src="/files/images/awh.jpg" style="width:200px"/>
-  </td>
-  <td>
-    <strong>Edward Awh</strong><br><br>
-    <span style='line-height:1.2em'>
-      <p>Professor</p>
-      <p>Department of Psychology and Institute for Mind and Biology</p>
-      <p>University of Chicago</p>
-      <a href='https://imb.uchicago.edu/directory/edward-awh-phd'>Faculty Page</a>
-    </span>
-  </td>
-  </tr>
-  <tr>
-  <td>
-    <img src="/files/images/vogel.jpg" style="width:200px"/>
-  </td>
-  <td>
-    <strong>Edward Vogel</strong><br><br>
-    <span style='line-height:1.2em'>
-      <p>Professor</p>
-      <p>Department of Psychology and Institute for Mind and Biology</p>
-      <p>University of Chicago</p>
-      <a href='https://imb.uchicago.edu/directory/edward-vogel-phd'>Faculty Page</a>
-    </span>
-  </td>
-  </tr>
-</table>
+<img align="left" width="200" src="/files/images/awh.jpg">**Ed Awh** <br></br>
+Professor  
+Department of Psychology and Institute for Mind and Biology  
+University of Chicago  <br></br>
+[Faculty Page](https://imb.uchicago.edu/directory/edward-awh-phd)
+
+---
+
+<img align="left" width="200" src="/files/images/vogel.jpg">**Ed Vogel** <br></br>
+Professor  
+Department of Psychology and Institute for Mind and Biology  
+University of Chicago  <br></br>
+[Faculty Page](https://imb.uchicago.edu/directory/edward-vogel-phd)
 
 ## Post-docs
 
-<table>
-  <tr>
-  <td>
-    <img src="/files/images/debettencourt.jpg" style="width:200px"/>
-  </td>
-  <td>
-    <strong>Megan deBettencourt</strong><br><br>
-    <span style='line-height:1.2em'>
-      <a href='http://home.uchicago.edu/~debetten/'>Personal website</a>
-    </span>
-  </td>
-  </tr>
-  <tr>
-  <td>
-    <img src="/files/images/ngiam.jpg" style="width:200px"/>
-  </td>
-  <td>
-    <strong>William Ngiam</strong><br><br>
-    <span style='line-height:1.2em'>
-      <a href='https://williamngiam.github.io/'>Personal website</a>
-    </span>
-  </td>
-  </tr>
-</table>
+<img align="left" width="200" src="/files/images/debettencourt.jpg">**Megan deBettencourt** <br></br>
+<br></br>
+[Personal website](http://home.uchicago.edu/~debetten/)
+<br></br>
+<br></br>
+---
+
+<img align="left" width="200" src="/files/images/ngiam.jpg">**William Ngiam** <br></br>
+<br></br>
+[Personal website](https://williamngiam.github.io/)
+<br></br>
+<br></br>
 
 ## PhD Students
 
-<table>
-  <tr>
-  <td>
-    <img src="/files/images/hakim.jpg" style="width:200px"/>
-  </td>
-  <td>
-    <strong>Nicole Hakim</strong><br><br>
-    <span style='line-height:1.2em'>
-    </span>
-  </td>
-  </tr>
-  <tr>
-  <td>
-    <img src="/files/images/quirk.png" style="width:200px"/>
-  </td>
-  <td>
-    <strong>Colin Quirk</strong><br><br>
-    <span style='line-height:1.2em'>
-      <a href='http://colinquirk.com/'>Personal website</a>
-    </span>
-  </td>
-  </tr>
-  <tr>
-  <td>
-  </td>
-  <td>
-    <strong>Gisella Diaz</strong><br><br>
-    <span style='line-height:1.2em'>
-    </span>
-  </td>
-  </tr>
-    <tr>
-  <td>
-  </td>
-  <td>
-    <strong>William Thyer</strong><br><br>
-    <span style='line-height:1.2em'>
-    </span>
-  </td>
-  </tr>
-</table>
+<img align="left" width="200" src="/files/images/hakim.jpg">**Nicole Hakim** <br></br>
+<br></br>
+Personal website
+<br></br>
+<br></br>
+---
+
+<img align="left" width="200" src="/files/images/quirk.png">**Colin Quirk** <br></br>
+<br></br>
+[Personal website](http://colinquirk.com/)
+<br></br>
+<br></br>
+---
+
+<img align="left" width="200" src="/files/images/square.png">**Gisella Diaz** <br></br>
+<br></br>
+<br></br>
+<br></br>
+---
+
+<img align="left" width="200" src="/files/images/squares.png">**William Thyer** <br></br>
+<br></br>
+<br></br>
+<br></br>
 
 ## Research Specialists
 
