@@ -39,11 +39,30 @@ layout: default
 
 ## Post-doc
 
-#### Megan deBettencourt
-[Personal website](http://home.uchicago.edu/~debetten/)
-
-#### William Ngiam
-[Personal website](https://williamngiam.github.io/)
+<table>
+  <tr>
+  <td>
+    <img src="/files/images/debettencourt.jpg" style="width:200px"/>
+  </td>
+  <td>
+    <strong>Megan deBettencourt</strong><br><br>
+    <span style='line-height:1.2em'>
+      <a href='http://home.uchicago.edu/~debetten/'>Personal website</a>
+    </span>
+  </td>
+  </tr>
+  <tr>
+  <td>
+    <img src="/files/images/ngiam.jpg" style="width:200px"/>
+  </td>
+  <td>
+    <strong>William Ngiam</strong><br><br>
+    <span style='line-height:1.2em'>
+      <a href='https://williamngiam.github.io/'>Personal website</a>
+    </span>
+  </td>
+  </tr>
+</table>
 
 ## PhD Students
 
