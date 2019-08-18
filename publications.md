@@ -12,7 +12,7 @@ Ngiam WXQ, Brissenden JA & Awh E. (2019). “Memory compression” effects in vi
 
 Sutterer DW, Foster JJ, Serences JT, Vogel EK & Awh E (2019) Alpha-band oscillations track the retrieval of precise spatial representations from long-term memory. *Journal of Neurophysiology*.
 
-deBettencourt MT, Keene PA, Awh E, Vogel EK (in press). Real-time triggering reveals concurrent lapses of attention and working memory. *Nature Human Behaviour*.
+deBettencourt MT, Keene PA, Awh E, Vogel EK (2019). Real-time triggering reveals concurrent lapses of attention and working memory. *Nature Human Behaviour*.
 
 Sutterer DW*, Foster JJ*, Adam KCS, Vogel EK, & Awh E (2019). Item-specific delay activity demonstrates concurrent storage of multiple active neural representations in working memory. *PLoS Biology*.
 
