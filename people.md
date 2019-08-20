@@ -70,7 +70,7 @@ University of Chicago  <br>
 <br>  
 <br>  
 
-
+---
 
 ## Research Specialists
 
