@@ -64,7 +64,7 @@ University of Chicago  <br>
 ---
 
 
-![Will](/files/images/squares.png){: .image-left}**William Thyer** <br>
+![Will](/files/images/thyer.jpg){: .image-left}**William Thyer** <br>
 <br>  
 <br>  
 <br>  
