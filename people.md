@@ -29,9 +29,11 @@ University of Chicago  <br>
 <br>  
 
 ---
-![Will](/files/images/ngiam.jpg){: .image-left}**William Ngiam** <br>  
+![Ngiam](/files/images/ngiam.jpg){: .image-left}**William Ngiam** <br>  
 <br>  
 [Personal website](https://williamngiam.github.io/)
+<br>
+[Twitter](https://twitter.com/will_ngiam/)
 <br>  
 <br>  
 
@@ -87,6 +89,7 @@ University of Chicago  <br>
 **Yasemin Hasimoglu**, 2018–  
 **Paul Keene**, 2018–  
 **Itzel Velazquez**, 2019-
+**Krystian Loetscher**, 2019-
 
 ## Alumni
 
