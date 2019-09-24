@@ -88,7 +88,7 @@ University of Chicago  <br>
 **Mei Arditi**, 2018–  
 **Yasemin Hasimoglu**, 2018–  
 **Paul Keene**, 2018–  
-**Itzel Velazquez**, 2019-
+**Itzel Velazquez**, 2019-  
 **Krystian Loetscher**, 2019-
 
 ## Alumni
