@@ -10,7 +10,7 @@ Hakim N, Feldmann-Wüstefeld T, Awh E, Vogel EK (submitted). “Perturbing neura
 ### 2019
 Ngiam WXQ, Brissenden JA & Awh E. (2019). “Memory compression” effects in visual working memory are contingent on explicit long-term memory. *Journal of Experimental Psychology: General*. [PDF] (??) | [Data](https://osf.io/9c4rj/)
 
-Sutterer DW, Foster JJ, Serences JT, Vogel EK & Awh E (2019) Alpha-band oscillations track the retrieval of precise spatial representations from long-term memory. *Journal of Neurophysiology*. [PDF] (??)
+Sutterer DW, Foster JJ, Serences JT, Vogel EK & Awh E (2019) Alpha-band oscillations track the retrieval of precise spatial representations from long-term memory. *Journal of Neurophysiology*. [PDF](/files/pdfs/sutterer_2019_alpha-band)
 
 deBettencourt MT, Keene PA, Awh E, Vogel EK (2019). Real-time triggering reveals concurrent lapses of attention and working memory. *Nature Human Behaviour*. [PDF] (??) | [Journal Website](https://www.nature.com/articles/s41562-019-0606-6) | [Data](https://osf.io/hfeu8/)
 
