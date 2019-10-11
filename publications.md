@@ -2,7 +2,13 @@
 layout: default
 ---
 
-[2019](#2019) \| [2018](#2018) \| [2017](#2017) \| [2016](#2016) \| [2015](#2015) \| [2014](#2014) \| [2013](#2013) \| [2012](#2012) \| [2011](#2011) \| [2010](#2010) \| [2009](#2009) \|
+#Publications
+
+##Copyright Notice
+
+The documents distributed here have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author’s copyright. These works may not be reposted without the explicit permission of the copyright holder. (Notice borrowed from Dave Plaut/Randy O’Reilly)
+
+Year: [2019](#2019) \| [2018](#2018) \| [2017](#2017) \| [2016](#2016) \| [2015](#2015) \| [2014](#2014) \| [2013](#2013) \| [2012](#2012) \| [2011](#2011) \| [2010](#2010) \| [2009](#2009) \| [Later](#2008)
 
 ### Pre-prints
 Hakim N, Feldmann-Wüstefeld T, Awh E, Vogel EK (submitted). “Perturbing neural representations of working memory with task-irrelevant interruption. [BioRxiv](https://www.biorxiv.org/content/10.1101/716613v1) \| [Data](https://osf.io/g5ahn/?view_only=4dd5c22fdcb6457689d73d3bf892b5cb)
