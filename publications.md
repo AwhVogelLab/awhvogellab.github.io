@@ -2,53 +2,51 @@
 layout: default
 ---
 
-For links to pdf copies, go [here](https://wordpress.com/page/awhvogellab.com/12)
-
 ### Pre-prints
-Hakim N, Feldmann-Wüstefeld T, Awh E, Vogel EK (submitted). “Perturbing neural representations of working memory with task-irrelevant interruption. [BioRxiv](https://www.biorxiv.org/content/10.1101/716613v1) | [Data](https://osf.io/g5ahn/?view_only=4dd5c22fdcb6457689d73d3bf892b5cb)
+Hakim N, Feldmann-Wüstefeld T, Awh E, Vogel EK (submitted). “Perturbing neural representations of working memory with task-irrelevant interruption. [BioRxiv](https://www.biorxiv.org/content/10.1101/716613v1) \| [Data](https://osf.io/g5ahn/?view_only=4dd5c22fdcb6457689d73d3bf892b5cb)
 
 ### 2019
-Ngiam WXQ, Brissenden JA & Awh E. (2019). “Memory compression” effects in visual working memory are contingent on explicit long-term memory. *Journal of Experimental Psychology: General*. [PDF] (??) | [Data](https://osf.io/9c4rj/)
+Ngiam WXQ, Brissenden JA & Awh E. (2019). “Memory compression” effects in visual working memory are contingent on explicit long-term memory. *Journal of Experimental Psychology: General*. [PDF] (??) \| [Data](https://osf.io/9c4rj/)
 
 Sutterer DW, Foster JJ, Serences JT, Vogel EK & Awh E (2019) Alpha-band oscillations track the retrieval of precise spatial representations from long-term memory. *Journal of Neurophysiology*. [PDF](/files/pdfs/sutterer_2019_alpha-band.pdf)
 
-deBettencourt MT, Keene PA, Awh E, Vogel EK (2019). Real-time triggering reveals concurrent lapses of attention and working memory. *Nature Human Behaviour*. [PDF](/files/pdfs/debettencourt_2019_real-time.pdf) | [Journal Website](https://www.nature.com/articles/s41562-019-0606-6) | [Data](https://osf.io/hfeu8/)
+deBettencourt MT, Keene PA, Awh E, Vogel EK (2019). Real-time triggering reveals concurrent lapses of attention and working memory. *Nature Human Behaviour*. [PDF](/files/pdfs/debettencourt_2019_real-time.pdf) \| [Journal Website](https://www.nature.com/articles/s41562-019-0606-6) \| [Data](https://osf.io/hfeu8/)
 
-Sutterer DW*, Foster JJ*, Adam KCS, Vogel EK, & Awh E (2019). Item-specific delay activity demonstrates concurrent storage of multiple active neural representations in working memory. *PLoS Biology*. [PDF](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000239) | [Data](https://osf.io/47cmn/)
+Sutterer DW*, Foster JJ*, Adam KCS, Vogel EK, & Awh E (2019). Item-specific delay activity demonstrates concurrent storage of multiple active neural representations in working memory. *PLoS Biology*. [PDF](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000239) \| [Data](https://osf.io/47cmn/)
 
-Hakim N, Adam KCS, Gunseli E, Awh E, & Vogel EK (2019). Dissecting the Neural Focus of Attention Reveals Distinct Processes for Spatial Attention and Object-Based Storage in Visual Working Memory. *Psychological Science*. [PDF](https://journals.sagepub.com/eprint/PnKK9CnY97qT32WSGxWa/full) | [Data](https://osf.io/ws3j9/?view_only=40b7f0018df44d5a862b51601d4599ed)
+Hakim N, Adam KCS, Gunseli E, Awh E, & Vogel EK (2019). Dissecting the Neural Focus of Attention Reveals Distinct Processes for Spatial Attention and Object-Based Storage in Visual Working Memory. *Psychological Science*. [PDF](https://journals.sagepub.com/eprint/PnKK9CnY97qT32WSGxWa/full) \| [Data](https://osf.io/ws3j9/?view_only=40b7f0018df44d5a862b51601d4599ed)
 
 Scolari M & Awh E (2019). Object-based biased competition during covert spatial orienting. *Attention, Perception, & Psychophysics*. [PDF](/files/pdfs/Scolari_2019_Object-based.pdf)
 
 Foster JJ & Awh E (2019). The role of alpha oscillations in spatial attention: Limited evidence for a suppression account. *Current Opinion in Psychology*. [PDF](/files/pdfs/Foster_2019_Alpha-oscillations.pdf)
 
 ### 2018
-Feldmann-Wüstefeld T, Vogel EK & Awh E (2018) Contralateral Delay Activity reflects working memory storage, not the current focus of spatial attention within visual working memory. *Journal of Cognitive Neuroscience*. [PDF](/files/pdfs/feldmann-wustefeld_2018_Cotralateral.pdf) | [Data](https://osf.io/7fyuc/)
+Feldmann-Wüstefeld T, Vogel EK & Awh E (2018) Contralateral Delay Activity reflects working memory storage, not the current focus of spatial attention within visual working memory. *Journal of Cognitive Neuroscience*. [PDF](/files/pdfs/feldmann-wustefeld_2018_Cotralateral.pdf) \| [Data](https://osf.io/7fyuc/)
 
 Hakim N & Vogel EK (2018) Phase-coding memories in mind. *PLoS Biology*. [PDF](/files/pdfs/hakim_2018_phase-coding.pdf)
 
 Sprague TC, Adam KCS, Foster JJ, Rahmati M, Sutterer DW & Vo VA (2018) Inverted encoding models assay population-level stimulus representations, not single-unit neural tuning. *eNeuro*. [PDF](https://www.eneuro.org/content/5/3/ENEURO.0098-18.2018)
 
-Feldmann-Wüstefeld T & Vogel EK (2018) Neural Evidence for the Contribution of Active Suppression During Working Memory Filtering. *Cerebral Cortex*. [PDF](/files/pdfs/feldmann-wustefeld_2018_Neural-evidence.pdf) | [Data]https://osf.io/a65xz/
+Feldmann-Wüstefeld T & Vogel EK (2018) Neural Evidence for the Contribution of Active Suppression During Working Memory Filtering. *Cerebral Cortex*. [PDF](/files/pdfs/feldmann-wustefeld_2018_Neural-evidence.pdf) \| [Data]https://osf.io/a65xz/
 
-Adam KCS, Robison MK, & Vogel EK (2018) Contralateral delay activity tracks fluctuations in working memory performance. *Journal of Cognitive Neuroscience*. [PDF](/files/pdf/adam_2018_Contralateral.pdf) | [Data](https://osf.io/8xuk3/)
+Adam KCS, Robison MK, & Vogel EK (2018) Contralateral delay activity tracks fluctuations in working memory performance. *Journal of Cognitive Neuroscience*. [PDF](/files/pdf/adam_2018_Contralateral.pdf) \| [Data](https://osf.io/8xuk3/)
 
 Huang, L & Awh E (2018) Chunking in working memory via content-free labels. *Scientific Reports*. [PDF](/files/pdf/huang_2018_chunking.pdf)
 
-van Moorselaar D, Foster JJ, Sutterer DW, Theeuwes J, Olivers CNL & Awh E (2018) Spatially selective alpha oscillations reveal moment-by-moment trade-offs between working memory and attention. *Journal of Cognitive Neuroscience*. [PDF](/files/pdfs/van-moorselaar_2018_spatially-selective.pdf) | [Data](https://osf.io/56rzh/)
+van Moorselaar D, Foster JJ, Sutterer DW, Theeuwes J, Olivers CNL & Awh E (2018) Spatially selective alpha oscillations reveal moment-by-moment trade-offs between working memory and attention. *Journal of Cognitive Neuroscience*. [PDF](/files/pdfs/van-moorselaar_2018_spatially-selective.pdf) \| [Data](https://osf.io/56rzh/)
 
-Xu Z, Adam KCS, Fang X, Vogel EK (2018) The reliability and stability of visual working memory capacity. *Behavior Research Methods*. [PDF](/files/pdfs/xu_2018_reliability.pdf) | [Data](https://osf.io/g7txf/)
+Xu Z, Adam KCS, Fang X, Vogel EK (2018) The reliability and stability of visual working memory capacity. *Behavior Research Methods*. [PDF](/files/pdfs/xu_2018_reliability.pdf) \| [Data](https://osf.io/g7txf/)
 
 ### 2017
 Oberauer K, Sutterer DW, & Awh E (2017) The role of long-term memory in a test of visual working memory: Proactive facilitation but no proactive interference. *Journal of Experimental Psychology: Learning, Memory, and Cognition*. [PDF](/files/pdfs/oberauer_2017_role-of-ltm.pdf)
 
-Adam KCS, Vogel EK, & Awh E (2017) Clear evidence for item limits in visual working memory. *Cognitive Psychology*. [PDF](/files/pdfs/adam_2017_clear-evidence.pdf) | [Data](https://osf.io/kjpnk/) | [Supplemental](/files/pdfs/adam_supplemental_2017.pdf) | [Corrigendum](/files/pdfs/adam_2017_corrigendum.pdf)
+Adam KCS, Vogel EK, & Awh E (2017) Clear evidence for item limits in visual working memory. *Cognitive Psychology*. [PDF](/files/pdfs/adam_2017_clear-evidence.pdf) \| [Data](https://osf.io/kjpnk/) \| [Supplemental](/files/pdfs/adam_supplemental_2017.pdf) \| [Corrigendum](/files/pdfs/adam_2017_corrigendum.pdf)
 
-Foster JJ, Bsales EM, Jaffe RJ, & Awh E (2017) Alpha-band activity reveals spontaneous representations of spatial position in visual working memory. *Current Biology*. [PDF](/files/pdfs/foster_2017_alpha-band.pdf) | [Data](https://osf.io/vw4uc/) | [Research Highlight](https://www.nature.com/articles/nrn.2017.143?WT.ec_id=NRN-201712&spMailingID=55372847&spUserID=NzM5Njg0NjU0NzUS1&spJobID=1282840712&spReportId=MTI4Mjg0MDcxMgS2)
+Foster JJ, Bsales EM, Jaffe RJ, & Awh E (2017) Alpha-band activity reveals spontaneous representations of spatial position in visual working memory. *Current Biology*. [PDF](/files/pdfs/foster_2017_alpha-band.pdf) \| [Data](https://osf.io/vw4uc/) \| [Research Highlight](https://www.nature.com/articles/nrn.2017.143?WT.ec_id=NRN-201712&spMailingID=55372847&spUserID=NzM5Njg0NjU0NzUS1&spJobID=1282840712&spReportId=MTI4Mjg0MDcxMgS2)
 
-Adam KCS & Vogel EK (2017) Confident failures: Lapses of working memory reveal a metacognitive blind spot. *Attention, Perception, & Psychophysics*. [PDF](/files/pdfs/adam_2017_confident-failures.pdf) | [Data](https://osf.io/syv5w/) | [Supplemental](/files/pdfs/adam_supplemental_confident_failures_2017.pdf)
+Adam KCS & Vogel EK (2017) Confident failures: Lapses of working memory reveal a metacognitive blind spot. *Attention, Perception, & Psychophysics*. [PDF](/files/pdfs/adam_2017_confident-failures.pdf) \| [Data](https://osf.io/syv5w/) \| [Supplemental](/files/pdfs/adam_supplemental_confident_failures_2017.pdf)
 
-Foster JJ, Sutterer DW, Serences JT, Vogel EK, Awh E (2017) Alpha-band oscillations enable spatially and temporally resolved tracking of covert spatial attention. *Psychological Science* [PDF](/files/pdfs/foster_2017_covert-spatial-attn.pdf) | [Data](https://osf.io/29nxv/)
+Foster JJ, Sutterer DW, Serences JT, Vogel EK, Awh E (2017) Alpha-band oscillations enable spatially and temporally resolved tracking of covert spatial attention. *Psychological Science* [PDF](/files/pdfs/foster_2017_covert-spatial-attn.pdf) \| [Data](https://osf.io/29nxv/)
 
 ### 2016
 Olivers CNL & Awh E (2016) The capacity to detect synchronous audiovisual events is severely limited: Evidence from mixture modeling. *Journal of Experimental Psychology: Human Perception and Performance*. [PDF](/files/pdfs/olivers_2016_synchronous.pdf)
@@ -57,13 +55,13 @@ Ester EF, Sutterer DW, Serences JT, Awh E (2016) Feature-selective modulations i
 
 Adam KCS & Vogel EK (2016) Tuning in by tuning out distractions. *PNAS*. [PDF](/files/pdfs/adam_2016_tuning.pdf)
 
-Adam KCS & Vogel EK (2016) Reducing failures of working memory with performance feedback. *Psychonomic Bulletin & Review*. [PDF](/files/pdfs/adam_2016_reducing-failures.pdf) | [Data](https://osf.io/nu8jd/) | [Supplemental] (??))
+Adam KCS & Vogel EK (2016) Reducing failures of working memory with performance feedback. *Psychonomic Bulletin & Review*. [PDF](/files/pdfs/adam_2016_reducing-failures.pdf) \| [Data](https://osf.io/nu8jd/) \| [Supplemental](/files/pdfs/adam_supplemental_feedback_2016/pdf)
 
-Foster JJ, Sutterer DW, Serences JT, Vogel EK, Awh E (2016) The topography of alpha-band activity tracks the content of spatial working memory. *Journal of Neurophysiology*. [PDF](/files/pdfs/foster_2016_topography.pdf)| [Data](https://osf.io/bwzfj/)
+Foster JJ, Sutterer DW, Serences JT, Vogel EK, Awh E (2016) The topography of alpha-band activity tracks the content of spatial working memory. *Journal of Neurophysiology*. [PDF](/files/pdfs/foster_2016_topography.pdf)\| [Data](https://osf.io/bwzfj/)
 
 Luria R, Balaban H, Awh E, & Vogel EK (2016) The contralateral delay activity as a neural measure of visual working memory. *Neuroscience & Biobehavioral Reviews*. [PDF](/files/pdfs/luria_2016_cda.pdf)
 
-Sutterer DW & Awh E (2016) Retrieval practice enhances the accessibility but not the quality of memory. *Psychonomic Bulletin & Review*. [PDF](/files/pdfs/sutterer_2016_retrieval-practice.pdf) | [Data](https://osf.io/zfbkr/)
+Sutterer DW & Awh E (2016) Retrieval practice enhances the accessibility but not the quality of memory. *Psychonomic Bulletin & Review*. [PDF](/files/pdfs/sutterer_2016_retrieval-practice.pdf) \| [Data](https://osf.io/zfbkr/)
 
 ### 2015
 Eriksson J, Vogel EK, Lansner A, Bergström F, Nyberg L (2015) Neurocognitive architecture of working memory. *Neuron*. [PDF](/files/pdfs/eriksson_2015_neurocognitive.pdf)
@@ -74,7 +72,7 @@ Belopolsky AV & Awh E (2015) The role of context in volitional control of featur
 
 Unsworth N, Fukuda K, Awh E, Vogel EK (2015) Working memory delay activity predicts individual differences in cognitive abilities. *Journal of Cognitive Neuroscience*. [PDF](/files/pdfs/unsworth_2015_wm-delay.pdf)
 
-Adam KCS, Mance I, Fukuda K, Vogel EK (2015) The contribution of attentional lapses to individual differences in visual working memory capacity. *Journal of Cognitive Neuroscience*. [PDF](/files/pdfs/adam_2015_contribution-attn-lapses.pdf) | [Data](https://osf.io/z9qkw/)
+Adam KCS, Mance I, Fukuda K, Vogel EK (2015) The contribution of attentional lapses to individual differences in visual working memory capacity. *Journal of Cognitive Neuroscience*. [PDF](/files/pdfs/adam_2015_contribution-attn-lapses.pdf) \| [Data](https://osf.io/z9qkw/)
 
 Fukuda, K., Woodman, G. F., & Vogel, E. K. (2015) Individual differences in visual working memory capacity: Contributions of attentional control to storage. *Mechanisms of Sensory Working Memory: Attention and Perfomance XXV*, 105. [Link](https://www.elsevier.com/books/mechanisms-of-sensory-working-memory/jolicoeur/978-0-12-811042-3)
 
@@ -309,6 +307,6 @@ Smith EE, Jonides J, Koeppe RA, Awh E, Schumacher EH, Minoshima S (1995) Spatial
 Awh E, Smith EE, Jonides J (1995) Human rehearsal processes and the frontal lobes: PET evidence. *Structure and functions of the human prefrontal cortex*. (J Grafman, K Holyoak, F Boller, Eds.) Annals of the New York Academy of Sciences [PDF](/files/pdfs/awh_1995_huma-rehearsal-processes.pdf)
 
 ### 1994 – 1993
-Minoshima S, Koeppe RA, Smith EE, Awh E, Jonides J (1994) PET investigations of working memory. *Experimental Medicine* [PDF] (??)
+Minoshima S, Koeppe RA, Smith EE, Awh E, Jonides J (1994) PET investigations of working memory. *Experimental Medicine* 
 
 Jonides J, Smith EE, Koeppe RA, Awh ES, Minoshima S, Mintun MA (1993) Spatial working memory in humans as revealed by PET. *Nature* [PDF](/files/pdfs/jonides_1993_spatial-wm-PET.pdf)
