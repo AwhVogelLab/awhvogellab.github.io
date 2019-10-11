@@ -2,11 +2,13 @@
 layout: default
 ---
 
+[2019](#2019) \| [2018](#2018) \| [2017](#2017) \| [2016](#2016) \| [2015](#2015) \| [2014](#2014) \| [2013](#2013) \| [2012](#2012) \| [2011](#2011) \| [2010](#2010) \| [2009](#2009) \|
+
 ### Pre-prints
 Hakim N, Feldmann-Wüstefeld T, Awh E, Vogel EK (submitted). “Perturbing neural representations of working memory with task-irrelevant interruption. [BioRxiv](https://www.biorxiv.org/content/10.1101/716613v1) \| [Data](https://osf.io/g5ahn/?view_only=4dd5c22fdcb6457689d73d3bf892b5cb)
 
 ### 2019
-Ngiam WXQ, Brissenden JA & Awh E. (2019). “Memory compression” effects in visual working memory are contingent on explicit long-term memory. *Journal of Experimental Psychology: General*. [PDF] (??) \| [Data](https://osf.io/9c4rj/)
+Ngiam WXQ, Brissenden JA & Awh E. (2019). “Memory compression” effects in visual working memory are contingent on explicit long-term memory. *Journal of Experimental Psychology: General*. [PDF](/files/pdfs/ngiam_2019_memory.pdf) \| [Data](https://osf.io/9c4rj/)
 
 Sutterer DW, Foster JJ, Serences JT, Vogel EK & Awh E (2019) Alpha-band oscillations track the retrieval of precise spatial representations from long-term memory. *Journal of Neurophysiology*. [PDF](/files/pdfs/sutterer_2019_alpha-band.pdf)
 
@@ -27,7 +29,7 @@ Hakim N & Vogel EK (2018) Phase-coding memories in mind. *PLoS Biology*. [PDF](/
 
 Sprague TC, Adam KCS, Foster JJ, Rahmati M, Sutterer DW & Vo VA (2018) Inverted encoding models assay population-level stimulus representations, not single-unit neural tuning. *eNeuro*. [PDF](https://www.eneuro.org/content/5/3/ENEURO.0098-18.2018)
 
-Feldmann-Wüstefeld T & Vogel EK (2018) Neural Evidence for the Contribution of Active Suppression During Working Memory Filtering. *Cerebral Cortex*. [PDF](/files/pdfs/feldmann-wustefeld_2018_Neural-evidence.pdf) \| [Data]https://osf.io/a65xz/
+Feldmann-Wüstefeld T & Vogel EK (2018) Neural Evidence for the Contribution of Active Suppression During Working Memory Filtering. *Cerebral Cortex*. [PDF](/files/pdfs/feldmann-wustefeld_2018_Neural-evidence.pdf) \| [Data](https://osf.io/a65xz/)
 
 Adam KCS, Robison MK, & Vogel EK (2018) Contralateral delay activity tracks fluctuations in working memory performance. *Journal of Cognitive Neuroscience*. [PDF](/files/pdf/adam_2018_Contralateral.pdf) \| [Data](https://osf.io/8xuk3/)
 
@@ -206,7 +208,7 @@ Awh E, Barton B, Vogel EK (2007) Visual working memory represents a fixed number
 
 Stevens C & Awh E (2007) Commentary: Specificity, mechanisms, and timing in the study of spatial cognition. *The Emerging Spatial Mind* (J Plumert & JP Spencer, Eds.) Oxford University Press [Link](https://global.oup.com/academic/product/the-emerging-spatial-mind-9780195189223?cc=us&lang=en&)
 
-2006
+### 2006
 Awh E, Armstrong KM, Moore T (2006) Visual and oculomotor selection: links, causes and implications for spatial attention. *Trends in Cognitive Sciences* [PDF](/files/pdfs/awh_2006_visual-oculomotor-selection.pdf)
 
 Awh E, Vogel E, Oh S-H (2006) Interactions between attention and working memory. *Neuroscience* [PDF](/files/pdfs/awh_2006_interactions.pdf)
