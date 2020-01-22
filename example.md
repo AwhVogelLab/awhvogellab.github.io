@@ -13,7 +13,7 @@ There’s multiple types of headers
 ##### Header 5
 ###### Header 6
 
-[Links are easy (Just don’t forget the http).](http://awhvogellab.com)
+[Links are easy (Just don’t forget the http).](https://awhvogellab.com)
 
 An image is like a link to a file with an exclamation point, just stick it in the right folder.
 
