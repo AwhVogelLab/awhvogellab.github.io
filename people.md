@@ -100,7 +100,7 @@ Current position: Lecturer, University of Southampton
 [Personal website](http://feldmann-wuestefeld.de/)
 
 **Eren Günseli**  
-Current position: Post-doc, Columbia University  
+Current position: Assistant Professor, Sabancı University
 [Personal website](https://www.gunselilab.com/)
 
 **Roy Luria**  
