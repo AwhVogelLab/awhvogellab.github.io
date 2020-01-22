@@ -91,7 +91,7 @@ Awh E & Vogel EK (2015) Attention: Feedback focuses a wandering mind. *Nature Ne
 ### 2014
 Foster JJ & Adam KCS (2014) Is feature-based attention always spatially global during visual search? *Journal of Neuroscience* [PDF](/files/pdfs/foster_2014_feature-based-attn.pdf)
 
-Luria R & Vogel EK (2014) Come together, right now: dynamic overwriting of an object’s history through common fate. *Journal of Cognitive Neuroscience* [Link](http://www.mitpressjournals.org/doi/full/10.1162/jocn_a_00584)
+Luria R & Vogel EK (2014) Come together, right now: dynamic overwriting of an object’s history through common fate. *Journal of Cognitive Neuroscience* [Link](https://www.mitpressjournals.org/doi/full/10.1162/jocn_a_00584)
 
 Unsworth N, Fukuda K, Awh E, Vogel EK (2014) Working memory and fluid intelligence: capacity, attention control and secondary memory retrieval. *Cognitive Psychology*. [PDF](/files/pdfs/unsworth_2014_wm-fluid-intelligence.pdf)
 
