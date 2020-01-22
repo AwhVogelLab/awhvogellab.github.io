@@ -99,9 +99,9 @@ University of Chicago  <br>
 Current position: Lecturer, University of Southampton  
 [Personal website](http://feldmann-wuestefeld.de/)
 
-**Eren Gunseli**  
+**Eren Günseli**  
 Current position: Post-doc, Columbia University  
-[Personal website](https://www.erengunseli.com/)
+[Personal website](https://www.gunselilab.com/)
 
 **Roy Luria**  
 Current position: Professor, Tel Aviv University  
