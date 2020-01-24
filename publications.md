@@ -13,12 +13,14 @@ Year: [2019](#2019) \| [2018](#2018) \| [2017](#2017) \| [2016](#2016) \| [2015]
 ### Pre-prints
 Hakim N, Feldmann-Wüstefeld T, Awh E, Vogel EK (submitted). “Perturbing neural representations of working memory with task-irrelevant interruption. [BioRxiv](https://www.biorxiv.org/content/10.1101/716613v1) \| [Data](https://osf.io/g5ahn/?view_only=4dd5c22fdcb6457689d73d3bf892b5cb)
 
+Foster JJ, Bsales EM & Awh E. "Covert spatial attention speeds target individuation". [BioRxiv](https://www.biorxiv.org/content/10.1101/838557v1)
+
 ### 2019
 Ngiam WXQ, Brissenden JA & Awh E. (2019). “Memory compression” effects in visual working memory are contingent on explicit long-term memory. *Journal of Experimental Psychology: General*. [PDF](/files/pdfs/ngiam_2019_memory.pdf) \| [Data](https://osf.io/9c4rj/)
 
 Sutterer DW, Foster JJ, Serences JT, Vogel EK & Awh E (2019) Alpha-band oscillations track the retrieval of precise spatial representations from long-term memory. *Journal of Neurophysiology*. [PDF](/files/pdfs/sutterer_2019_alpha-band.pdf)
 
-deBettencourt MT, Keene PA, Awh E, Vogel EK (2019). Real-time triggering reveals concurrent lapses of attention and working memory. *Nature Human Behaviour*. [PDF](/files/pdfs/debettencourt_2019_real-time.pdf) \| [Journal Website](https://www.nature.com/articles/s41562-019-0606-6) \| [Data](https://osf.io/hfeu8/)
+deBettencourt MT, Keene PA, Awh E & Vogel EK (2019). Real-time triggering reveals concurrent lapses of attention and working memory. *Nature Human Behaviour*. [PDF](/files/pdfs/debettencourt_2019_real-time.pdf) \| [Journal Website](https://www.nature.com/articles/s41562-019-0606-6) \| [Data](https://osf.io/hfeu8/)
 
 Sutterer DW*, Foster JJ*, Adam KCS, Vogel EK, & Awh E (2019). Item-specific delay activity demonstrates concurrent storage of multiple active neural representations in working memory. *PLoS Biology*. [PDF](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000239) \| [Data](https://osf.io/47cmn/)
 
