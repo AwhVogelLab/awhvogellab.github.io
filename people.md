@@ -159,7 +159,7 @@ Current position: Assistant professor at Texas Tech University
 [Personal website](https://www.depts.ttu.edu/psy/people/mscolari/)
 
 **Maro Machizawa**  
-Current position:Assistant professor at Hiroshima University  
+Current position: Assistant professor at Hiroshima University  
 [Personal website](https://sites.google.com/site/maromachizawa/Home)
 
 ### Former Research Specialists
