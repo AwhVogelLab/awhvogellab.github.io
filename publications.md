@@ -41,7 +41,7 @@ Feldmann-Wüstefeld T & Vogel EK (2018) Neural Evidence for the Contribution of 
 
 Adam KCS, Robison MK, & Vogel EK (2018) Contralateral delay activity tracks fluctuations in working memory performance. *Journal of Cognitive Neuroscience*. [PDF](/files/pdf/adam_2018_Contralateral.pdf) \| [Data](https://osf.io/8xuk3/)
 
-Huang, L & Awh E (2018) Chunking in working memory via content-free labels. *Scientific Reports*. [PDF](/files/pdf/huang_2018_chunking.pdf)
+Huang, L & Awh E (2018) Chunking in working memory via content-free labels. *Scientific Reports*. [PDF](/files/pdfs/huang_2018_chunking.pdf)
 
 van Moorselaar D, Foster JJ, Sutterer DW, Theeuwes J, Olivers CNL & Awh E (2018) Spatially selective alpha oscillations reveal moment-by-moment trade-offs between working memory and attention. *Journal of Cognitive Neuroscience*. [PDF](/files/pdfs/van-moorselaar_2018_spatially-selective.pdf) \| [Data](https://osf.io/56rzh/)
 
