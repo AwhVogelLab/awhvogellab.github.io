@@ -22,7 +22,7 @@ Nicole is a doctoral student in the Integrative Neuroscience Program working wit
 <a href="https://scholar.google.com/citations?user=0YNa8scAAAAJ&hl=en&oi=ao">Google scholar</a>
 <br>
 <br>
-<strong>Contact</strong>
+<font size="5"><strong>Contact</strong></font>
 <br>
 Department of Psychology | Institute for Mind and Biology
 <br>
