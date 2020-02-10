@@ -11,11 +11,14 @@ Nicole is a doctoral student in the Integrative Neuroscience Program working wit
 <br>
 <br>
 
-<img class="  wp-image-887 alignleft" src="https://awhvogellab.files.wordpress.com/2017/08/13241350_10154175704247329_6675169326456463148_n-2.jpg" alt="13241350_10154175704247329_6675169326456463148_n-2" width="253" height="337" class="center" /><a href="https://www.researchgate.net/profile/Nicole_Hakim">Research gate </a>
+<img class="  wp-image-887 aligncenter" src="https://awhvogellab.files.wordpress.com/2017/08/13241350_10154175704247329_6675169326456463148_n-2.jpg" alt="13241350_10154175704247329_6675169326456463148_n-2" width="253" height="337" class="center" /><a <br>
+
+href="https://www.researchgate.net/profile/Nicole_Hakim">Research gate </a>
 <br>
 <a title="Hakim_Resume_Dec2019" href="https://awhvogellab.files.wordpress.com/2019/12/hakim_resume_dec2019.pdf">CV</a>
 <br>
 <a href="https://scholar.google.com/citations?user=0YNa8scAAAAJ&hl=en&oi=ao">Google scholar</a>
+<br>
 <br>
 <strong>Contact</strong>
 <br>
@@ -31,7 +34,7 @@ Email: nhakim@uchicago.edu
 <br>
 
 
-<font size="30"> <strong>Publications:</strong> </font>
+<font size="20"> <strong>Publications:</strong> </font>
 
 <strong>Hakim</strong> N, deBettencourt MT, Awh E, & Vogel EK (submitted). Attention fluctuations impact ongoing maintenance of information in working memory. (<a href="https://psyarxiv.com/pxthv/">Link to preprint</a>)
 
