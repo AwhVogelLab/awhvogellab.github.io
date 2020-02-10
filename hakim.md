@@ -36,7 +36,7 @@ Email: nhakim@uchicago.edu
 <br>
 
 
-<strong>Publications:</strong>
+<font size="10"><strong>Publications:</strong></font>
 
 <strong>Hakim</strong> N, deBettencourt MT, Awh E, & Vogel EK (submitted). Attention fluctuations impact ongoing maintenance of information in working memory. (<a href="https://psyarxiv.com/pxthv/">Link to preprint</a>)
 
