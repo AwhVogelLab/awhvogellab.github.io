@@ -11,19 +11,8 @@ Nicole is a doctoral student in the Integrative Neuroscience Program working wit
 <br>
 <br>
 
-<img class="  wp-image-887 align=center" src="https://awhvogellab.files.wordpress.com/2017/08/13241350_10154175704247329_6675169326456463148_n-2.jpg" alt="13241350_10154175704247329_6675169326456463148_n-2" width="253" height="337" class="center" />
-
-<br>
-<font size="5"><strong>Links:</strong></font>
-<br>
-<a href="https://www.researchgate.net/profile/Nicole_Hakim">Research gate </a>
-<br>
-<a title="Hakim_Resume_Dec2019" href="https://awhvogellab.files.wordpress.com/2019/12/hakim_resume_dec2019.pdf">CV</a>
-<br>
-<a href="https://scholar.google.com/citations?user=0YNa8scAAAAJ&hl=en&oi=ao">Google scholar</a>
-<br>
-<br>
-<font size="5"><strong>Contact</strong></font>
+---
+<img class="  wp-image-887 align=center" src="https://awhvogellab.files.wordpress.com/2017/08/13241350_10154175704247329_6675169326456463148_n-2.jpg" alt="13241350_10154175704247329_6675169326456463148_n-2" width="253" height="337" class="center" /> | <font size="5"><strong>Contact</strong></font>
 <br>
 Department of Psychology | Institute for Mind and Biology
 <br>
@@ -35,6 +24,19 @@ Chicago, IL 60637
 <br>
 Email: nhakim@uchicago.edu
 <br>
+---
+
+<br>
+<font size="5"><strong>Links:</strong></font>
+<br>
+<a href="https://www.researchgate.net/profile/Nicole_Hakim">Research gate </a>
+<br>
+<a title="Hakim_Resume_Dec2019" href="https://awhvogellab.files.wordpress.com/2019/12/hakim_resume_dec2019.pdf">CV</a>
+<br>
+<a href="https://scholar.google.com/citations?user=0YNa8scAAAAJ&hl=en&oi=ao">Google scholar</a>
+<br>
+<br>
+
 
 
 <font size="5"><strong>Publications:</strong></font>
