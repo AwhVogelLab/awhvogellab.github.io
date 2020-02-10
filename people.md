@@ -39,7 +39,7 @@ University of Chicago  <br>
 
 ## PhD Students
 
-![Nicole](/files/images/hakim.jpg){: .image-left}**Nicole Hakim** <br>  
+![Nicole](/files/images/nicole.jpg){: .image-left}**Nicole Hakim** <br>  
 <br>  
 [Google scholar profile](https://scholar.google.com/citations?user=0YNa8scAAAAJ&hl=en&oi=ao)
 <br>  
