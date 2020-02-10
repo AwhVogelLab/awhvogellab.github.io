@@ -51,6 +51,6 @@ University of Chicago
 940 East 57th Street 
 <br> 
 Chicago, IL 60637 
-<br> |
+<br>
 Email: nhakim@uchicago.edu 
 <br> 
