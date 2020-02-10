@@ -43,7 +43,7 @@ University of Chicago  <br>
 <br>  
 [Google scholar profile](https://scholar.google.com/citations?user=0YNa8scAAAAJ&hl=en&oi=ao)
 <br>  
-<br>  
+[Personal page](/hakim.html)  
 <br>  
 
 ---
