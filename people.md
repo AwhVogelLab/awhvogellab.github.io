@@ -42,8 +42,8 @@ University of Chicago  <br>
 ![Nicole](/files/images/nicole.jpg){: .image-left}**Nicole Hakim** <br>  
 <br>  
 [Google scholar profile](https://scholar.google.com/citations?user=0YNa8scAAAAJ&hl=en&oi=ao)
-<br>  
-[Personal page](/hakim.html)  
+[Personal page](/hakim.html)
+<br>
 <br>  
 
 ---
