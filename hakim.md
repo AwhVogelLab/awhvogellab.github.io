@@ -13,17 +13,17 @@ Nicole is a doctoral student in the Integrative Neuroscience Program working wit
 
 ---
 <img class="  wp-image-887 align=center" src="https://awhvogellab.files.wordpress.com/2017/08/13241350_10154175704247329_6675169326456463148_n-2.jpg" alt="13241350_10154175704247329_6675169326456463148_n-2" width="253" height="337" class="center" /> | <font size="5"><strong>Contact</strong></font> |
-<br>
+<br> |
 Department of Psychology | Institute for Mind and Biology |
-<br>
-University of Chicago|
-<br>
-940 East 57th Street|
-<br>
-Chicago, IL 60637|
-<br>
-Email: nhakim@uchicago.edu|
-<br>
+<br> |
+University of Chicago |
+<br> |
+940 East 57th Street |
+<br> |
+Chicago, IL 60637 |
+<br> |
+Email: nhakim@uchicago.edu |
+<br> |
 ---
 
 <br>
