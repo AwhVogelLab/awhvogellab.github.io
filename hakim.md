@@ -11,7 +11,7 @@ Nicole is a doctoral student in the Integrative Neuroscience Program working wit
 <br>
 <br>
 
-<img class="  wp-image-887 aligncenter" src="https://awhvogellab.files.wordpress.com/2017/08/13241350_10154175704247329_6675169326456463148_n-2.jpg" alt="13241350_10154175704247329_6675169326456463148_n-2" width="253" height="337" class="center" />
+<img class="  wp-image-887 align=center" src="https://awhvogellab.files.wordpress.com/2017/08/13241350_10154175704247329_6675169326456463148_n-2.jpg" alt="13241350_10154175704247329_6675169326456463148_n-2" width="253" height="337" class="center" />
 
 <br>
 
