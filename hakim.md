@@ -11,23 +11,10 @@ Nicole is a doctoral student in the Integrative Neuroscience Program working wit
 <br>
 <br>
 
----
-<img class="  wp-image-887 align=center" src="https://awhvogellab.files.wordpress.com/2017/08/13241350_10154175704247329_6675169326456463148_n-2.jpg" alt="13241350_10154175704247329_6675169326456463148_n-2" width="253" height="337" class="center" /> | <font size="5"><strong>Contact</strong></font> |
-<br> |
-Department of Psychology | Institute for Mind and Biology |
-<br> |
-University of Chicago |
-<br> |
-940 East 57th Street |
-<br> |
-Chicago, IL 60637 |
-<br> |
-Email: nhakim@uchicago.edu |
-<br> |
----
+<img class="  wp-image-887 align=center" src="https://awhvogellab.files.wordpress.com/2017/08/13241350_10154175704247329_6675169326456463148_n-2.jpg" alt="13241350_10154175704247329_6675169326456463148_n-2" width="253" height="337" class="center" />
 
 <br>
-<font size="5"><strong>Links:</strong></font>
+<font size="5"><strong>Research links:</strong></font>
 <br>
 <a href="https://www.researchgate.net/profile/Nicole_Hakim">Research gate </a>
 <br>
@@ -52,3 +39,18 @@ Email: nhakim@uchicago.edu |
 <strong>Hakim, N., </strong>& Vogel, E.K. (2018). Phase-coding memories in mind. PLOS Biology 16(8): e3000012. (<a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000012">Link to PDF</a>)
 
 <strong>Hakim, N</strong><em>.</em>, Simons, D. J., Zhao, H., & Wan, X. (2017). Do easterners and westerners differ in visual cognition? a preregistered examination of three visual cognition tasks. <i>Social Psychological and Personality Science</i>, <i>8</i>(2), 142-152. (<a href="http://journals.sagepub.com/doi/full/10.1177/1948550616667613">Link to PDF</a>)
+
+
+
+<strong>Contact</strong></font> 
+<br> 
+Department of Psychology | Institute for Mind and Biology 
+<br> 
+University of Chicago 
+<br> 
+940 East 57th Street 
+<br> 
+Chicago, IL 60637 
+<br> |
+Email: nhakim@uchicago.edu 
+<br> 
