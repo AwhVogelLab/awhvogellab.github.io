@@ -1,3 +1,16 @@
+---
+layout: default
+---
+
+# Nicole Hakim
+
+<br>
+
+Nicole is a doctoral student in the Integrative Neuroscience Program working with Ed Awh and Ed Vogel. She is primarily interested in interactions between working memory and attention.  
+
+<br>
+<br>
+
 <img class="  wp-image-887 alignleft" src="https://awhvogellab.files.wordpress.com/2017/08/13241350_10154175704247329_6675169326456463148_n-2.jpg" alt="13241350_10154175704247329_6675169326456463148_n-2" width="253" height="337" class="center" /><a href="https://www.researchgate.net/profile/Nicole_Hakim">Research gate </a>
 <br>
 <a title="Hakim_Resume_Dec2019" href="https://awhvogellab.files.wordpress.com/2019/12/hakim_resume_dec2019.pdf">CV</a>
