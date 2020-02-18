@@ -26,6 +26,11 @@ Nicole is a doctoral student in the Integrative Neuroscience Program working wit
 [CV](/files/pdfs/ngiam_2019_memory.pdf)
 
 
+<a title="Hakim_Resume_newFeb2020" href="files/pdfs/Hakim_Resume_newFeb2020.pdf">CV</a>
+
+
+
+
 
 <font size="5"><strong>Publications:</strong></font>
 
