@@ -23,6 +23,7 @@ Nicole is a doctoral student in the Integrative Neuroscience Program working wit
 <a href="https://scholar.google.com/citations?user=0YNa8scAAAAJ&hl=en&oi=ao">Google scholar</a>
 <br>
 <br>
+[CV](/files/pdfs/ngiam_2019_memory.pdf)
 
 
 
