@@ -18,7 +18,7 @@ Nicole is a doctoral student in the Integrative Neuroscience Program working wit
 <br>
 <a href="https://www.researchgate.net/profile/Nicole_Hakim">Research gate </a>
 <br>
-<a title="Hakim_Resume_April2020" href="files/pdfs/Hakim_Resume_newFeb2020.pdf">CV</a>
+<a title="Hakim_Resume_April2020" href="files/pdfs/Hakim_Resume_April2020.pdf">CV</a>
 <br>
 <a href="https://scholar.google.com/citations?user=0YNa8scAAAAJ&hl=en&oi=ao">Google scholar</a>
 <br>
