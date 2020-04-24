@@ -22,6 +22,8 @@ Sutterer DW, Foster JJ, Serences JT, Vogel EK & Awh E (2019) Alpha-band oscillat
 
 deBettencourt MT, Keene PA, Awh E & Vogel EK (2019). Real-time triggering reveals concurrent lapses of attention and working memory. *Nature Human Behaviour*. [PDF](/files/pdfs/debettencourt_2019_real-time.pdf) \| [Journal Website](https://www.nature.com/articles/s41562-019-0606-6) \| [Data](https://osf.io/hfeu8/)
 
+Fukuda K & Vogel EK. (2019). Visual short-term memory capacity predicts the “bandwidth” of visual long-term memory encoding. *Memory & Cognition*. [PDF](/files/pdfs/fukuda_2019_visual.pdf)
+
 Sutterer DW*, Foster JJ*, Adam KCS, Vogel EK, & Awh E (2019). Item-specific delay activity demonstrates concurrent storage of multiple active neural representations in working memory. *PLoS Biology*. [PDF](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000239) \| [Data](https://osf.io/47cmn/)
 
 Hakim N, Adam KCS, Gunseli E, Awh E, & Vogel EK (2019). Dissecting the Neural Focus of Attention Reveals Distinct Processes for Spatial Attention and Object-Based Storage in Visual Working Memory. *Psychological Science*. [PDF](https://journals.sagepub.com/eprint/PnKK9CnY97qT32WSGxWa/full) \| [Data](https://osf.io/ws3j9/?view_only=40b7f0018df44d5a862b51601d4599ed)
@@ -39,7 +41,7 @@ Sprague TC, Adam KCS, Foster JJ, Rahmati M, Sutterer DW & Vo VA (2018) Inverted 
 
 Feldmann-Wüstefeld T & Vogel EK (2018) Neural Evidence for the Contribution of Active Suppression During Working Memory Filtering. *Cerebral Cortex*. [PDF](/files/pdfs/feldmann-wustefeld_2018_Neural-evidence.pdf) \| [Data](https://osf.io/a65xz/)
 
-Adam KCS, Robison MK, & Vogel EK (2018) Contralateral delay activity tracks fluctuations in working memory performance. *Journal of Cognitive Neuroscience*. [PDF](/files/pdf/adam_2018_Contralateral.pdf) \| [Data](https://osf.io/8xuk3/)
+Adam KCS, Robison MK, & Vogel EK (2018) Contralateral delay activity tracks fluctuations in working memory performance. *Journal of Cognitive Neuroscience*. [PDF](/files/pdfs/adam_2018_Contralateral.pdf) \| [Data](https://osf.io/8xuk3/)
 
 Huang, L & Awh E (2018) Chunking in working memory via content-free labels. *Scientific Reports*. [PDF](/files/pdfs/huang_2018_chunking.pdf)
 
