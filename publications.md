@@ -11,9 +11,16 @@ The documents distributed here have been provided as a means to ensure timely di
 Year: [2019](#2019) \| [2018](#2018) \| [2017](#2017) \| [2016](#2016) \| [2015](#2015) \| [2014](#2014) \| [2013](#2013) \| [2012](#2012) \| [2011](#2011) \| [2010](#2010) \| [2009](#2009) \| [Later](#2008)
 
 ### Pre-prints
+
+Foster JJ, Vogel EK, & Awh E (in press). Working memory as persistent neural activity. In MJ Kahana & AD Wagner (Eds). Oxford Handbook of Human Memory. Oxford University Press. [PDF](https://psyarxiv.com/jh6e3)
+
+Quirk, C., Adam, K. C. S., & Vogel, E. K. (2020, April 16). No Evidence for an Object Working Memory Capacity Benefit with Extended Viewing Time. [PDF](https://osf.io/pzy5q/)
+
 Hakim N, Feldmann-Wüstefeld T, Awh E, Vogel EK (submitted). “Perturbing neural representations of working memory with task-irrelevant interruption. [BioRxiv](https://www.biorxiv.org/content/10.1101/716613v1) \| [Data](https://osf.io/g5ahn/?view_only=4dd5c22fdcb6457689d73d3bf892b5cb)
 
-Foster JJ, Bsales EM & Awh E. "Covert spatial attention speeds target individuation". [BioRxiv](https://www.biorxiv.org/content/10.1101/838557v1)
+### 2020
+
+Foster JJ, Bsales EM, & Awh E (2020). Covert spatial attention speeds target individuation. Journal of Neuroscience. [PDF](/files/pdfs/Foster2020) \| [Data](https://osf.io/a9mvb/)
 
 ### 2019
 Ngiam WXQ, Brissenden JA & Awh E. (2019). “Memory compression” effects in visual working memory are contingent on explicit long-term memory. *Journal of Experimental Psychology: General*. [PDF](/files/pdfs/ngiam_2019_memory.pdf) \| [Data](https://osf.io/9c4rj/)
