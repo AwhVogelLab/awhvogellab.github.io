@@ -20,7 +20,7 @@ Hakim N, Feldmann-Wüstefeld T, Awh E, Vogel EK (submitted). “Perturbing neura
 
 ### 2020
 
-Foster JJ, Bsales EM, & Awh E (2020). Covert spatial attention speeds target individuation. Journal of Neuroscience. [PDF](/files/pdfs/Foster2020) \| [Data](https://osf.io/a9mvb/)
+Foster JJ, Bsales EM, & Awh E (2020). Covert spatial attention speeds target individuation. Journal of Neuroscience. [PDF](/files/pdfs/Foster2020.pdf) \| [Data](https://osf.io/a9mvb/)
 
 ### 2019
 Ngiam WXQ, Brissenden JA & Awh E. (2019). “Memory compression” effects in visual working memory are contingent on explicit long-term memory. *Journal of Experimental Psychology: General*. [PDF](/files/pdfs/ngiam_2019_memory.pdf) \| [Data](https://osf.io/9c4rj/)
