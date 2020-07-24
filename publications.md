@@ -12,6 +12,8 @@ Year: [2020](#2020) \| [2019](#2019) \| [2018](#2018) \| [2017](#2017) \| [2016]
 
 ### Pre-prints
 
+Hakim N, Awh E, Vogel EK, & Rosenberg MD (submitted). Predicting cognitive abilities across individuals using sparse EEG connectivity. [BioRxiv] (https://www.biorxiv.org/content/10.1101/2020.07.22.216705v1)
+
 Foster JJ, Vogel EK, & Awh E (in press). Working memory as persistent neural activity. In MJ Kahana & AD Wagner (Eds). Oxford Handbook of Human Memory. Oxford University Press. [PDF](https://psyarxiv.com/jh6e3)
 
 Quirk, C., Adam, K. C. S., & Vogel, E. K. (2020, April 16). No Evidence for an Object Working Memory Capacity Benefit with Extended Viewing Time. [PDF](https://osf.io/pzy5q/)
