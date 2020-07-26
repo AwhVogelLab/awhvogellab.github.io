@@ -22,7 +22,7 @@ Hakim N, Feldmann-Wüstefeld T, Awh E, Vogel EK (submitted). “Perturbing neura
 
 ### 2020
 
-Hakim N, deBettencourt MT, Awh E, & Vogel EK (2020). Attention fluctuations impact ongoing maintenance of information in working memory. *Psychonomic Bulletin & Review*. [PsyArXiv] (https://psyarxiv.com/pxthv/)
+Hakim N, deBettencourt MT, Awh E, & Vogel EK (2020). Attention fluctuations impact ongoing maintenance of information in working memory. *Psychonomic Bulletin & Review*. [PsyArXiv](https://psyarxiv.com/pxthv/)
 
 Foster JJ, Bsales EM, & Awh E (2020). Covert spatial attention speeds target individuation. Journal of Neuroscience. [PDF](/files/pdfs/Foster2020.pdf) \| [Data](https://osf.io/a9mvb/)
 
