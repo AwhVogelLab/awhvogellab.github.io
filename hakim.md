@@ -38,7 +38,7 @@ Nicole is a doctoral student in the Integrative Neuroscience Program working wit
 
 <strong>Hakim N</strong>, Awh E, Vogel EK (<em>submitted</em>). Manifold working memory. In <em>Working memory: a multicomponent model</em> (Eds. Robert Logie, Nelson Cowan, and Valerie Camos) Oxford University Press.
 
-<strong>Hakim N</strong>, deBettencourt MT, Awh E, & Vogel EK (<em>2020</em>). Attention fluctuations impact ongoing maintenance of information in working memory. <i>Psychonomic Bulletin & Review.</i> (<a href="https://psyarxiv.com/pxthv/">Link to preprint</a>)
+<strong>Hakim N</strong>, deBettencourt MT, Awh E, & Vogel EK (2020). Attention fluctuations impact ongoing maintenance of information in working memory. <i>Psychonomic Bulletin & Review.</i> (<a href="https://psyarxiv.com/pxthv/">Link to preprint</a>)
 
 <strong>Hakim N</strong>, Feldmann-Wüstefeld T, Awh E, & Vogel EK (2020). Perturbing neural representations of working memory with task-irrelevant interruption. <i>Journal of Cognitive Neuroscience.</i> (<a href="https://www.mitpressjournals.org/doi/pdf/10.1162/jocn_a_01481">Link to PDF</a>)
 
