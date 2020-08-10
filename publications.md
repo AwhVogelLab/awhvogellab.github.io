@@ -12,6 +12,8 @@ Year: [2020](#2020) \| [2019](#2019) \| [2018](#2018) \| [2017](#2017) \| [2016]
 
 ### Pre-prints
 
+Foster JJ, Thyer W, Wennberg JW, Awh E (submitted). Spatial attention enhances the spatial selectivity of population codes during the first wave of visual processing.[BioRxiv](https://www.biorxiv.org/content/10.1101/2020.07.30.228981v1)  
+
 Hakim N, Awh E, Vogel EK, & Rosenberg MD (submitted). Predicting cognitive abilities across individuals using sparse EEG connectivity. [BioRxiv](https://www.biorxiv.org/content/10.1101/2020.07.22.216705v1)
 
 Foster JJ, Vogel EK, & Awh E (in press). Working memory as persistent neural activity. In MJ Kahana & AD Wagner (Eds). Oxford Handbook of Human Memory. Oxford University Press. [PDF](https://psyarxiv.com/jh6e3)
