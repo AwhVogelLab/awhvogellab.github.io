@@ -20,11 +20,11 @@ Foster JJ, Vogel EK, & Awh E (in press). Working memory as persistent neural act
 
 Quirk, C., Adam, K. C. S., & Vogel, E. K. (2020, April 16). No Evidence for an Object Working Memory Capacity Benefit with Extended Viewing Time. [PDF](https://osf.io/pzy5q/)
 
-Hakim N, Feldmann-Wüstefeld T, Awh E, Vogel EK (submitted). “Perturbing neural representations of working memory with task-irrelevant interruption. [BioRxiv](https://www.biorxiv.org/content/10.1101/716613v1) \| [Data](https://osf.io/g5ahn/?view_only=4dd5c22fdcb6457689d73d3bf892b5cb)
+Hakim N, Feldmann-Wüstefeld T, Awh E, Vogel EK (submitted). Perturbing neural representations of working memory with task-irrelevant interruption. [BioRxiv](https://www.biorxiv.org/content/10.1101/716613v1) \| [Data](https://osf.io/g5ahn/?view_only=4dd5c22fdcb6457689d73d3bf892b5cb)
 
 ### 2020
 
-Hakim N, deBettencourt MT, Awh E, & Vogel EK (2020). Attention fluctuations impact ongoing maintenance of information in working memory. *Psychonomic Bulletin & Review*. [PsyArXiv](https://psyarxiv.com/pxthv/)
+Hakim N, deBettencourt MT, Awh E, & Vogel EK (2020). Attention fluctuations impact ongoing maintenance of information in working memory. *Psychonomic Bulletin & Review*. [PDF](/files/pdfs/Hakim2020_Article_AttentionFluctuationsImpactOng.pdf)  \| [Data](https://osf.io/cg5f2/?view_only=ceb70b58c382498cb5d9ffc82223a157)
 
 Foster JJ, Bsales EM, & Awh E (2020). Covert spatial attention speeds target individuation. Journal of Neuroscience. [PDF](/files/pdfs/Foster2020.pdf) \| [Data](https://osf.io/a9mvb/)
 
