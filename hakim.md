@@ -46,7 +46,7 @@ Nicole is a doctoral student in the Integrative Neuroscience Program working wit
 
 <strong>Hakim N</strong> & Vogel EK (2018). Phase-coding memories in mind. <i>PLOS Biology</i> 16(8): e3000012. (<a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000012">Link to PDF</a>)
 
-<strong>Hakim N</strong><em>.</em>, Simons DJ, Zhao H, & Wan X (2017). Do easterners and westerners differ in visual cognition? a preregistered examination of three visual cognition tasks. <i>Social Psychological and Personality Science</i>, <i>8</i>(2), 142-152. (<a href="http://journals.sagepub.com/doi/full/10.1177/1948550616667613">Link to PDF</a>)
+<strong>Hakim N</strong><em>.</em>, Simons DJ, Zhao H, & Wan X (2017). Do easterners and westerners differ in visual cognition? a preregistered examination of three visual cognition tasks. <i>Social Psychological and Personality Science</i>, <i>8</i>(2), 142-152. (<a href="http://journals.sagepub.com/doi/full/10.1177/1948550616667613">PDF</a>) \| [Data](https://osf.io/if9sp/?view_only=284e92a3ffb94e73b38b795d94df2000)
 
 
 
