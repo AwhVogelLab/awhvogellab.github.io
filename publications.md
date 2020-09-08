@@ -29,7 +29,7 @@ Hakim N, Awh E, Vogel EK (submitted). Manifold working memory. In <em>Working me
 
 Hakim N, deBettencourt MT, Awh E, & Vogel EK (2020). Attention fluctuations impact ongoing maintenance of information in working memory. *Psychonomic Bulletin & Review*. [PDF](/files/pdfs/Hakim2020_Article_AttentionFluctuationsImpactOng.pdf)  \| [Data](https://osf.io/cg5f2/?view_only=ceb70b58c382498cb5d9ffc82223a157)
 
-Foster JJ, Bsales EM, & Awh E (2020). Covert spatial attention speeds target individuation. Journal of Neuroscience. [PDF](/files/pdfs/Foster2020.pdf) \| [Data](https://osf.io/a9mvb/)
+Foster JJ, Bsales EM, & Awh E (2020). Covert spatial attention speeds target individuation. <i>Journal of Neuroscience.</i> [PDF](/files/pdfs/Foster2020.pdf) \| [Data](https://osf.io/a9mvb/)
 
 Hakim N, Feldmann-Wüstefeld T, Awh E, & Vogel EK (2020). Perturbing neural representations of working memory with task-irrelevant interruption. <i>Journal of Cognitive Neuroscience.</i> <a href="https://www.mitpressjournals.org/doi/pdf/10.1162/jocn_a_01481">PDF</a> \| [Data](https://osf.io/g5ahn/?view_only=4dd5c22fdcb6457689d73d3bf892b5cb)
 
