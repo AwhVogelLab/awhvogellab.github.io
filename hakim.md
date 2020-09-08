@@ -34,13 +34,13 @@ Nicole is a doctoral student in the Integrative Neuroscience Program working wit
 
 <strong>Hakim N</strong>, Feldmann-Wüstefeld T, Awh E, & Vogel EK (<em>submitted</em>). Controlling the flow of interruption in working memory
 
-<strong>Hakim N</strong>, Awh E, Vogel EK, & Rosenberg MD (<em>submitted</em>). Predicting cognitive abilities across individuals using sparse EEG connectivity. (<a href="https://www.biorxiv.org/content/10.1101/2020.07.22.216705v1">Link to preprint</a>)
+<strong>Hakim N</strong>, Awh E, Vogel EK, & Rosenberg MD (<em>submitted</em>). Predicting cognitive abilities across individuals using sparse EEG connectivity. <a href="https://www.biorxiv.org/content/10.1101/2020.07.22.216705v1">Preprint</a>
 
 <strong>Hakim N</strong>, Awh E, Vogel EK (<em>submitted</em>). Manifold working memory. In <em>Working memory: a multicomponent model</em> (Eds. Robert Logie, Nelson Cowan, and Valerie Camos) Oxford University Press.
 
 <strong>Hakim N</strong>, deBettencourt MT, Awh E, & Vogel EK (2020). Attention fluctuations impact ongoing maintenance of information in working memory. *Psychonomic Bulletin & Review*. [PDF](/files/pdfs/Hakim2020_Article_AttentionFluctuationsImpactOng.pdf)  \| [Data](https://osf.io/cg5f2/?view_only=ceb70b58c382498cb5d9ffc82223a157)
 
-<strong>Hakim N</strong>, Feldmann-Wüstefeld T, Awh E, & Vogel EK (2020). Perturbing neural representations of working memory with task-irrelevant interruption. <i>Journal of Cognitive Neuroscience.</i> (<a href="https://www.mitpressjournals.org/doi/pdf/10.1162/jocn_a_01481">Link to PDF</a>)
+<strong>Hakim N</strong>, Feldmann-Wüstefeld T, Awh E, & Vogel EK (2020). Perturbing neural representations of working memory with task-irrelevant interruption. <i>Journal of Cognitive Neuroscience.</i> <a href="https://www.mitpressjournals.org/doi/pdf/10.1162/jocn_a_01481">PDF</a> \| [Data](https://osf.io/g5ahn/?view_only=4dd5c22fdcb6457689d73d3bf892b5cb)
 
 <strong>Hakim N</strong>, Adam KCS, Gunseli E, Awh E, & Vogel EK (2019). Dissecting the neural focus of attention reveals distinct processes for spatial attention and object-based storage in visual working memory. <i>Psychological Science.</i> <a href="https://journals.sagepub.com/eprint/PnKK9CnY97qT32WSGxWa/full#articleCitationDownloadContainer">PDF</a> \| [Data](https://osf.io/ws3j9/?view_only=841769d1bdd745d5bd228a1b0cb1ee6c)
 
