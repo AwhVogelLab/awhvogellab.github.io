@@ -12,6 +12,8 @@ Year: [2020](#2020) \| [2019](#2019) \| [2018](#2018) \| [2017](#2017) \| [2016]
 
 ### Pre-prints
 
+Hakim N, Feldmann-Wüstefeld T, Awh E, & Vogel EK (submitted). Controlling the flow of interruption in working memory
+
 Foster JJ, Thyer W, Wennberg JW, Awh E (submitted). Spatial attention enhances the spatial selectivity of population codes during the first wave of visual processing. [BioRxiv](https://www.biorxiv.org/content/10.1101/2020.07.30.228981v1)  
 
 Hakim N, Awh E, Vogel EK, & Rosenberg MD (submitted). Predicting cognitive abilities across individuals using sparse EEG connectivity. [BioRxiv](https://www.biorxiv.org/content/10.1101/2020.07.22.216705v1)
@@ -20,7 +22,8 @@ Foster JJ, Vogel EK, & Awh E (in press). Working memory as persistent neural act
 
 Quirk, C., Adam, K. C. S., & Vogel, E. K. (2020, April 16). No Evidence for an Object Working Memory Capacity Benefit with Extended Viewing Time. [PDF](https://osf.io/pzy5q/)
 
-Hakim N, Feldmann-Wüstefeld T, Awh E, Vogel EK (submitted). Perturbing neural representations of working memory with task-irrelevant interruption. [BioRxiv](https://www.biorxiv.org/content/10.1101/716613v1) \| [Data](https://osf.io/g5ahn/?view_only=4dd5c22fdcb6457689d73d3bf892b5cb)
+Hakim N, Awh E, Vogel EK (submitted). Manifold working memory. In <em>Working memory: a multicomponent model</em> (Eds. Robert Logie, Nelson Cowan, and Valerie Camos) Oxford University Press.
+
 
 ### 2020
 
@@ -28,7 +31,7 @@ Hakim N, deBettencourt MT, Awh E, & Vogel EK (2020). Attention fluctuations impa
 
 Foster JJ, Bsales EM, & Awh E (2020). Covert spatial attention speeds target individuation. Journal of Neuroscience. [PDF](/files/pdfs/Foster2020.pdf) \| [Data](https://osf.io/a9mvb/)
 
-<strong>Hakim N</strong>, Feldmann-Wüstefeld T, Awh E, & Vogel EK (2020). Perturbing neural representations of working memory with task-irrelevant interruption. <i>Journal of Cognitive Neuroscience.</i> <a href="https://www.mitpressjournals.org/doi/pdf/10.1162/jocn_a_01481">PDF</a> \| [Data](https://osf.io/g5ahn/?view_only=4dd5c22fdcb6457689d73d3bf892b5cb)
+Hakim N, Feldmann-Wüstefeld T, Awh E, & Vogel EK (2020). Perturbing neural representations of working memory with task-irrelevant interruption. <i>Journal of Cognitive Neuroscience.</i> <a href="https://www.mitpressjournals.org/doi/pdf/10.1162/jocn_a_01481">PDF</a> \| [Data](https://osf.io/g5ahn/?view_only=4dd5c22fdcb6457689d73d3bf892b5cb)
 
 ### 2019
 Ngiam WXQ, Brissenden JA & Awh E. (2019). “Memory compression” effects in visual working memory are contingent on explicit long-term memory. *Journal of Experimental Psychology: General*. [PDF](/files/pdfs/ngiam_2019_memory.pdf) \| [Data](https://osf.io/9c4rj/)
