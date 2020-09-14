@@ -42,7 +42,7 @@ Nicole is a doctoral student in the Integrative Neuroscience Program working wit
 
 <strong>Hakim N</strong>, Feldmann-Wüstefeld T, Awh E, & Vogel EK (2020). Perturbing neural representations of working memory with task-irrelevant interruption. <i>Journal of Cognitive Neuroscience.</i> <a href="https://www.mitpressjournals.org/doi/pdf/10.1162/jocn_a_01481">PDF</a> \| [Data](https://osf.io/g5ahn/?view_only=4dd5c22fdcb6457689d73d3bf892b5cb)
 
-<strong>Hakim N</strong>, Adam KCS, Gunseli E, Awh E, & Vogel EK (2019). Dissecting the neural focus of attention reveals distinct processes for spatial attention and object-based storage in visual working memory. <i>Psychological Science.</i> <a href="https://journals.sagepub.com/eprint/PnKK9CnY97qT32WSGxWa/full#articleCitationDownloadContainer">PDF</a> \| [Data](https://osf.io/ws3j9/?view_only=841769d1bdd745d5bd228a1b0cb1ee6c)
+<strong>Hakim N</strong>, Adam KCS, Gunseli E, Awh E, & Vogel EK (2019). Dissecting the neural focus of attention reveals distinct processes for spatial attention and object-based storage in visual working memory. <i>Psychological Science.</i> [PDF](/files/pdfs/Hakim_PsychSci.pdf) \| [Data](https://osf.io/ws3j9/?view_only=841769d1bdd745d5bd228a1b0cb1ee6c)
 
 <strong>Hakim N</strong> & Vogel EK (2018). Phase-coding memories in mind. <i>PLOS Biology</i>. <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000012">PDF</a>
 
