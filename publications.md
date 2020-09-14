@@ -44,7 +44,7 @@ Fukuda K & Vogel EK. (2019). Visual short-term memory capacity predicts the “b
 
 Sutterer DW*, Foster JJ*, Adam KCS, Vogel EK, & Awh E (2019). Item-specific delay activity demonstrates concurrent storage of multiple active neural representations in working memory. *PLoS Biology*. [PDF](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000239) \| [Data](https://osf.io/47cmn/)
 
-Hakim N, Adam KCS, Gunseli E, Awh E, & Vogel EK (2019). Dissecting the Neural Focus of Attention Reveals Distinct Processes for Spatial Attention and Object-Based Storage in Visual Working Memory. *Psychological Science*. [PDF](https://journals.sagepub.com/eprint/PnKK9CnY97qT32WSGxWa/full) \| [Data](https://osf.io/ws3j9/?view_only=40b7f0018df44d5a862b51601d4599ed)
+Hakim N, Adam KCS, Gunseli E, Awh E, & Vogel EK (2019). Dissecting the Neural Focus of Attention Reveals Distinct Processes for Spatial Attention and Object-Based Storage in Visual Working Memory. *Psychological Science*. [PDF](/files/pdfs/published_pdf.pdf) \| [Data](https://osf.io/ws3j9/?view_only=40b7f0018df44d5a862b51601d4599ed)
 
 Scolari M & Awh E (2019). Object-based biased competition during covert spatial orienting. *Attention, Perception, & Psychophysics*. [PDF](/files/pdfs/Scolari_2019_Object-based.pdf)
 
