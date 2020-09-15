@@ -12,20 +12,22 @@ Year: [2020](#2020) \| [2019](#2019) \| [2018](#2018) \| [2017](#2017) \| [2016]
 
 ### Pre-prints
 
-Hakim N, Feldmann-Wüstefeld T, Awh E, & Vogel EK (submitted). Controlling the flow of interruption in working memory. [BioRxiv](https://www.biorxiv.org/content/10.1101/2020.09.08.288027v1)
+deBettencourt MT, Williams SD, Vogel EK, Awh E (submitted) Sustained attention and spatial attention distinctly influence long-term memory encoding. [BioRxiv](https://www.biorxiv.org/content/10.1101/2020.09.14.297341v1)
 
-Foster JJ, Thyer W, Wennberg JW, Awh E (submitted). Spatial attention enhances the spatial selectivity of population codes during the first wave of visual processing. [BioRxiv](https://www.biorxiv.org/content/10.1101/2020.07.30.228981v1)  
+Hakim N, Feldmann-Wüstefeld T, Awh E, & Vogel EK (submitted) Controlling the flow of interruption in working memory. [BioRxiv](https://www.biorxiv.org/content/10.1101/2020.09.08.288027v1)
 
-Hakim N, Awh E, Vogel EK, & Rosenberg MD (submitted). Predicting cognitive abilities across individuals using sparse EEG connectivity. [BioRxiv](https://www.biorxiv.org/content/10.1101/2020.07.22.216705v1)
+Foster JJ, Thyer W, Wennberg JW, Awh E (submitted) Spatial attention enhances the spatial selectivity of population codes during the first wave of visual processing. [BioRxiv](https://www.biorxiv.org/content/10.1101/2020.07.30.228981v1)  
 
-Foster JJ, Vogel EK, & Awh E (in press). Working memory as persistent neural activity. In MJ Kahana & AD Wagner (Eds). Oxford Handbook of Human Memory. Oxford University Press. [PDF](https://psyarxiv.com/jh6e3)
+Hakim N, Awh E, Vogel EK, & Rosenberg MD (submitted) Predicting cognitive abilities across individuals using sparse EEG connectivity. [BioRxiv](https://www.biorxiv.org/content/10.1101/2020.07.22.216705v1)
 
-Quirk, C., Adam, K. C. S., & Vogel, E. K. (2020, April 16). No Evidence for an Object Working Memory Capacity Benefit with Extended Viewing Time. [PDF](https://osf.io/pzy5q/)
+Foster JJ, Vogel EK, & Awh E (in press) Working memory as persistent neural activity. In MJ Kahana & AD Wagner (Eds). Oxford Handbook of Human Memory. Oxford University Press. [PDF](https://psyarxiv.com/jh6e3)
 
 Hakim N, Awh E, Vogel EK (submitted). Manifold working memory. In <em>Working memory: a multicomponent model</em> (Eds. Robert Logie, Nelson Cowan, and Valerie Camos) Oxford University Press.
 
 
 ### 2020
+
+Quirk C, Adam KCS, Vogel EK (2020) No Evidence for an Object Working Memory Capacity Benefit with Extended Viewing Time. <i>eNeuro</i> [PDF] (https://osf.io/pzy5q/)
 
 Hakim N, deBettencourt MT, Awh E, & Vogel EK (2020). Attention fluctuations impact ongoing maintenance of information in working memory. *Psychonomic Bulletin & Review*. [PDF](/files/pdfs/Hakim2020_Article_AttentionFluctuationsImpactOng.pdf)  \| [Data](https://osf.io/cg5f2/?view_only=ceb70b58c382498cb5d9ffc82223a157)
 
