@@ -27,7 +27,7 @@ Hakim N, Awh E, Vogel EK (submitted). Manifold working memory. In <em>Working me
 
 ### 2020
 
-Quirk C, Adam KCS, Vogel EK (2020) No Evidence for an Object Working Memory Capacity Benefit with Extended Viewing Time. <i>eNeuro</i> [PDF] (https://osf.io/pzy5q/)
+Quirk C, Adam KCS, Vogel EK (2020). No Evidence for an Object Working Memory Capacity Benefit with Extended Viewing Time. <i>eNeuro</i> [PDF] (https://colinquirk.com/publications/papers/Quirk_eneuro2020.pdf)
 
 Hakim N, deBettencourt MT, Awh E, & Vogel EK (2020). Attention fluctuations impact ongoing maintenance of information in working memory. *Psychonomic Bulletin & Review*. [PDF](/files/pdfs/Hakim2020_Article_AttentionFluctuationsImpactOng.pdf)  \| [Data](https://osf.io/cg5f2/?view_only=ceb70b58c382498cb5d9ffc82223a157)
 
