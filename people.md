@@ -90,11 +90,9 @@ University of Chicago  <br>
 
 ## Research Specialists
 
-
-
 ## Undergraduate Research Assistants
 
-**Jessica Guigon**, 2020-
+**Jessica Guigon**, 2020-   
 **Paul Keene**, 2018–  
 **Itzel Velazquez**, 2019-  
 
@@ -183,14 +181,14 @@ Current position: UX Researcher
 **Mei Arditi**, 2018–2020  
 **Murrie Affini**, 2016–2017  
 **Emma Bsales**, 2016–2018  
-**Maryam Bolouri**, 2018–2019
-**Liam Chai**, 2017–2020  
-**Albert Chen**, 2017–2020 
-**Ricardo Fernandez**, 2017–2018
-**Yasemin Hasimoglu**, 2018–2020
+**Maryam Bolouri**, 2018–2019   
+**Liam Chai**, 2017–2020    
+**Albert Chen**, 2017–2020    
+**Ricardo Fernandez**, 2017–2018    
+**Yasemin Hasimoglu**, 2018–2020    
 **Alden Herrera**, 2017  
-**Rebecca Kuang**, 2017–2018
-**Krystian Loetscher**, 2019-2020
+**Rebecca Kuang**, 2017–2018    
+**Krystian Loetscher**, 2019-2020   
 **Denelle Mohammed**, 2018–2019  
 **Clara Sava-Segal**, 2017–2018  
 **Jainaha Srikumar**, 2016-2017  
