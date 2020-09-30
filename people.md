@@ -90,7 +90,7 @@ University of Chicago  <br>
 
 ## Research Specialists
 
-**Ariana Gale**
+
 
 ## Undergraduate Research Assistants
 
@@ -171,6 +171,9 @@ Current position: Assistant professor at Hiroshima University
 [Personal website](https://sites.google.com/site/maromachizawa/Home)
 
 ### Former Research Specialists
+
+**Ariana Gale**
+Current position: Studying to be a physician assistant
 
 **Brendan Colson**  
 Current position: UX Researcher
