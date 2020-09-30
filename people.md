@@ -94,13 +94,10 @@ University of Chicago  <br>
 
 ## Undergraduate Research Assistants
 
-**Liam Chai**, 2017–  
-**Albert Chen**, 2017–  
-**Mei Arditi**, 2018–  
-**Yasemin Hasimoglu**, 2018–  
+**Jessica Guigon**, 2020-
 **Paul Keene**, 2018–  
 **Itzel Velazquez**, 2019-  
-**Krystian Loetscher**, 2019-
+
 
 ## Alumni
 
@@ -146,8 +143,8 @@ Current position: Assistant professor at University of Toronto Mississauga
 [Lab website](https://fukudalab.org/)
 
 **Eddie Ester**  
-Current position: Assistant professor at Florida Atlantic University  
-[Lab website](https://www.esterlabfau.com/)
+Current position: Assistant professor at University of Nevada Reno
+[Lab website](https://esterlab.netlify.app/)
 
 **Trafton Drew**  
 Current position: Assistant professor at the University of Utah  
@@ -180,12 +177,17 @@ Current position: UX Researcher
 
 ### Former Undergraduate Research Assistants (incomplete)
 
+**Mei Arditi**, 2018–2020  
 **Murrie Affini**, 2016–2017  
 **Emma Bsales**, 2016–2018  
-**Maryam Bolouri**, 2018–2019  
-**Ricardo Fernandez**, 2017–2018  
+**Maryam Bolouri**, 2018–2019
+**Liam Chai**, 2017–2020  
+**Albert Chen**, 2017–2020 
+**Ricardo Fernandez**, 2017–2018
+**Yasemin Hasimoglu**, 2018–2020
 **Alden Herrera**, 2017  
-**Rebecca Kuang**, 2017–2018  
+**Rebecca Kuang**, 2017–2018
+**Krystian Loetscher**, 2019-2020
 **Denelle Mohammed**, 2018–2019  
 **Clara Sava-Segal**, 2017–2018  
 **Jainaha Srikumar**, 2016-2017  
