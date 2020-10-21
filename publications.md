@@ -27,7 +27,7 @@ Hakim N, Awh E, Vogel EK (submitted). Manifold working memory. In <em>Working me
 
 ### 2020
 
-Adam, K. C., Vogel, E. K., & Awh, E. (2020). Multivariate analysis reveals a generalizable human electrophysiological signature of working memory load. <i>Psychophysiology.</i>[PDF](/files/pdfs/Adams2020.pdf)
+Adam, K. C., Vogel, E. K., & Awh, E. (2020). Multivariate analysis reveals a generalizable human electrophysiological signature of working memory load. <i>Psychophysiology. </i>[PDF](/files/pdfs/Adams2020.pdf)  \| [Data](https://osf.io/6jkqu/)
 
 Quirk C, Adam KCS, Vogel EK (2020). No Evidence for an Object Working Memory Capacity Benefit with Extended Viewing Time. <i>eNeuro</i> [PDF](https://colinquirk.com/publications/papers/Quirk_eneuro2020.pdf)
 
