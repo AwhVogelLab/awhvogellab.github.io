@@ -70,9 +70,9 @@ University of Chicago  <br>
 
 ![Will](/files/images/thyer.jpg){: .image-left}**William Thyer** <br>
 <br>  
-[Personal website](williamthyer.github.io)
+[Personal website](https://williamthyer.github.io)
 <br> 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=UY2PMbcAAAAJ)
+[Google scholar profile](https://scholar.google.com/citations?hl=en&user=UY2PMbcAAAAJ)
 <br> 
 <br>  
 <br>  
