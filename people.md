@@ -79,6 +79,7 @@ University of Chicago  <br>
 
 ![Chong](/files/images/chong.jpg){: .image-left}**Chong Zhao** <br>
 <br>  
+[Google scholar profile](https://scholar.google.co.uk/citations?user=MIo5i3IAAAAJ&hl=en&oi=sra)
 <br>  
 <br>  
 <br>  
