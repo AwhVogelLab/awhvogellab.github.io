@@ -24,6 +24,7 @@ Foster JJ, Vogel EK, & Awh E (in press) Working memory as persistent neural acti
 
 Hakim N, Awh E, Vogel EK (submitted). Manifold working memory. In <em>Working memory: a multicomponent model</em> (Eds. Robert Logie, Nelson Cowan, and Valerie Camos) Oxford University Press.
 
+Ngiam WXQ, Adam KCS, Quirk C, Vogel EK, Awh E. (submitted). Estimating statistical power to detect set size effects in contralateral delay activity. [PsyArXiv](https://psyarxiv.com/nbvkc)
 
 ### 2020
 
