@@ -8,13 +8,11 @@ layout: default
 
 The documents distributed here have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author’s copyright. These works may not be reposted without the explicit permission of the copyright holder. (Notice borrowed from Dave Plaut/Randy O’Reilly)
 
-Year: [2020](#2020) \| [2019](#2019) \| [2018](#2018) \| [2017](#2017) \| [2016](#2016) \| [2015](#2015) \| [2014](#2014) \| [2013](#2013) \| [2012](#2012) \| [2011](#2011) \| [2010](#2010) \| [2009](#2009) \| [Later](#2008)
+Year: [2021](#2021) \| [2020](#2020) \| [2019](#2019) \| [2018](#2018) \| [2017](#2017) \| [2016](#2016) \| [2015](#2015) \| [2014](#2014) \| [2013](#2013) \| [2012](#2012) \| [2011](#2011) \| [2010](#2010) \| [2009](#2009) \| [Later](#2008)
 
 ### Pre-prints
 
 deBettencourt MT, Williams SD, Vogel EK, Awh E (submitted) Sustained attention and spatial attention distinctly influence long-term memory encoding. [BioRxiv](https://www.biorxiv.org/content/10.1101/2020.09.14.297341v1)
-
-Hakim N, Feldmann-Wüstefeld T, Awh E, & Vogel EK (submitted) Controlling the flow of interruption in working memory. [BioRxiv](https://www.biorxiv.org/content/10.1101/2020.09.08.288027v1)
 
 Foster JJ, Thyer W, Wennberg JW, Awh E (submitted) Spatial attention enhances the spatial selectivity of population codes during the first wave of visual processing. [BioRxiv](https://www.biorxiv.org/content/10.1101/2020.07.30.228981v1)  
 
@@ -22,11 +20,16 @@ Hakim N, Awh E, Vogel EK, & Rosenberg MD (submitted) Predicting cognitive abilit
 
 Foster JJ, Vogel EK, & Awh E (in press) Working memory as persistent neural activity. In MJ Kahana & AD Wagner (Eds). Oxford Handbook of Human Memory. Oxford University Press. [PDF](https://psyarxiv.com/jh6e3)
 
-Hakim N, Awh E, Vogel EK (submitted). Manifold working memory. In <em>Working memory: a multicomponent model</em> (Eds. Robert Logie, Nelson Cowan, and Valerie Camos) Oxford University Press.
-
 Ngiam WXQ, Adam KCS, Quirk C, Vogel EK, Awh E. (submitted). Estimating statistical power to detect set size effects in contralateral delay activity. [PsyArXiv](https://psyarxiv.com/nbvkc)
 
+
+### 2021
+
+Hakim N, Feldmann-Wüstefeld T, Awh E, & Vogel EK (in press) Controlling the flow of distracting information in working memory. <i>Cerebral Cortex</i>  [BioRxiv](https://www.biorxiv.org/content/10.1101/2020.09.08.288027v1)
+
 ### 2020
+
+Hakim N, Awh E, Vogel EK (2020). Manifold working memory. In <em>Working memory: a multicomponent model</em> (Eds. Robert Logie, Nelson Cowan, and Valerie Camos) Oxford University Press.
 
 Adam, K. C., Vogel, E. K., & Awh, E. (2020). Multivariate analysis reveals a generalizable human electrophysiological signature of working memory load. <i>Psychophysiology. </i>[PDF](/files/pdfs/Adams2020.pdf)  \| [Data](https://osf.io/6jkqu/)
 
