@@ -18,7 +18,7 @@ Nicole is a doctoral student in the Integrative Neuroscience Program working wit
 <br>
 <a href="https://www.researchgate.net/profile/Nicole_Hakim">Research gate </a>
 <br>
-<a title="Hakim_Resume_April2020" href="files/pdfs/Hakim_Resume_April2020.pdf">CV</a>
+<a title="Hakim_Resume_Jan2021" href="files/pdfs/Hakim_Resume_Jan2021.pdf">CV</a>
 <br>
 <a href="https://scholar.google.com/citations?user=0YNa8scAAAAJ&hl=en&oi=ao">Google scholar</a>
 <br>
@@ -32,11 +32,12 @@ Nicole is a doctoral student in the Integrative Neuroscience Program working wit
 
 <font size="5"><strong>Publications:</strong></font>
 
-<strong>Hakim N</strong>, Feldmann-Wüstefeld T, Awh E, & Vogel EK (<em>submitted</em>). Controlling the flow of interruption in working memory. <a href="https://www.biorxiv.org/content/10.1101/2020.09.08.288027v1">Preprint</a>
 
 <strong>Hakim N</strong>, Awh E, Vogel EK, & Rosenberg MD (<em>submitted</em>). Predicting cognitive abilities across individuals using sparse EEG connectivity. <a href="https://www.biorxiv.org/content/10.1101/2020.07.22.216705v1">Preprint</a>
 
-<strong>Hakim N</strong>, Awh E, Vogel EK (<em>submitted</em>). Manifold working memory. In <em>Working memory: a multicomponent model</em> (Eds. Robert Logie, Nelson Cowan, and Valerie Camos) Oxford University Press.
+<strong>Hakim N</strong>, Feldmann-Wüstefeld T, Awh E, & Vogel EK (<em>in press</em>). Controlling the flow of interruption in working memory. *Cerebral Cortex*.<a href="https://www.biorxiv.org/content/10.1101/2020.09.08.288027v1">Preprint</a>
+
+<strong>Hakim N</strong>, Awh E, Vogel EK (<em>2020</em>). Manifold working memory. In <em>Working memory: a multicomponent model</em> (Eds. Robert Logie, Nelson Cowan, and Valerie Camos) Oxford University Press.
 
 <strong>Hakim N</strong>, deBettencourt MT, Awh E, & Vogel EK (2020). Attention fluctuations impact ongoing maintenance of information in working memory. *Psychonomic Bulletin & Review*. [PDF](/files/pdfs/Hakim2020_Article_AttentionFluctuationsImpactOng.pdf)  \| [Data](https://osf.io/cg5f2/?view_only=ceb70b58c382498cb5d9ffc82223a157)
 
