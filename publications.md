@@ -22,7 +22,7 @@ Foster JJ, Vogel EK, & Awh E (in press) Working memory as persistent neural acti
 
 Ngiam WXQ, Adam KCS, Quirk C, Vogel EK, Awh E (submitted). Estimating statistical power to detect set size effects in contralateral delay activity. [PsyArXiv](https://psyarxiv.com/nbvkc)
 
-Keene PA*, deBettencourt MT*, Awh E, Vogel EK (submitted) Pupillometry signatures of sustained attention and working memory. [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.01.18.426969v1)
+Keene PA\*, deBettencourt MT\*, Awh E, Vogel EK (submitted) Pupillometry signatures of sustained attention and working memory. [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.01.18.426969v1)
 
 
 ### 2021
