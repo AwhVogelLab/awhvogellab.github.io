@@ -110,7 +110,7 @@ Current position: Lecturer, University of Southampton
 [Personal website](http://feldmann-wuestefeld.de/)
 
 **Eren Günseli**  
-Current position: Assistant Professor, Sabancı University
+Current position: Assistant Professor, Sabancı University  
 [Personal website](https://www.gunselilab.com/)
 
 **Roy Luria**  
@@ -145,7 +145,7 @@ Current position: Assistant professor at University of Toronto Mississauga
 [Lab website](https://fukudalab.org/)
 
 **Eddie Ester**  
-Current position: Assistant professor at University of Nevada Reno
+Current position: Assistant professor at University of Nevada Reno  
 [Lab website](https://esterlab.netlify.app/)
 
 **Trafton Drew**  
