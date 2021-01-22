@@ -174,8 +174,8 @@ Current position: Assistant professor at Hiroshima University
 
 ### Former Research Specialists
 
-**Ariana Gale**
-Current position: Studying to be a physician assistant
+**Ariana Gale**  
+Current position: Physician assistant school
 
 **Brendan Colson**  
 Current position: UX Researcher
