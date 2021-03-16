@@ -18,8 +18,6 @@ Hakim N, Awh E, Vogel EK, & Rosenberg MD (submitted) Predicting cognitive abilit
 
 Foster JJ, Vogel EK, & Awh E (in press) Working memory as persistent neural activity. In MJ Kahana & AD Wagner (Eds). Oxford Handbook of Human Memory. Oxford University Press. [PDF](https://psyarxiv.com/jh6e3)
 
-Ngiam WXQ, Adam KCS, Quirk C, Vogel EK, Awh E (accepted). Estimating statistical power to detect set size effects in contralateral delay activity. *Psychophysiology*. [PsyArXiv](https://psyarxiv.com/nbvkc)
-
 Keene PA\*, deBettencourt MT\*, Awh E, Vogel EK (submitted) Pupillometry signatures of sustained attention and working memory. [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.01.18.426969v1)
 
 
@@ -28,6 +26,8 @@ Keene PA\*, deBettencourt MT\*, Awh E, Vogel EK (submitted) Pupillometry signatu
 Foster JJ, Thyer W, Wennberg JW, Awh E (2021). Covert attention increases the gain of stimulus-evoked population codes. <i>Journal of Neuroscience. </i>[PDF](/files/pdfs/Foster_2021_JNeurosci.pdf)  \| [Data](https://osf.io/hmvzc/)
 
 Hakim N, Feldmann-Wüstefeld T, Awh E, & Vogel EK (in press) Controlling the flow of distracting information in working memory. <i>Cerebral Cortex</i>  [BioRxiv](https://www.biorxiv.org/content/10.1101/2020.09.08.288027v1)
+
+Ngiam WXQ, Adam KCS, Quirk C, Vogel EK, Awh E (2021). Estimating statistical power to detect set size effects in contralateral delay activity. *Psychophysiology*. [PDF](https://williamngiam.github.io/files/CDApower.pdf) \| [PsyArXiv](https://psyarxiv.com/nbvkc) \| [Hakim et al. data](https://osf.io/ws3j9/) and [Unsworth et al. data](https://osf.io/qeaet/)
 
 ### 2020
 
