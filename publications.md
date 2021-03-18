@@ -31,7 +31,7 @@ Ngiam WXQ, Adam KCS, Quirk C, Vogel EK, Awh E (2021). Estimating statistical pow
 
 ### 2020
 
-Hakim N, Awh E, Vogel EK (2020). Manifold working memory. In <em>Working memory: a multicomponent model</em> (Eds. Robert Logie, Nelson Cowan, and Valerie Camos) Oxford University Press.
+Hakim N, Awh E, Vogel EK (2020). Manifold working memory. In <em>Working memory: a multicomponent model</em> (Eds. Robert Logie, Nelson Cowan, and Valerie Camos) Oxford University Press. [Book Link](https://books.google.com/books?hl=en&lr=&id=cz0HEAAAQBAJ&oi=fnd&pg=PA1&dq=Manifold+working+memory.+In+Working+memory:+a+multicomponent+model+(Eds.+Robert+Logie,+Nelson+Cowan,+and+Valerie+Camos)+Oxford+University+Press.&ots=36ywgtdBnt&sig=6uiX21krjhS0tvqeRqIanjJIZQA#v=onepage&q=Manifold%20working%20memory.%20In%20Working%20memory%3A%20a%20multicomponent%20model%20(Eds.%20Robert%20Logie%2C%20Nelson%20Cowan%2C%20and%20Valerie%20Camos)%20Oxford%20University%20Press.&f=false)
 
 Adam, K. C., Vogel, E. K., & Awh, E. (2020). Multivariate analysis reveals a generalizable human electrophysiological signature of working memory load. <i>Psychophysiology. </i>[PDF](/files/pdfs/Adams2020.pdf)  \| [Data](https://osf.io/6jkqu/)
 
