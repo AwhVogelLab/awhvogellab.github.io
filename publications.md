@@ -25,7 +25,7 @@ Keene PA\*, deBettencourt MT\*, Awh E, Vogel EK (submitted) Pupillometry signatu
 
 Foster JJ, Thyer W, Wennberg JW, Awh E (2021). Covert attention increases the gain of stimulus-evoked population codes. <i>Journal of Neuroscience. </i>[PDF](/files/pdfs/Foster_2021_JNeurosci.pdf)  \| [Data](https://osf.io/hmvzc/)
 
-Hakim N, Feldmann-Wüstefeld T, Awh E, & Vogel EK (2021). Controlling the flow of distracting information in working memory. <i>Cerebral Cortex</i>  [PDF](/files/pdfs/Hakim_et_al_2021_CerebralCortex.pdf) \| [Data](https://osf.io/3ftvj/?view_only=78990b6136a34a0993f026d7c7697a59)
+Hakim N, Feldmann-Wüstefeld T, Awh E, & Vogel EK (2021). Controlling the flow of distracting information in working memory. <i>Cerebral Cortex.</i>  [PDF](/files/pdfs/Hakim_et_al_2021_CerebralCortex.pdf) \| [Data](https://osf.io/3ftvj/?view_only=78990b6136a34a0993f026d7c7697a59)
 
 Ngiam WXQ, Adam KCS, Quirk C, Vogel EK, Awh E (2021). Estimating statistical power to detect set size effects in contralateral delay activity. *Psychophysiology*. [PDF](https://williamngiam.github.io/files/CDApower.pdf) \| [PsyArXiv](https://psyarxiv.com/nbvkc) \| [Hakim et al. data](https://osf.io/ws3j9/) and [Unsworth et al. data](https://osf.io/qeaet/)
 
