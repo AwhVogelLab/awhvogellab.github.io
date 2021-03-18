@@ -37,7 +37,7 @@ Nicole is a doctoral student in the Integrative Neuroscience Program working wit
 
 <strong>Hakim N</strong>, Feldmann-Wüstefeld T, Awh E, & Vogel EK (<em>2021</em>). Controlling the flow of interruption in working memory. *Cerebral Cortex*. [PDF](/files/pdfs/Hakim_et_al_2021_CerebralCortex.pdf) \| [Data](https://osf.io/3ftvj/?view_only=78990b6136a34a0993f026d7c7697a59)
 
-<strong>Hakim N</strong>, Awh E, Vogel EK (<em>2020</em>). Manifold working memory. In <em>Working memory: a multicomponent model</em> (Eds. Robert Logie, Nelson Cowan, and Valerie Camos) Oxford University Press.
+<strong>Hakim N</strong>, Awh E, Vogel EK (<em>2020</em>). Manifold working memory. In <em>Working memory: a multicomponent model</em> (Eds. Robert Logie, Nelson Cowan, and Valerie Camos) Oxford University Press. [Book Link](https://books.google.com/books?hl=en&lr=&id=cz0HEAAAQBAJ&oi=fnd&pg=PA1&dq=Manifold+working+memory.+In+Working+memory:+a+multicomponent+model+(Eds.+Robert+Logie,+Nelson+Cowan,+and+Valerie+Camos)+Oxford+University+Press.&ots=36ywgtdBnt&sig=6uiX21krjhS0tvqeRqIanjJIZQA#v=onepage&q=Manifold%20working%20memory.%20In%20Working%20memory%3A%20a%20multicomponent%20model%20(Eds.%20Robert%20Logie%2C%20Nelson%20Cowan%2C%20and%20Valerie%20Camos)%20Oxford%20University%20Press.&f=false)
 
 <strong>Hakim N</strong>, deBettencourt MT, Awh E, & Vogel EK (2020). Attention fluctuations impact ongoing maintenance of information in working memory. *Psychonomic Bulletin & Review*. [PDF](/files/pdfs/Hakim2020_Article_AttentionFluctuationsImpactOng.pdf)  \| [Data](https://osf.io/cg5f2/?view_only=ceb70b58c382498cb5d9ffc82223a157)
 
