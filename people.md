@@ -11,8 +11,8 @@ Professor
 Department of Psychology and Institute for Mind and Biology  
 University of Chicago  <br>  
 
-[Faculty Page](https://imb.uchicago.edu/ed-awh/)
-[CV](/files/pdfs/awh_cv)
+[Faculty Page](https://imb.uchicago.edu/ed-awh/) <br>
+[CV](/files/pdfs/awh_cv.pdf)
 
 ---
 
