@@ -10,7 +10,9 @@ layout: default
 Professor  
 Department of Psychology and Institute for Mind and Biology  
 University of Chicago  <br>  
-[Faculty Page](https://imb.uchicago.edu/directory/edward-awh-phd)
+
+[Faculty Page](https://imb.uchicago.edu/ed-awh/)
+[CV](/files/pdfs/awh_cv)
 
 ---
 
@@ -18,7 +20,7 @@ University of Chicago  <br>
 Professor  
 Department of Psychology and Institute for Mind and Biology  
 University of Chicago  <br>  
-[Faculty Page](https://imb.uchicago.edu/directory/edward-vogel-phd)
+[Faculty Page](https://imb.uchicago.edu/ed-vogel/)
 
 ## Post-docs
 
