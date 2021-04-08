@@ -20,6 +20,8 @@ Foster JJ, Vogel EK, & Awh E (in press) Working memory as persistent neural acti
 
 Keene PA\*, deBettencourt MT\*, Awh E, Vogel EK (submitted) Pupillometry signatures of sustained attention and working memory. [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.01.18.426969v1)
 
+Diaz GK, Vogel EK, Awh E (in press) Perceptual grouping reveals distinct roles for sustained slow wave activity and alpha oscillations in working memory. <i>Journal of Cognitive Neuroscience.</i> [Link](https://doi.org/10.1162/jocn_a_01719) \| [Data](https://osf.io/7rxqf/)
+
 
 ### 2021
 
