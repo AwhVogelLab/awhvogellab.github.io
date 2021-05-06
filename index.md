@@ -11,7 +11,7 @@ We are a cognitive neuroscience lab directed by Ed Awh and Ed Vogel at the Unive
 <br>
 <br>
 
-![Lab Photo 2021](/files/images/lab_photo_2021.png)
+![Lab Photo 2021](/files/images/lab_photo_2021.jpg)
 
 ![Lab Photo](/files/images/lab_photo_2019.jpg){:width="100%"}
 
