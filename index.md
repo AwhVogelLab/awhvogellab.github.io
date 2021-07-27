@@ -25,9 +25,9 @@ We are a cognitive neuroscience lab directed by Ed Awh and Ed Vogel at the Unive
     <div id="popup">
     <div id="close">X</div>
     <h2>Research Analyst/Lab Manager in Cognitive Neuroscience at the University of Chicago.</h2>
-    <p>Our lab (PI’s Edward Awh and Edward Vogel) has an opening for a resesarch analyst at the University of Chicago. Start date is flexible. We are running a broad array of projects using behavioral, EEG and functional MRI studies of attention and memory.</p>
+    <p>Our lab (PI’s Edward Awh and Edward Vogel) has an opening for a research analyst at the University of Chicago. Start date is flexible. We are running a broad array of projects using behavioral, EEG and functional MRI studies of attention and memory.</p>
     <p>To see a full records of our published work: <a href="https://awhvogellab.com/publications">https://awhvogellab.com/publications</a></p>
-    <p>Interested candidates should follow this link for more details <a href="https://uchicago.wd5.myworkdayjobs.com/External/job/Hyde-Park-Campus/Research-Analyst_JR11854">Research Analyst Job Link</a></p>
+    <p>Interested candidates should follow this link for more details: <a href="https://uchicago.wd5.myworkdayjobs.com/External/job/Hyde-Park-Campus/Research-Analyst_JR11854">Research Analyst Job Link</a></p>
     <p>The University of Chicago is an Affirmative Action/Equal Opportunity/Disabled/Veterans Employer.</p>
     </div>
 </div>
