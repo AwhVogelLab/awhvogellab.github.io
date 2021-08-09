@@ -33,7 +33,7 @@ Nicole is a doctoral student in the Integrative Neuroscience Program working wit
 <font size="5"><strong>Publications:</strong></font>
 
 
-<strong>Hakim N</strong>, Awh E, Vogel EK, & Rosenberg MD (<em>submitted</em>). Predicting cognitive abilities across individuals using sparse EEG connectivity. <a href="https://www.biorxiv.org/content/10.1101/2020.07.22.216705v1">Preprint</a>
+<strong>Hakim N</strong>, Awh E, Vogel EK, & Rosenberg MD (<em>in press</em>). Predicting cognitive abilities across individuals using sparse EEG connectivity. *Current Biology*.<a href="https://www.biorxiv.org/content/10.1101/2020.07.22.216705v1">Preprint</a>
 
 <strong>Hakim N</strong>, Feldmann-Wüstefeld T, Awh E, & Vogel EK (<em>2021</em>). Controlling the flow of interruption in working memory. *Cerebral Cortex*. [PDF](/files/pdfs/Hakim_et_al_2021_CerebralCortex.pdf) \| [Data](https://osf.io/3ftvj/?view_only=78990b6136a34a0993f026d7c7697a59)
 
