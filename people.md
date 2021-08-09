@@ -100,7 +100,6 @@ University of Chicago  <br>
 
 **Jessica Guigon**, 2020-   
 **Paul Keene**, 2018–  
-**Itzel Velazquez**, 2019-  
 
 
 ## Alumni
@@ -199,6 +198,7 @@ Current position: UX Researcher
 **Clara Sava-Segal**, 2017–2018  
 **Jainaha Srikumar**, 2016-2017  
 **Melanie Sykes**, 2017–2018  
+**Itzel Velazquez**, 2019-2021
 **Citlalli Vivar Aburto**, 2017-2018  
 **Yohyoh Wang**, 2017–2018  
 **Marina Weinberger**, 2017–2018  
