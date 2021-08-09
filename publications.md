@@ -14,16 +14,15 @@ Year: [2021](#2021) \| [2020](#2020) \| [2019](#2019) \| [2018](#2018) \| [2017]
 
 deBettencourt MT, Williams SD, Vogel EK, Awh E (submitted) Sustained attention and spatial attention distinctly influence long-term memory encoding. [BioRxiv](https://www.biorxiv.org/content/10.1101/2020.09.14.297341v1)
 
-Hakim N, Awh E, Vogel EK, & Rosenberg MD (submitted) Predicting cognitive abilities across individuals using sparse EEG connectivity. [BioRxiv](https://www.biorxiv.org/content/10.1101/2020.07.22.216705v1)
-
 Foster JJ, Vogel EK, & Awh E (in press) Working memory as persistent neural activity. In MJ Kahana & AD Wagner (Eds). Oxford Handbook of Human Memory. Oxford University Press. [PDF](https://psyarxiv.com/jh6e3)
 
 Keene PA\*, deBettencourt MT\*, Awh E, Vogel EK (submitted) Pupillometry signatures of sustained attention and working memory. [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.01.18.426969v1)
 
+### 2021
+
 Diaz GK, Vogel EK, Awh E (in press) Perceptual grouping reveals distinct roles for sustained slow wave activity and alpha oscillations in working memory. <i>Journal of Cognitive Neuroscience.</i> [Link](https://doi.org/10.1162/jocn_a_01719) \| [Data](https://osf.io/7rxqf/)
 
-
-### 2021
+Hakim N, Awh E, Vogel EK, & Rosenberg MD (in press) Predicting cognitive abilities across individuals using sparse EEG connectivity. <i>Current Biology. </i>[BioRxiv](https://www.biorxiv.org/content/10.1101/2020.07.22.216705v1)
 
 Foster JJ, Thyer W, Wennberg JW, Awh E (2021). Covert attention increases the gain of stimulus-evoked population codes. <i>Journal of Neuroscience. </i>[PDF](/files/pdfs/Foster_2021_JNeurosci.pdf)  \| [Data](https://osf.io/hmvzc/)
 
