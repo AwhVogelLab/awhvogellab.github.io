@@ -22,7 +22,7 @@ Keene PA\*, deBettencourt MT\*, Awh E, Vogel EK (submitted) Pupillometry signatu
 
 Diaz GK, Vogel EK, Awh E (in press) Perceptual grouping reveals distinct roles for sustained slow wave activity and alpha oscillations in working memory. <i>Journal of Cognitive Neuroscience.</i> [Link](https://doi.org/10.1162/jocn_a_01719) \| [Data](https://osf.io/7rxqf/)
 
-Hakim N, Awh E, Vogel EK, & Rosenberg MD (in press) Predicting cognitive abilities across individuals using sparse EEG connectivity. <i>Current Biology. </i>[BioRxiv](https://www.biorxiv.org/content/10.1101/2020.07.22.216705v1)
+Hakim N, Awh E, Vogel EK, & Rosenberg MD (in press) Inter-electrode correlations measured with EEG predict individual differences in cognitive ability. <i>Current Biology. </i>[BioRxiv](https://www.biorxiv.org/content/10.1101/2020.07.22.216705v1)
 
 Foster JJ, Thyer W, Wennberg JW, Awh E (2021). Covert attention increases the gain of stimulus-evoked population codes. <i>Journal of Neuroscience. </i>[PDF](/files/pdfs/Foster_2021_JNeurosci.pdf)  \| [Data](https://osf.io/hmvzc/)
 
