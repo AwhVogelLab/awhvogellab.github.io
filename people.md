@@ -96,8 +96,11 @@ University of Chicago  <br>
 
 ## Research Specialists
 
+**Anisha Karthikeyan**
+
 ## Undergraduate Research Assistants
 
+**Darius Suplica**, 2021-
 **Jessica Guigon**, 2020-   
 **Paul Keene**, 2018–  
 
