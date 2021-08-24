@@ -41,17 +41,6 @@ University of Chicago  <br>
 
 ## PhD Students
 
-![Nicole](/files/images/nicole.jpg){: .image-left}**Nicole Hakim** <br>  
-<br>  
-[Google scholar profile](https://scholar.google.com/citations?user=0YNa8scAAAAJ&hl=en&oi=ao)
-<br>
-[Personal page](/hakim.html)
-<br>
-<br> 
-<br>
-
----
-
 ![Colin](/files/images/quirk.png){: .image-left}**Colin Quirk** <br>
 <br>  
 [Personal website](http://colinquirk.com/)
@@ -89,8 +78,14 @@ University of Chicago  <br>
 <br>  
 <br>  
 
+---
 
 
+![Henry](/files/images/squares.png){: .image-lef}**Henry Jones** <br>
+<br>
+<br>
+<br>
+<br>
 
 ---
 
@@ -100,10 +95,9 @@ University of Chicago  <br>
 
 ## Undergraduate Research Assistants
 
-**Darius Suplica**, 2021-
+**Darius Suplica**, 2021-    
 **Jessica Guigon**, 2020-   
 **Paul Keene**, 2018–  
-
 
 ## Alumni
 
@@ -126,6 +120,10 @@ Current position: Associate Professor, University of Toyama
 [Personal website](https://sites.google.com/site/htsubomi/)
 
 ### Former PhD Students
+
+**Nicole Hakim**
+Current position: Post-doc at Stanford
+[Personal website](/hakim.html)
 
 **Joshua Foster**  
 Current position: Post-doc at BU  
