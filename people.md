@@ -49,7 +49,6 @@ University of Chicago  <br>
 <br>  
 
 ---
-
 ![Gisella](/files/images/squares.png){: .image-left}**Gisella Diaz** <br>
 <br>  
 <br>  
@@ -57,8 +56,6 @@ University of Chicago  <br>
 <br>  
 
 ---
-
-
 ![Will](/files/images/thyer.jpg){: .image-left}**William Thyer** <br>
 <br>  
 [Personal website](https://williamthyer.github.io)
@@ -69,8 +66,6 @@ University of Chicago  <br>
 <br>  
 
 ---
-
-
 ![Chong](/files/images/chong.jpg){: .image-left}**Chong Zhao** <br>
 <br>  
 [Google scholar profile](https://scholar.google.co.uk/citations?user=MIo5i3IAAAAJ&hl=en&oi=sra)
@@ -79,9 +74,7 @@ University of Chicago  <br>
 <br>  
 
 ---
-
-
-![Henry](/files/images/squares.png){: .image-lef}**Henry Jones** <br>
+![Henry](/files/images/squares.png){: .image-left}**Henry Jones** <br>
 <br>
 <br>
 <br>
@@ -199,7 +192,7 @@ Current position: UX Researcher
 **Clara Sava-Segal**, 2017–2018  
 **Jainaha Srikumar**, 2016-2017  
 **Melanie Sykes**, 2017–2018  
-**Itzel Velazquez**, 2019-2021
+**Itzel Velazquez**, 2019-2021      
 **Citlalli Vivar Aburto**, 2017-2018  
 **Yohyoh Wang**, 2017–2018  
 **Marina Weinberger**, 2017–2018  
