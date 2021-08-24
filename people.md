@@ -115,8 +115,8 @@ Current position: Associate Professor, University of Toyama
 ### Former PhD Students
 
 **Nicole Hakim**
-Current position: Post-doc at Stanford
-[Personal website](/hakim.html)
+Current position: Post-doc at Stanford    
+[Personal website](/hakim.html)     
 
 **Joshua Foster**  
 Current position: Post-doc at BU  
