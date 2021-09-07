@@ -8,6 +8,6 @@ Biopsychological Research Building
 940 E 57th St  
 Chicago, IL 60637  
 
-Email: awhvogellab@gmail.com
+Email: [awhvogellab@gmail.com](mailto:awhvogellab@gmail.com)
 
-If you would like to participate in a study, please sign up here.
+If you would like to participate in a study, please sign up [here](https://awh-vogel.sona-systems.com/Default.aspx?ReturnUrl=/).

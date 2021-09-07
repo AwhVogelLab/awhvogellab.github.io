@@ -46,7 +46,6 @@ University of Chicago  <br>
 [Personal website](http://colinquirk.com/)
 <br>  
 <br>  
-<br>  
 
 ---
 ![Gisella](/files/images/squares.png){: .image-left}**Gisella Diaz** <br>
@@ -82,8 +81,6 @@ University of Chicago  <br>
 <br>
 <br>
 <br>
-
----
 
 
 
