@@ -82,7 +82,6 @@ University of Chicago  <br>
 <br>
 <br>
 <br>
-<br>
 
 ---
 
@@ -91,6 +90,8 @@ University of Chicago  <br>
 ## Research Specialists
 
 **Anisha Karthikeyan**
+<br>
+**Morgan Klutzke**
 
 ## Undergraduate Research Assistants
 
