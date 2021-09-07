@@ -44,6 +44,7 @@ University of Chicago  <br>
 ![Colin](/files/images/quirk.png){: .image-left}**Colin Quirk** <br>
 <br>  
 [Personal website](http://colinquirk.com/)
+<br>
 <br>  
 <br>  
 
