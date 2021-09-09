@@ -351,3 +351,7 @@ Awh E, Smith EE, Jonides J (1995) Human rehearsal processes and the frontal lobe
 Minoshima S, Koeppe RA, Smith EE, Awh E, Jonides J (1994) PET investigations of working memory. *Experimental Medicine* 
 
 Jonides J, Smith EE, Koeppe RA, Awh ES, Minoshima S, Mintun MA (1993) Spatial working memory in humans as revealed by PET. *Nature* [PDF](/files/pdfs/jonides_1993_spatial-wm-PET.pdf)
+
+
+{% assign row = site.data.pubs_table[0] %}
+{{ row | inspect }}
