@@ -353,5 +353,14 @@ Minoshima S, Koeppe RA, Smith EE, Awh E, Jonides J (1994) PET investigations of 
 Jonides J, Smith EE, Koeppe RA, Awh ES, Minoshima S, Mintun MA (1993) Spatial working memory in humans as revealed by PET. *Nature* [PDF](/files/pdfs/jonides_1993_spatial-wm-PET.pdf)
 
 
-{% assign row = site.data.pubs_table[0] %}
-{{ row | inspect }}
+<table>
+    {% for row in site.data.pubs_table %}
+        {% if forloop.first %}
+        <tr>
+            {% for pair in row %}
+                <th>{{ pair[0] }}</th>
+            {% endfor %}
+        </tr>
+        {% endif %}
+    {% endfor %}
+</table>
