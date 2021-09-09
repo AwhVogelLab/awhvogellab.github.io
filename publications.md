@@ -362,5 +362,9 @@ Jonides J, Smith EE, Koeppe RA, Awh ES, Minoshima S, Mintun MA (1993) Spatial wo
             {% endfor %}
         </tr>
         {% endif %}
+
+        {% tablerow pair in row %}
+            {{ pair[1] }}
+        {% endtablerow %}
     {% endfor %}
 </table>
