@@ -17,3 +17,4 @@ gem "jekyll-theme-cayman"
 gem "github-pages", group: :jekyll_plugins
 
 
+gem "sprockets", "~> 3.7"
