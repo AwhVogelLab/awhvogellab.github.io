@@ -24,11 +24,11 @@ University of Chicago  <br>
 
 ## Post-docs
 
-![Megan](/files/images/debettencourt.jpg){: .image-left}**Megan deBettencourt** <br>  
-<br>  
+![Megan](/files/images/debettencourt.jpg){: .image-left}**Megan deBettencourt** <br>    
 [Personal website](http://home.uchicago.edu/~debetten/)
 <br>  
 <br>  
+<br>
 
 ---
 ![Ngiam](/files/images/ngiam.jpg){: .image-left}**William Ngiam** <br>  
