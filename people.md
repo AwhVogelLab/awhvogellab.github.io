@@ -92,9 +92,16 @@ University of Chicago  <br>
 [LinkedIn](http://linkedin.com/in/anisha-karthikeyan-3a8373217)
 <br>
 <br>
+<br>
+<br>
+<br>
 
 ---
-**Morgan Klutzke**
+![Morgan](/files/images/morgan.jpeg){: .image-left}**Morgan Klutzke** <br>
+<br>
+<br>
+<br>
+<br>
 
 ## Undergraduate Research Assistants
 
