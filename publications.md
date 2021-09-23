@@ -357,9 +357,11 @@ Jonides J, Smith EE, Koeppe RA, Awh ES, Minoshima S, Mintun MA (1993) Spatial wo
     {% for row in site.data.pubs_table %}
         {% if forloop.first %}
         <tr>
-            {% for pair in row %}
-                <th>{{ pair[0] }}</th>
-            {% endfor %}
+            <th>Authors</th>
+            <th>Year</th>
+            <th>Title</th>
+            <th>Publication</th>
+            <th>Links</th>
         </tr>
         {% endif %}
 

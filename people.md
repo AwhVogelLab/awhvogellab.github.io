@@ -42,6 +42,7 @@ University of Chicago  <br>
 ## PhD Students
 
 ![Colin](/files/images/quirk.png){: .image-left}**Colin Quirk** <br>
+<br>
 [Personal website](http://colinquirk.com/)
 <br>
 <br>  
@@ -57,6 +58,7 @@ University of Chicago  <br>
 
 ---
 ![Will](/files/images/thyer.jpg){: .image-left}**William Thyer** <br>
+<br>
 [Personal website](https://williamthyer.github.io)
 <br> 
 [Google scholar profile](https://scholar.google.com/citations?hl=en&user=UY2PMbcAAAAJ)
@@ -67,6 +69,7 @@ University of Chicago  <br>
 
 ---
 ![Chong](/files/images/chong.jpg){: .image-left}**Chong Zhao** <br>
+<br>
 [Google scholar profile](https://scholar.google.co.uk/citations?user=MIo5i3IAAAAJ&hl=en&oi=sra)
 <br>  
 <br>  
@@ -88,6 +91,7 @@ University of Chicago  <br>
 ## Research Specialists
 
 ![Anisha](/files/images/anisha.jpg){: .image-left}**Anisha Karthikeyan** <br>
+<br>
 [LinkedIn](http://linkedin.com/in/anisha-karthikeyan-3a8373217)
 <br>
 <br>
