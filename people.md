@@ -87,8 +87,13 @@ University of Chicago  <br>
 
 ## Research Specialists
 
-**Anisha Karthikeyan**
+![Anisha](/files/images/anisha.jpg){: .image-left}**Anisha Karthikeyan** <br>
 <br>
+[LinkedIn](http://linkedin.com/in/anisha-karthikeyan-3a8373217)
+<br>
+<br>
+
+---
 **Morgan Klutzke**
 
 ## Undergraduate Research Assistants
