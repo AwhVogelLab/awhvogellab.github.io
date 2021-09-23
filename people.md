@@ -32,21 +32,21 @@ University of Chicago  <br>
 
 ---
 ![Ngiam](/files/images/ngiam.jpg){: .image-left}**William Ngiam** <br>  
-<br>  
 [Personal website](https://williamngiam.github.io/)
 <br>
 [Twitter](https://twitter.com/will_ngiam/)
 <br>  
 <br>  
+<br>
 
 ## PhD Students
 
 ![Colin](/files/images/quirk.png){: .image-left}**Colin Quirk** <br>
-<br>  
 [Personal website](http://colinquirk.com/)
 <br>
 <br>  
 <br>  
+<br>
 
 ---
 ![Gisella](/files/images/squares.png){: .image-left}**Gisella Diaz** <br>
@@ -57,21 +57,21 @@ University of Chicago  <br>
 
 ---
 ![Will](/files/images/thyer.jpg){: .image-left}**William Thyer** <br>
-<br>  
 [Personal website](https://williamthyer.github.io)
 <br> 
 [Google scholar profile](https://scholar.google.com/citations?hl=en&user=UY2PMbcAAAAJ)
 <br> 
 <br>  
+<br>
 <br>  
 
 ---
 ![Chong](/files/images/chong.jpg){: .image-left}**Chong Zhao** <br>
-<br>  
 [Google scholar profile](https://scholar.google.co.uk/citations?user=MIo5i3IAAAAJ&hl=en&oi=sra)
 <br>  
 <br>  
 <br>  
+<br>
 
 ---
 ![Henry](/files/images/squares.png){: .image-left}**Henry Jones** <br>
@@ -88,7 +88,6 @@ University of Chicago  <br>
 ## Research Specialists
 
 ![Anisha](/files/images/anisha.jpg){: .image-left}**Anisha Karthikeyan** <br>
-<br>
 [LinkedIn](http://linkedin.com/in/anisha-karthikeyan-3a8373217)
 <br>
 <br>
