@@ -77,9 +77,9 @@ University of Chicago  <br>
 <br>
 
 ---
-![Henry](/files/images/squares.png){: .image-left}**Henry Jones** <br>
+![Henry](/files/images/henry.jpg){: .image-left}**Henry Jones** <br>
 <br>
-<br>
+[Twitter](https://twitter.com/IndianaJonesSr/)
 <br>
 <br>
 <br>
