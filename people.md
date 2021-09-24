@@ -47,7 +47,6 @@ University of Chicago  <br>
 <br>
 <br>  
 <br>  
-<!-- <br> -->
 
 ---
 ![Gisella](/files/images/squares.png){: .image-left}**Gisella Diaz** <br>
@@ -74,7 +73,6 @@ University of Chicago  <br>
 <br>  
 <br>  
 <br>  
-<!-- <br> -->
 
 ---
 ![Henry](/files/images/henry.jpg){: .image-left}**Henry Jones** <br>
@@ -100,7 +98,6 @@ University of Chicago  <br>
 <br>
 <br>
 <br>
-<!-- <br> -->
 
 
 ---
