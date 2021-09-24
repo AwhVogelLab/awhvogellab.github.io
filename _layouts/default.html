@@ -23,8 +23,8 @@
           $('div.datatable-begin').nextUntil('div.datatable-end', 'table').addClass('display');
           $('table.display').DataTable( {
               paging: true,
-              stateSave: true,
-              searching: true
+              searching: true,
+              order: [[1, 'desc']] // default ordering by Year
           });
        });
     </script>
