@@ -6,7 +6,7 @@ layout: default
 
 ## Principal Investigators
 
-![Awh](/files/images/awh.jpg){: .image-left}**Ed Awh** <br>  
+![Awh](/files/images/square_photos/awh.jpeg){: .image-left}**Ed Awh** <br>  
 Professor  
 Department of Psychology and Institute for Mind and Biology  
 University of Chicago  <br>  
@@ -14,23 +14,27 @@ University of Chicago  <br>
 [Faculty Page](https://imb.uchicago.edu/ed-awh/) <br>
 [CV](/files/pdfs/awh_cv.pdf)
 
----
 
-![Vogel](/files/images/vogel.jpg){: .image-left}**Ed Vogel** <br>  
+
+![Vogel](/files/images/square_photos/vogel.jpeg){: .image-left}**Ed Vogel** <br>  
 Professor  
 Department of Psychology and Institute for Mind and Biology  
 University of Chicago  <br>  
 [Faculty Page](https://imb.uchicago.edu/ed-vogel/)
 
+
 ## Post-docs
 
-![Megan](/files/images/debettencourt.jpg){: .image-left}**Megan deBettencourt** <br>    
+![Megan](/files/images/square_photos/debettencourt.jpeg){: .image-left}**Megan deBettencourt** <br>    
 [Personal website](http://home.uchicago.edu/~debetten/)
-<br>  
-<br>  
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
----
+
 ![Ngiam](/files/images/ngiam.jpg){: .image-left}**William Ngiam** <br>  
 [Personal website](https://williamngiam.github.io/)
 <br>
@@ -39,24 +43,33 @@ University of Chicago  <br>
 <br>  
 <br>
 
+
+![Piotr](/files/images/squares.png){: .image-left}**Piotr Styrkowiec** <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## PhD Students
 
-![Colin](/files/images/quirk.png){: .image-left}**Colin Quirk** <br>
-<br>
+![Colin](/files/images/square_photos/quirk.jpeg){: .image-left}**Colin Quirk** <br>    
 [Personal website](http://colinquirk.com/)
+<br>  
+<br>  
 <br>
-<br>  
-<br>  
+<br>
 
----
+
 ![Gisella](/files/images/squares.png){: .image-left}**Gisella Diaz** <br>
 <br>  
 <br>  
 <br>  
 <br>  
 
----
-![Will](/files/images/thyer.jpg){: .image-left}**William Thyer** <br>
+
+![Will](/files/images/square_photos/thyer.jpeg){: .image-left}**William Thyer** <br>
 <br>
 [Personal website](https://williamthyer.github.io)
 <br> 
@@ -64,21 +77,21 @@ University of Chicago  <br>
 <br> 
 <br>  
 <br>
-<br>  
+<br>
 
----
-![Chong](/files/images/chong.jpg){: .image-left}**Chong Zhao** <br>
+
+![Chong](/files/images/square_photos/chong.jpeg){: .image-left}**Chong Zhao** <br>
 <br>
 [Google scholar profile](https://scholar.google.co.uk/citations?user=MIo5i3IAAAAJ&hl=en&oi=sra)
 <br>  
 <br>  
-<br>  
+<br>
+<br>
 
----
-![Henry](/files/images/henry.jpg){: .image-left}**Henry Jones** <br>
+
+![Henry](/files/images/square_photos/henry.jpeg){: .image-left}**Henry Jones** <br>
 <br>
 [Twitter](https://twitter.com/IndianaJonesSr/)
-<br>
 <br>
 <br>
 <br>
@@ -100,7 +113,7 @@ University of Chicago  <br>
 <br>
 
 
----
+
 ![Morgan](/files/images/morgan.jpeg){: .image-left}**Morgan Klutzke** <br>
 <br>
 <br>
@@ -108,8 +121,6 @@ University of Chicago  <br>
 <br>
 <br>
 <br>
-<br>
-
 
 
 ## Undergraduate Research Assistants
