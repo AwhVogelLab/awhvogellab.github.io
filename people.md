@@ -44,8 +44,9 @@ University of Chicago  <br>
 <br>
 
 
-![Piotr](/files/images/squares.png){: .image-left}**Piotr Styrkowiec** <br>
+![Piotr](/files/images/piotr.jpg){: .image-left}**Piotr Styrkowiec** <br>
 <br>
+[Google scholar profile](https://scholar.google.com/citations?user=Ec4gY4kAAAAJ&hl=en)
 <br>
 <br>
 <br>
