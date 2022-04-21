@@ -33,7 +33,8 @@ We are a cognitive neuroscience lab directed by Ed Awh and Ed Vogel at the Unive
   crossorigin="anonymous">
 </script>
 
-<script>
+<!-- Uncomment for ad popup -->
+<!-- <script>
 $(document).ready(function() {
     setTimeout(function() {
         $('#overlay').fadeIn(300);  
@@ -42,7 +43,7 @@ $(document).ready(function() {
         $('#overlay').fadeOut(300);
     });
 });
-</script>
+</script> -->
 
 <style>
 #overlay {
