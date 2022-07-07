@@ -22,7 +22,11 @@
       $(document).ready(function(){
           $('div.datatable-begin').nextUntil('div.datatable-end', 'table').addClass('display');
           $('table.display').DataTable( {
-              paging: true,
+              dom: '<ift>',
+              language: {
+                info: 'Showing _TOTAL_ entries'
+              },
+              paging: false,
               searching: true,
               order: [[1, 'desc']] // default ordering by Year
           });
@@ -47,9 +51,15 @@
       </ul>
     </section>
 
+    {% if page.datatable == false %}
     <section class="main-content">
       {{ content }}
     </section>
+    {% endif %}
+
+    {% if page.datatable == true %}
+    {{ content }}
+    {% endif %}
 
   </body>
 </html>
