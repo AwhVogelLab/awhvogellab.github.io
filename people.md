@@ -1,5 +1,6 @@
 ---
 layout: default
+datatable: false
 ---
 
 # People
