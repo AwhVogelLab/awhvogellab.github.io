@@ -118,6 +118,7 @@ University of Chicago  <br>
 
 ![Morgan](/files/images/morgan.jpeg){: .image-left}**Morgan Klutzke** <br>
 <br>
+[LinkedIn](https://www.linkedin.com/in/mklutzke/)
 <br>
 <br>
 <br>
@@ -125,11 +126,14 @@ University of Chicago  <br>
 <br>
 
 
-## Undergraduate Research Assistants
+## Research Assistants
 
+**Temilade Adekoya**, 2021-  
 **Darius Suplica**, 2021-    
-**Jessica Guigon**, 2020-   
-**Paul Keene**, 2018–  
+**Jessica Guigon**, 2020-2022   
+**Paul Keene**, 2018–2020  
+
+<hr>
 
 ## Alumni
 
