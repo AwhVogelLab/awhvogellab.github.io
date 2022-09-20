@@ -1,6 +1,7 @@
 ---
 layout: default
 datatable: true
+image: /files/images/lab_photo_2021.jpg
 ---
 
 <section class="main-content">
