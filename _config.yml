@@ -4,5 +4,4 @@ show_downloads: false
 google_analytics: UA-135440903-2
 theme: jekyll-theme-cayman
 twitter:
-  card: summary
   image: /files/images/lab_photo_2021.jpg
