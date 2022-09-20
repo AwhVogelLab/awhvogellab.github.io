@@ -1,6 +1,7 @@
 ---
 layout: default
 datatable: false
+image: /files/images/lab_photo_2021.jpg
 ---
 
 # About Us
