@@ -3,5 +3,4 @@ description: The Awh Vogel Lab at the University of Chicago uses behavioral and 
 show_downloads: false
 google_analytics: UA-135440903-2
 theme: jekyll-theme-cayman
-twitter:
-  image: /files/images/lab_photo_2021.jpg
+image: /files/images/lab_photo_2021.jpg
