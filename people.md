@@ -38,10 +38,11 @@ University of Chicago  <br>
 
 
 ![Ngiam](/files/images/ngiam.jpg){: .image-left}**William Ngiam** <br>  
-<br>
 [Google Scholar](https://scholar.google.com/citations?user=EW1iZEMAAAAJ&hl=en)  
+<br>
 <br> 
-[Personal website](https://williamngiam.github.io/) 
+[Personal website](https://williamngiam.github.io/)
+<br>
 <br>
 [Twitter](https://twitter.com/will_ngiam/)
 <br>
@@ -56,7 +57,7 @@ University of Chicago  <br>
 <br>
 <br>
 
-![Igor](/files/images/square_photos/igor.jpg){: .image-left}**Igor Utochkin** <br>
+![Igor](/files/images/square_photos/igor.jpeg){: .image-left}**Igor Utochkin** <br>
 <br>
 [Google scholar profile](https://scholar.google.com/citations?user=_tzlWfIAAAAJ&hl=en)
 <br>
@@ -98,6 +99,8 @@ University of Chicago  <br>
 ![Henry](/files/images/square_photos/henry.jpeg){: .image-left}**Henry Jones** <br>
 <br>
 [Twitter](https://twitter.com/IndianaJonesSr/)
+<br>
+<br>
 <br>
 <br>
 <br>
