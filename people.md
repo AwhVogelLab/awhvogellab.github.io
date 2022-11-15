@@ -145,7 +145,7 @@ University of Chicago  <br>
 
 **Temilade Adekoya**, 2021-  
 **Darius Suplica**, 2021-  
-**Crystal Huang**, 2022-
+**Crystal Huang**, 2022-  
 **Will Epstein**, 2022-  
  
 
@@ -156,8 +156,8 @@ University of Chicago  <br>
 ### Former Post-docs
 
 **Tobias Feldmann-Wüstefeld**  
-Current position: Data Scientist at FREE NOW
-Fomerly a lecturer at the University of Southampton  
+Current position: Data Scientist at FREE NOW <br>
+Fomerly a lecturer at the University of Southampton <br>
 [Personal website](http://feldmann-wuestefeld.de/)
 
 **Eren Günseli**  
@@ -175,29 +175,29 @@ Current position: Associate Professor, University of Toyama
 ### Former PhD Students
 
 **Gisella Diaz**
-Current position: Product Data Analyst at Jellyvision
+Current position: Product Data Analyst at Jellyvision <br>
 [LinkedIn](https://www.linkedin.com/in/giselladiaz/)
 
 **Nicole Hakim**
-Current position: Data Scientist at physIQ
-Formerly a post-doc at Stanford    
-[[Personal website](/hakim.html)]
+Current position: Data Scientist at physIQ <br>
+Formerly a post-doc at Stanford    <br>
+[Personal website](/hakim.html)] <br>
 [LinkedIn](https://www.linkedin.com/in/nicole-hakim-phd-ab6989105/)     
 
 **Joshua Foster**  
-Current position: Data Scientist at The Warehouse Group
-Formerly a post-doc at Boston University  
-[Personal website](https://joshuajfoster.github.io/)
+Current position: Data Scientist at The Warehouse Group <br>
+Formerly a post-doc at Boston University  <br>
+[Personal website](https://joshuajfoster.github.io/) <br>
 [LinkedIn](https://www.linkedin.com/in/joshua-foster-64243676/)
 
 **Kirsten Adam**  
-Current position: Assitant Professor at Rice University
-Formerly a post-doc at University of California San Diego  
+Current position: Assistant Professor at Rice University <br>
+Formerly a post-doc at University of California San Diego  <br>
 [Personal website](https://kirsten-adam.com/)
 
 **David Sutterer**  
-Current position: Assistant Professor at University of Knoxville
-Formerly a post-doc at Vanderbilt University
+Current position: Assistant Professor at University of Knoxville <br>
+Formerly a post-doc at Vanderbilt University <br>
 [Personal website](https://davidsutterer.com/)
 
 **Irida Mance**  
