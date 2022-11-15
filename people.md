@@ -38,17 +38,27 @@ University of Chicago  <br>
 
 
 ![Ngiam](/files/images/ngiam.jpg){: .image-left}**William Ngiam** <br>  
-[Personal website](https://williamngiam.github.io/)
+<br>
+[Google Scholar](https://scholar.google.com/citations?user=EW1iZEMAAAAJ&hl=en)  
+<br> 
+[Personal website](https://williamngiam.github.io/) 
 <br>
 [Twitter](https://twitter.com/will_ngiam/)
-<br>  
-<br>  
 <br>
-
+<br>
 
 ![Piotr](/files/images/piotr.jpg){: .image-left}**Piotr Styrkowiec** <br>
 <br>
 [Google scholar profile](https://scholar.google.com/citations?user=Ec4gY4kAAAAJ&hl=en)
+<br>
+<br>
+<br>
+<br>
+<br>
+
+![Igor](/files/images/square_photos/igor.jpg){: .image-left}**Igor Utochkin** <br>
+<br>
+[Google scholar profile](https://scholar.google.com/citations?user=_tzlWfIAAAAJ&hl=en)
 <br>
 <br>
 <br>
@@ -63,13 +73,6 @@ University of Chicago  <br>
 <br>  
 <br>
 <br>
-
-
-![Gisella](/files/images/squares.png){: .image-left}**Gisella Diaz** <br>
-<br>  
-<br>  
-<br>  
-<br>  
 
 
 ![Will](/files/images/square_photos/thyer.jpeg){: .image-left}**William Thyer** <br>
@@ -101,6 +104,14 @@ University of Chicago  <br>
 <br>
 <br>
 
+![Aidan](/files/images/square_photos/aidan.jpeg){: .image-left}**Aidan Healy** <br>
+<br>
+[Twitter](https://www.twitter.com/aidanhealy265)
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 ## Research Specialists
@@ -127,12 +138,13 @@ University of Chicago  <br>
 <br>
 
 
-## Research Assistants
+## Current Research Assistants
 
 **Temilade Adekoya**, 2021-  
-**Darius Suplica**, 2021-    
-**Jessica Guigon**, 2020-2022   
-**Paul Keene**, 2018–2020  
+**Darius Suplica**, 2021-  
+**Crystal Huang**, 2022-
+**Will Epstein**, 2022-  
+ 
 
 <hr>
 
@@ -141,7 +153,8 @@ University of Chicago  <br>
 ### Former Post-docs
 
 **Tobias Feldmann-Wüstefeld**  
-Current position: Lecturer, University of Southampton  
+Current position: Data Scientist at FREE NOW
+Fomerly a lecturer at the University of Southampton  
 [Personal website](http://feldmann-wuestefeld.de/)
 
 **Eren Günseli**  
@@ -158,20 +171,31 @@ Current position: Associate Professor, University of Toyama
 
 ### Former PhD Students
 
+**Gisella Diaz**
+Current position: Product Data Analyst at Jellyvision
+[LinkedIn](https://www.linkedin.com/in/giselladiaz/)
+
 **Nicole Hakim**
-Current position: Post-doc at Stanford    
-[Personal website](/hakim.html)     
+Current position: Data Scientist at physIQ
+Formerly a post-doc at Stanford    
+[[Personal website](/hakim.html)]
+[LinkedIn](https://www.linkedin.com/in/nicole-hakim-phd-ab6989105/)     
 
 **Joshua Foster**  
-Current position: Post-doc at BU  
+Current position: Data Scientist at The Warehouse Group
+Formerly a post-doc at Boston University  
 [Personal website](https://joshuajfoster.github.io/)
+[LinkedIn](https://www.linkedin.com/in/joshua-foster-64243676/)
 
 **Kirsten Adam**  
-Current position: Post-doc at UCSD  
+Current position: Assitant Professor at Rice University
+Formerly a post-doc at University of California San Diego  
 [Personal website](https://kirsten-adam.com/)
 
 **David Sutterer**  
-Current position: Post-doc at Vanderbilt
+Current position: Assistant Professor at University of Knoxville
+Formerly a post-doc at Vanderbilt University
+[Personal website](https://davidsutterer.com/)
 
 **Irida Mance**  
 Current position: Apple
@@ -221,6 +245,8 @@ Current position: UX Researcher
 
 ### Former Undergraduate Research Assistants (incomplete)
 
+**Jessica Guigon**, 2020-2022   
+**Paul Keene**, 2018–2020 
 **Mei Arditi**, 2018–2020  
 **Murrie Affini**, 2016–2017  
 **Emma Bsales**, 2016–2018  
