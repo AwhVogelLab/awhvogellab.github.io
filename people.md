@@ -147,6 +147,7 @@ University of Chicago  <br>
 **Darius Suplica**, 2021-  
 **Crystal Huang**, 2022-  
 **Will Epstein**, 2022-  
+**Sintra Horwitz**, 2022-
  
 
 <hr>
@@ -181,7 +182,7 @@ Current position: Product Data Analyst at Jellyvision <br>
 **Nicole Hakim**
 Current position: Data Scientist at physIQ <br>
 Formerly a post-doc at Stanford    <br>
-[Personal website](/hakim.html)] <br>
+[Personal website](/hakim.html) <br>
 [LinkedIn](https://www.linkedin.com/in/nicole-hakim-phd-ab6989105/)     
 
 **Joshua Foster**  
