@@ -1,7 +1,7 @@
 ---
 layout: default
 datatable: false
-image: /files/images/lab_photo_2021.jpg
+image: /files/images/lab_photo_2023.jpg
 ---
 
 # About Us
@@ -9,6 +9,8 @@ image: /files/images/lab_photo_2021.jpg
 We are a cognitive neuroscience lab directed by Ed Awh and Ed Vogel at the University of Chicago. We study the interactions between visual working memory and selective attention using psychophysical and electrophysiological methods.
 
 <br>
+
+![Lab Photo 2023](/files/images/lab_photo_2023.jpg)
 
 ![Lab Photo 2021](/files/images/lab_photo_2021.jpg)
 
