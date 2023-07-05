@@ -109,6 +109,10 @@ University of Chicago  <br>
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 
 ![Aidan](/files/images/square_photos/aidan.jpeg){: .image-left}**Aidan Healy** <br>
