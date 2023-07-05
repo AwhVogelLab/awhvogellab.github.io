@@ -36,19 +36,18 @@ University of Chicago  <br>
 <br>
 <br>
 
-
 ![Ngiam](/files/images/ngiam.jpg){: .image-left}**William Ngiam** <br>  
 [Google Scholar](https://scholar.google.com/citations?user=EW1iZEMAAAAJ&hl=en)  
 <br>
 [Personal website](https://williamngiam.github.io/)
 <br>
-[Twitter](https://twitter.com/will_ngiam/)
+<br>
 <br>
 <br>
 
 ![Piotr](/files/images/piotr.jpg){: .image-left}**Piotr Styrkowiec** <br>
 <br>
-[Google scholar profile](https://scholar.google.com/citations?user=Ec4gY4kAAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=Ec4gY4kAAAAJ&hl=en)
 <br>
 <br>
 <br>
@@ -57,7 +56,7 @@ University of Chicago  <br>
 
 ![Igor](/files/images/square_photos/igor.jpeg){: .image-left}**Igor Utochkin** <br>
 <br>
-[Google scholar profile](https://scholar.google.com/citations?user=_tzlWfIAAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=_tzlWfIAAAAJ&hl=en)
 <br>
 <br>
 <br>
@@ -110,9 +109,7 @@ University of Chicago  <br>
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 
 ![Aidan](/files/images/square_photos/aidan.jpeg){: .image-left}**Aidan Healy** <br>
 <br>
@@ -121,7 +118,7 @@ University of Chicago  <br>
 <br>
 <br>
 <br>
-<br>
+
 
 
 ## Research Specialists
@@ -187,9 +184,8 @@ Current position: Product Data Analyst at Jellyvision <br>
 [LinkedIn](https://www.linkedin.com/in/giselladiaz/)
 
 **Nicole Hakim**
-Current position: Data Scientist at physIQ <br>
+Current position: Machine Learning Scientist at Tempus<br>
 Formerly a post-doc at Stanford    <br>
-[Personal website](/hakim.html) <br>
 [LinkedIn](https://www.linkedin.com/in/nicole-hakim-phd-ab6989105/)     
 
 **Joshua Foster**  
@@ -223,8 +219,9 @@ Current position: Assistant professor at University of Nevada Reno
 [Lab website](https://esterlab.netlify.app/)
 
 **Trafton Drew**  
-Current position: Assistant professor at the University of Utah  
-[Lab website](http://aval.psych.utah.edu/)
+Current position: Senior User Experience Researcher at Sirona Medical
+Formerly assistant professor at the University of Utah  
+[LinkedIn](https://www.linkedin.com/in/trafton-drew-62435754/)
 
 **Andrew McCollough**  
 Current position: Data Scientist at EdgeRock Technology Partners, A CDI Company
