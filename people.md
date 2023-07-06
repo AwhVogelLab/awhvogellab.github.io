@@ -37,7 +37,7 @@ University of Chicago  <br>
 <br>
 
 
-![Piotr](/files/images/piotr.jpg){: .image-left}**Piotr Styrkowiec** <br>
+![Piotr](/files/images/piotr.jpg){: .image-left}**Piotr Styrkowiec** <br>  
 <br>
 [Google Scholar](https://scholar.google.com/citations?user=Ec4gY4kAAAAJ&hl=en)
 <br>
@@ -47,7 +47,7 @@ University of Chicago  <br>
 <br>
 
 
-![Igor](/files/images/square_photos/igor.jpeg){: .image-left}**Igor Utochkin** <br>
+![Igor](/files/images/square_photos/igor.jpeg){: .image-left}**Igor Utochkin** <br>  
 <br>
 [Google Scholar](https://scholar.google.com/citations?user=_tzlWfIAAAAJ&hl=en)
 <br>
@@ -57,7 +57,7 @@ University of Chicago  <br>
 <br>
 
 
-![Park](/files/images/park.jpg){: .image-left}**Hyung-Bum Park** <br>
+![Park](/files/images/park.jpg){: .image-left}**Hyung-Bum Park** <br>  
 <br>
 [Google Scholar](https://scholar-google-com.proxy.uchicago.edu/citations?user=4oqDb9AAAAAJ&hl=en&oi=ao)
 <br>
@@ -149,7 +149,7 @@ University of Chicago  <br>
 
 ### Former Post-docs
 
-**Megan deBettencourt**
+**Megan deBettencourt**  
 Current position: Research scientist at Ruby Neurotech
 [Personal webiste](https://debetten.github.io)
 [LinkedIn](https://www.linkedin.com/in/megan-debettencourt-7a191222b/)
@@ -173,16 +173,16 @@ Current position: Associate Professor, University of Toyama
 
 ### Former PhD Students
 
-**Gisella Diaz**
+**Gisella Diaz**  
 Current position: Product Data Analyst at Jellyvision <br>
 [LinkedIn](https://www.linkedin.com/in/giselladiaz/)
 
-**Nicole Hakim**
+**Nicole Hakim**  
 Current position: Machine Learning Scientist at Tempus <br>
 Formerly a post-doc at Stanford    <br>
 [LinkedIn](https://www.linkedin.com/in/nicole-hakim-phd-ab6989105/)     
 
-**Colin Quirk**
+**Colin Quirk**  
 Current position: Senior Data Scientist at Cohere Health <br>
 [LinkedIn](https://www.linkedin.com/in/colin-quirk-245957175/)
 
