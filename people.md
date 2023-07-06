@@ -150,8 +150,8 @@ University of Chicago  <br>
 ### Former Post-docs
 
 **Megan deBettencourt**  
-Current position: Research scientist at Ruby Neurotech
-[Personal webiste](https://debetten.github.io)
+Current position: Research scientist at Ruby Neurotech <br>
+[Personal webiste](https://debetten.github.io)<br>
 [LinkedIn](https://www.linkedin.com/in/megan-debettencourt-7a191222b/)
 
 **Tobias Feldmann-Wüstefeld**  
