@@ -27,15 +27,6 @@ University of Chicago  <br>
 
 ## Post-docs
 
-![Megan](/files/images/square_photos/debettencourt.jpeg){: .image-left}**Megan deBettencourt** <br>    
-[Personal website](http://home.uchicago.edu/~debetten/)
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ![Ngiam](/files/images/ngiam.jpg){: .image-left}**William Ngiam** <br>  
 [Google Scholar](https://scholar.google.com/citations?user=EW1iZEMAAAAJ&hl=en)  
 <br>
@@ -44,6 +35,7 @@ University of Chicago  <br>
 <br>
 <br>
 <br>
+
 
 ![Piotr](/files/images/piotr.jpg){: .image-left}**Piotr Styrkowiec** <br>
 <br>
@@ -54,6 +46,7 @@ University of Chicago  <br>
 <br>
 <br>
 
+
 ![Igor](/files/images/square_photos/igor.jpeg){: .image-left}**Igor Utochkin** <br>
 <br>
 [Google Scholar](https://scholar.google.com/citations?user=_tzlWfIAAAAJ&hl=en)
@@ -62,6 +55,7 @@ University of Chicago  <br>
 <br>
 <br>
 <br>
+
 
 ![Park](/files/images/park.jpg){: .image-left}**Hyung-Bum Park** <br>
 <br>
@@ -72,15 +66,8 @@ University of Chicago  <br>
 <br>
 <br>
 
+
 ## PhD Students
-
-![Colin](/files/images/square_photos/quirk.jpeg){: .image-left}**Colin Quirk** <br>    
-[Personal website](http://colinquirk.com/)
-<br>  
-<br>  
-<br>
-<br>
-
 
 ![Will](/files/images/square_photos/thyer.jpeg){: .image-left}**William Thyer** <br>
 <br>
@@ -111,8 +98,6 @@ University of Chicago  <br>
 <br>
 <br>
 <br>
-<br>
-<br>
 
 
 ![Aidan](/files/images/square_photos/aidan.jpeg){: .image-left}**Aidan Healy** <br>
@@ -122,7 +107,8 @@ University of Chicago  <br>
 <br>
 <br>
 <br>
-
+<br>
+<br>
 
 
 ## Research Specialists
@@ -157,12 +143,16 @@ University of Chicago  <br>
 **Will Epstein**, 2022-  
 **Sintra Horwitz**, 2022-
  
-
 <hr>
 
 ## Alumni
 
 ### Former Post-docs
+
+**Megan deBettencourt**
+Current position: Research scientist at Ruby Neurotech
+[Personal webiste](https://debetten.github.io)
+[LinkedIn](https://www.linkedin.com/in/megan-debettencourt-7a191222b/)
 
 **Tobias Feldmann-Wüstefeld**  
 Current position: Data Scientist at FREE NOW <br>
@@ -188,9 +178,13 @@ Current position: Product Data Analyst at Jellyvision <br>
 [LinkedIn](https://www.linkedin.com/in/giselladiaz/)
 
 **Nicole Hakim**
-Current position: Machine Learning Scientist at Tempus<br>
+Current position: Machine Learning Scientist at Tempus <br>
 Formerly a post-doc at Stanford    <br>
 [LinkedIn](https://www.linkedin.com/in/nicole-hakim-phd-ab6989105/)     
+
+**Colin Quirk**
+Current position: Senior Data Scientist at Cohere Health <br>
+[LinkedIn](https://www.linkedin.com/in/colin-quirk-245957175/)
 
 **Joshua Foster**  
 Current position: Data Scientist at The Warehouse Group <br>
@@ -209,22 +203,22 @@ Formerly a post-doc at Vanderbilt University <br>
 [Personal website](https://davidsutterer.com/)
 
 **Irida Mance**  
-Current position: Apple
+Current position: Health Research at Apple
 
 **Brittany Dungan**  
 Current position: Senior UX Researcher at Big Fish Games
 
 **Keisuke Fukuda**  
-Current position: Assistant professor at University of Toronto Mississauga  
+Current position: Assistant Professor at University of Toronto Mississauga  
 [Lab website](https://fukudalab.org/)
 
 **Eddie Ester**  
-Current position: Assistant professor at University of Nevada Reno  
+Current position: Assistant Professor at University of Nevada Reno  
 [Lab website](https://esterlab.netlify.app/)
 
 **Trafton Drew**  
 Current position: Senior User Experience Researcher at Sirona Medical
-Formerly assistant professor at the University of Utah  
+Formerly Assistant Professor at the University of Utah  
 [LinkedIn](https://www.linkedin.com/in/trafton-drew-62435754/)
 
 **Andrew McCollough**  
@@ -250,10 +244,10 @@ Current position: Assistant professor at Hiroshima University
 ### Former Research Specialists
 
 **Ariana Gale**  
-Current position: Physician assistant school
+Current position: Physician Assistant
 
 **Brendan Colson**  
-Current position: UX Researcher
+Current position: Clinical Research Coordinator
 
 ### Former Undergraduate Research Assistants (incomplete)
 
