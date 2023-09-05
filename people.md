@@ -28,6 +28,7 @@ University of Chicago  <br>
 ## Post-docs
 
 ![Ngiam](/files/images/ngiam.jpg){: .image-left}**William Ngiam** <br>  
+<br>
 [Google Scholar](https://scholar.google.com/citations?user=EW1iZEMAAAAJ&hl=en)  
 <br>
 [Personal website](https://williamngiam.github.io/)
@@ -69,17 +70,6 @@ University of Chicago  <br>
 
 ## PhD Students
 
-![Will](/files/images/square_photos/thyer.jpeg){: .image-left}**William Thyer** <br>
-<br>
-[Personal website](https://williamthyer.github.io)
-<br> 
-[Google scholar profile](https://scholar.google.com/citations?hl=en&user=UY2PMbcAAAAJ)
-<br> 
-<br>  
-<br>
-<br>
-
-
 ![Chong](/files/images/square_photos/chong.jpeg){: .image-left}**Chong Zhao** <br>
 <br>
 [Google scholar profile](https://scholar.google.co.uk/citations?user=MIo5i3IAAAAJ&hl=en&oi=sra)
@@ -106,6 +96,15 @@ University of Chicago  <br>
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+
+![Leo](/files/images/square_photos/leo.jpg){: .image-left}**Leo Chang** <br>
+<br>
+[Google Scholar](https://scholar.google.co.uk/citations?user=8DW5ikUAAAAJ&hl=en&oi=ao)
+<br>  
+<br>  
 <br>
 <br>
 <br>
@@ -172,6 +171,10 @@ Current position: Associate Professor, University of Toyama
 [Personal website](https://sites.google.com/site/htsubomi/)
 
 ### Former PhD Students
+
+**William Thyer**
+Current position: Data Scientist at Cohere Health <br>
+[LinkedIn](https://www.linkedin.com/in/williamthyer)
 
 **Gisella Diaz**  
 Current position: Product Data Analyst at Jellyvision <br>
