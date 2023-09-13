@@ -25,18 +25,7 @@ University of Chicago  <br>
 [Faculty Page](https://imb.uchicago.edu/ed-vogel/)
 
 
-## Post-docs
-
-![Ngiam](/files/images/ngiam.jpg){: .image-left}**William Ngiam** <br>  
-<br>
-[Google Scholar](https://scholar.google.com/citations?user=EW1iZEMAAAAJ&hl=en)  
-<br>
-[Personal website](https://williamngiam.github.io/)
-<br>
-<br>
-<br>
-<br>
-
+## Research Scientists
 
 ![Piotr](/files/images/piotr.jpg){: .image-left}**Piotr Styrkowiec** <br>  
 <br>
@@ -47,7 +36,6 @@ University of Chicago  <br>
 <br>
 <br>
 
-
 ![Igor](/files/images/square_photos/igor.jpeg){: .image-left}**Igor Utochkin** <br>  
 <br>
 [Google Scholar](https://scholar.google.com/citations?user=_tzlWfIAAAAJ&hl=en)
@@ -57,6 +45,17 @@ University of Chicago  <br>
 <br>
 <br>
 
+
+## Post-docs
+
+![Ngiam](/files/images/ngiam.jpg){: .image-left}**William Ngiam** <br>  
+<br>
+[Google Scholar](https://scholar.google.com/citations?user=EW1iZEMAAAAJ&hl=en)  
+<br>
+[Personal website](https://williamngiam.github.io/)
+<br>
+<br>
+<br>
 
 ![Park](/files/images/park.jpg){: .image-left}**Hyung-Bum Park** <br>  
 <br>
@@ -78,7 +77,6 @@ University of Chicago  <br>
 <br>
 <br>
 
-
 ![Henry](/files/images/square_photos/henry.jpeg){: .image-left}**Henry Jones** <br>
 <br>
 [Twitter](https://twitter.com/IndianaJonesSr/)
@@ -88,7 +86,6 @@ University of Chicago  <br>
 <br>
 <br>
 <br>
-
 
 ![Aidan](/files/images/square_photos/aidan.jpeg){: .image-left}**Aidan Healy** <br>
 <br>
@@ -110,7 +107,7 @@ University of Chicago  <br>
 <br>
 
 
-## Research Specialists
+## Lab Specialists
 
 ![Anisha](/files/images/anisha.jpg){: .image-left}**Anisha Karthikeyan** <br>
 <br>
@@ -121,8 +118,6 @@ University of Chicago  <br>
 <br>
 <br>
 <br>
-
-
 
 ![Morgan](/files/images/morgan.jpeg){: .image-left}**Morgan Klutzke** <br>
 <br>
@@ -138,7 +133,6 @@ University of Chicago  <br>
 
 **Temilade Adekoya**, 2021-  
 **Darius Suplica**, 2021-  
-**Crystal Huang**, 2022-  
 **Will Epstein**, 2022-  
 **Sintra Horwitz**, 2022-
  
@@ -172,7 +166,7 @@ Current position: Associate Professor, University of Toyama
 
 ### Former PhD Students
 
-**William Thyer**
+**William Thyer**  
 Current position: Data Scientist at Cohere Health <br>
 [LinkedIn](https://www.linkedin.com/in/williamthyer)
 
@@ -230,7 +224,7 @@ Current position: Data Scientist at EdgeRock Technology Partners, A CDI Company
 ### Former Masters Students
 
 **Akiko Ikkai**  
-Current position: UX Researcher
+Current position: UX Research Scientist at Apple
 
 **Akina Umemoto**  
 Current position: Postdoctoral Research Fellow at Toyama University/University of Toronto  
@@ -254,6 +248,7 @@ Current position: Clinical Research Coordinator
 
 ### Former Undergraduate Research Assistants (incomplete)
 
+**Crystal Huang**, 2022-2023  
 **Jessica Guigon**, 2020-2022   
 **Paul Keene**, 2018–2020 
 **Mei Arditi**, 2018–2020  
