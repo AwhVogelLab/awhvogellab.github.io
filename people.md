@@ -27,7 +27,7 @@ University of Chicago  <br>
 
 ## Research Scientists
 
-![Piotr](/files/images/piotr.jpg){: .image-left}**Piotr Styrkowiec** <br>  
+![Piotr](/files/images/square_photos/piotr.jpeg){: .image-left}**Piotr Styrkowiec** <br>  
 <br>
 [Google Scholar](https://scholar.google.com/citations?user=Ec4gY4kAAAAJ&hl=en)
 <br>
@@ -48,7 +48,7 @@ University of Chicago  <br>
 
 ## Post-docs
 
-![Ngiam](/files/images/ngiam.jpg){: .image-left}**William Ngiam** <br>  
+![Ngiam](/files/images/square_photos/ngiam.jpeg){: .image-left}**William Ngiam** <br>  
 <br>
 [Google Scholar](https://scholar.google.com/citations?user=EW1iZEMAAAAJ&hl=en)  
 <br>
@@ -60,6 +60,15 @@ University of Chicago  <br>
 ![Park](/files/images/park.jpg){: .image-left}**Hyung-Bum Park** <br>  
 <br>
 [Google Scholar](https://scholar-google-com.proxy.uchicago.edu/citations?user=4oqDb9AAAAAJ&hl=en&oi=ao)
+<br>
+<br>
+<br>
+<br>
+<br>
+
+![Jae](/files/images/square_photos/jae.jpeg){: .image-left}**Jae Peiso** <br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -109,7 +118,7 @@ University of Chicago  <br>
 
 ## Lab Specialists
 
-![Anisha](/files/images/anisha.jpg){: .image-left}**Anisha Karthikeyan** <br>
+![Anisha](/files/images/square_photos/anisha.jpg){: .image-left}**Anisha Karthikeyan** <br>
 <br>
 [LinkedIn](http://linkedin.com/in/anisha-karthikeyan-3a8373217)
 <br>
@@ -128,10 +137,16 @@ University of Chicago  <br>
 <br>
 <br>
 
+![Temi](/files/images/square_photos/temi.jpg){: .image-left}**Temilade Adekoya** <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Current Research Assistants
 
-**Temilade Adekoya**, 2021-  
 **Darius Suplica**, 2021-  
 **Will Epstein**, 2022-  
 **Sintra Horwitz**, 2022-
