@@ -57,7 +57,7 @@ University of Chicago  <br>
 <br>
 <br>
 
-![Park](/files/images/park.jpg){: .image-left}**Hyung-Bum Park** <br>  
+![Park](/files/images/square_photos/park.jpg){: .image-left}**Hyung-Bum Park** <br>  
 <br>
 [Google Scholar](https://scholar-google-com.proxy.uchicago.edu/citations?user=4oqDb9AAAAAJ&hl=en&oi=ao)
 <br>
@@ -96,7 +96,7 @@ University of Chicago  <br>
 <br>
 <br>
 
-![Aidan](/files/images/square_photos/aidan.jpeg){: .image-left}**Aidan Healy** <br>
+![Aidan](/files/images/square_photos/aidan.jpg){: .image-left}**Aidan Healy** <br>
 <br>
 [Twitter](https://www.twitter.com/aidanhealy265)
 <br>
