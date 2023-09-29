@@ -78,7 +78,7 @@ University of Chicago  <br>
 
 ## PhD Students
 
-![Chong](/files/images/square_photos/chong.jpeg){: .image-left}**Chong Zhao** <br>
+![Chong](/files/images/square_photos/chong.jpg){: .image-left}**Chong Zhao** <br>
 <br>
 [Google scholar profile](https://scholar.google.co.uk/citations?user=MIo5i3IAAAAJ&hl=en&oi=sra)
 <br>  
@@ -128,7 +128,7 @@ University of Chicago  <br>
 <br>
 <br>
 
-![Morgan](/files/images/morgan.jpeg){: .image-left}**Morgan Klutzke** <br>
+![Morgan](/files/images/square_photos/morgan.jpeg){: .image-left}**Morgan Klutzke** <br>
 <br>
 [LinkedIn](https://www.linkedin.com/in/mklutzke/)
 <br>
@@ -136,8 +136,10 @@ University of Chicago  <br>
 <br>
 <br>
 <br>
+<br>
 
 ![Temi](/files/images/square_photos/temi.jpg){: .image-left}**Temilade Adekoya** <br>
+<br>
 <br>
 <br>
 <br>
@@ -265,7 +267,7 @@ Current position: Clinical Research Coordinator
 
 **Crystal Huang**, 2022-2023  
 **Jessica Guigon**, 2020-2022   
-**Paul Keene**, 2018–2020 
+**Paul Keene**, 2018–2020  
 **Mei Arditi**, 2018–2020  
 **Murrie Affini**, 2016–2017  
 **Emma Bsales**, 2016–2018  
