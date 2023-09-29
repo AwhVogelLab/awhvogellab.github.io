@@ -115,6 +115,15 @@ University of Chicago  <br>
 <br>
 <br>
 
+![Huiqin](/files/images/square_photos/huiqin.jpeg){: .image-left}**Huiqin Chen** <br>
+<br>
+<br>
+<br>  
+<br>  
+<br>
+<br>
+<br>
+
 
 ## Lab Specialists
 
