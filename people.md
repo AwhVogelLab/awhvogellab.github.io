@@ -75,6 +75,15 @@ University of Chicago  <br>
 <br>
 <br>
 
+![Matthieu](/files/images/square_photos/matthieu.jpg){: .image-left}**Matthieu Chidharom** <br>
+<br>
+[Google Scholar](https://scholar.google.com/citations?hl=fr&user=nHYIoIQAAAAJ&view_op=list_works)
+<br>
+[ResearchGate](https://www.researchgate.net/profile/Matthieu-Chidharom)
+<br>
+[Twitter/X](https://twitter.com/MChidharom)
+<br>
+<br>
 
 ## PhD Students
 
