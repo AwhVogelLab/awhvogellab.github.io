@@ -77,12 +77,13 @@ University of Chicago  <br>
 
 ![Matthieu](/files/images/square_photos/matthieu.jpg){: .image-left}**Matthieu Chidharom** <br>
 <br>
+Co-supervised by Monica Rosenberg <br>
+<br>
 [Google Scholar](https://scholar.google.com/citations?hl=fr&user=nHYIoIQAAAAJ&view_op=list_works)
 <br>
 [ResearchGate](https://www.researchgate.net/profile/Matthieu-Chidharom)
 <br>
 [Twitter/X](https://twitter.com/MChidharom)
-<br>
 <br>
 <br>
 <br>
@@ -138,26 +139,6 @@ University of Chicago  <br>
 
 ## Lab Specialists
 
-![Anisha](/files/images/square_photos/anisha.jpg){: .image-left}**Anisha Karthikeyan** <br>
-<br>
-[LinkedIn](http://linkedin.com/in/anisha-karthikeyan-3a8373217)
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-![Morgan](/files/images/square_photos/morgan.jpeg){: .image-left}**Morgan Klutzke** <br>
-<br>
-[LinkedIn](https://www.linkedin.com/in/mklutzke/)
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ![Temi](/files/images/square_photos/temi.jpg){: .image-left}**Temilade Adekoya** <br>
 <br>
 <br>
@@ -172,6 +153,8 @@ University of Chicago  <br>
 **Darius Suplica**, 2021-  
 **Will Epstein**, 2022-  
 **Sintra Horwitz**, 2022-
+**Ron Gneezy**, 2023-
+**Lucas Dong**, 2024-
  
 <hr>
 
@@ -276,6 +259,10 @@ Current position: Assistant professor at Hiroshima University
 [Personal website](https://sites.google.com/site/maromachizawa/Home)
 
 ### Former Research Specialists
+
+**Morgan Klutzke**
+
+**Anisha Karthikeyan**
 
 **Ariana Gale**  
 Current position: Physician Assistant
