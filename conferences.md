@@ -6,26 +6,90 @@ image: /files/images/lab_photo_2021.jpg
 
 # Conferences
 
-You can see our lab's conference presentations here:
+You can see the Awh/Vogel lab's conference presentations here:
 
-Conference: [VSS 2024](#VSS-2024) /| [Psychonomics 2020](#Psychonomics-2020)
+Conference: [VSS 2024](#VSS-2024) /| 
 
 ### VSS 2024
+
+#### Talks
+
+***Storage in working memory recruits a modality-independent pointer system***
+
+Henry Jones (henryjones@uchicago.edu), Darius Suplica, William Thyer, Edward Awh
+
+**Sunday, May 19, 11:30am (Talk Room 1)**
+
+Prominent theories of working memory (WM) have proposed that distinct working memory systems may support the storage of different types of information. For example, distinct dorsal and ventral stream brain regions are activated during the storage of spatial and object information in visual WM. Although feature-specific activity is likely critical to WM storage, we hypothesize that a content-independent indexing process may also play a role. Specifically, spatiotemporal pointers may be required for the sustained indexing and tracking of items in space and time, even while features change, within an unfolding event. Past evidence for such a content-independent pointer operation includes the finding that signals tracking the number of individuated representations in WM (load) generalize across colors, orientations and conjunctions of those features. However, overlapping orientation and color codes in early visual cortices may mimic a generalizable signal. Here, we provide a stronger demonstration of content-independence by using pairs of features that are as cortically disparate as possible. Study 1 (n=16) used color and motion coherence stimuli, and showed that load decoding models generalized across these disparate features. In addition, we used representational similarity analysis (RSA) to document “pure” load signals that tracked the number of items stored regardless of attended feature, while simultaneously documenting and controlling for feature-specific neural activity. Extending these observations, in Study 2 (n=24; n=16) we applied similar analytic approaches to demonstrate a common load signature between auditory and visual sensory modalities, while controlling for modality-specific neural activity and the spatial extent of covert attention. Our findings suggest that content-independent pointers may play a fundamental role in the storage of information in working memory, and may contribute to its overall limited capacity.
+
+***Spatiotemporal processing drives the contralateral delay activity in a dual working memory and attentional tracking task***
+
+Piotr Styrkowiec, William Ngiam, Will Epstein, Ron Gneezy, Edward Awh, Edward Vogel
+
+**Sunday, May 19, 2:30pm (Talk Room 1)**
+
+Recent work has suggested that storage in visual working memory (VWM) occurs through the assignment of spatiotemporal pointers to the to-be-remembered items (Thyer et al., 2022). Thus, VWM capacity limits may not be set by the stimulus content exactly, but rather by attentional processes that define the spatiotemporal pointers for item-based storage. We examined whether this is the case in the contralateral delay activity (CDA), an event-related potential long known to track VWM load. The CDA has been shown to track the number of targets in multiple-object tracking (Drew and Vogel, 2008), but also the number of to-be-remembered colors (Vogel and Machizawa, 2004). To directly contrast the effects of attentional tracking load and stimulus content load on working memory, we developed a novel dual-task paradigm. Participants track either one or two moving discs (attentional tracking load), with either two or four colors displayed across each of the discs (working memory load). Participants completed a ‘tracking only’ condition, where they would need to monitor the moving target discs like in a multiple-object tracking task, and a ‘tracking plus memory’ condition, where they would track the discs and remember all displayed colors like in a multiple-identity tracking task. The key question was whether or not CDA amplitude would be determined by the number of individuated items tracked, or by the number of distinct colors associated with the currently tracked items. Strikingly, CDA amplitude was determined almost entirely by the number of items tracked, with no reliable effect of variations in the number of colors per tracked item. These findings suggest the CDA largely reflects the maintenance of spatiotemporal pointers for moving objects, not the number of feature values associated with those objects.
+
+***Associative learning changes multivariate neural signatures of visual working memory***
+
+William Ngiam, William Thyer, Henry Jones, Darius Suplica, Will Epstein, Edward Awh
+
+**Tuesday, May 21, 3:30pm (Talk Room 1)**
+
+A hallmark of visual working memory is its sharp capacity limit, though this limit can be circumvented using learned knowledge. For example, when arrays of to-be-remembered items contain statistical regularities, people can learn the associations between items and recall more information overall (Brady et al., 2009; Ngiam et al., 2019). One proposed mechanism for how this recall benefit is achieved is through ‘memory compression’ – redundancies introduce a reduction of information per item, enabling more items to be stored online. Another proposed mechanism is that pointers are efficiently allocated to each ‘chunk’ with the benefit coming from long-term memory retrieval rather than changes to working memory itself. In an attempt to distinguish between these possibilities, we turned to an EEG measure that tracks the number of individuated items stored in working memory (mvLoad; Thyer et al., 2022). The memory compression account predicts an overall increase in the number of items stored online, whereas the long-term memory retrieval account predicts a reduction in working memory load. Subjects completed a training session where they learned specific color-color pairs. In a subsequent EEG session, subjects completed a recall task with 2 random colors, 4 random colors, or 2 learned color pairs. mvLoad analysis showed a reduction in working memory load for the 2 learned pairs condition (from 4 towards 2), consistent with the notion that an item-based pointer is assigned to each chunk. Moreover, multidimensional scaling shows an additional independent signal that distinguishes the 2 learned pairs condition from the other conditions. We propose that this additional signal reflects the involvement of long-term memory, consistent with the notion that the learned association is being relied upon to maintain the information.
+
+***The effects of visual encoding speed on ERP markers of subsequent retrieval***
+
+Igor Utochkin, Chong Zhao, Edward Vogel
+
+**Wednesday, May 22, 8:15am (Talk Room 2)**
+
+Our memory for meaningful visual stimuli is remarkable: Even when we see thousands of images, each presented for a few seconds, we can later recognize them among new images with high accuracy and in detail (Standing et al., 1973; Brady et al., 2008). However, recognition suffers if the images are encoded at a speed of 2 images per second or faster (Intraub, 1980; Potter, 1976; Potter et al., 2002). Presumably, this happens because the encoding of each new rapidly presented image disrupts relatively slow short-term memory consolidation which is essential for the instantiation of subsequent long-lasting episodic memory. Here, we studied how encoding speed impacts EEG markers of subsequent recognition, namely, ERP Old/New effects, that is, differences between ERP responses to earlier presented (old) and never presented (new) stimuli. In each block, participants memorized sequences of 20 real-world object images at a slow or fast rate (one image each 1,750 ms or 250 ms, respectively). Their memory was then tested with an “old/new” recognition task combined with EEG recording. Our analysis focused on two ERP Old/New components typically distinguished in the literature (Curran, 2000; Paller et al., 2007; Rugg & Curran, 2007): earlier frontal, FN400, and later parietal, LPC. Although observers showed significantly worse recognition at the fast compared to the slow encoding condition, we found almost equally pronounced FN400 in both conditions. In contrast, the LPC was much larger in amplitude in the slow than in the fast encoding blocks. One interpretation of this dissociation can be that fast encoding speed selectively impairs recollection-based memory (which reflects in reduced LPE) but not familiarity-based memory (little effect on FN400). However, other interpretations (e.g., that slower encoding speed causes a stronger confidence signal reflected in LPE) can also be discussed.
+
+#### Posters
+
+***Reaction Time Variability and Mind-Wandering Provide Complementary Insights***
+
+Matthieu Chidharom, Edward Vogel, Monica Rosenberg
+
+**Saturday, May 18m 8:30am (Pavilion)**
+
+Sustained attention refers to the ability to maintain focus on a task over an extended period of time. However, sustaining attention is challenging, as there are inherent fluctuations between periods of good attention (stable and less error-prone) and poor attention (unstable and error-prone). Two main methodologies have been used to isolate these attentional fluctuations in visual attention tasks: objective and subjective approaches. The objective methodology analyzes intraindividual reaction time (RT) variability. For example, Esterman et al. (2013) revealed higher errors during periods of high RT variability (out-of-the-zone state) compared to periods of low variability (in-the-zone state). The subjective methodology uses thought probes to identify mind-wandering episodes (task-unrelated thoughts), that can be either intentional (i.e., deliberate) or unintentional (Seli, 2016). Although previous studies revealed higher error rates during out-of-the-zone and mind-wandering states, it is unclear whether those two methodologies isolate the same or different type of attentional fluctuations. This study compared the two approaches in a single Go/NoGo sustained attention task (N=38), objectively measuring attention via RT variability, and subjectively via intermittent thought probes administered every 30 trials. The entire task lasted approximately 40 minutes. If both methods isolate similar fluctuations, we hypothesize that the time spent out-of-the-zone should be higher during mind-wandering than during on-task periods. Our results revealed significantly higher time out-of-the-zone during mind-wandering (52.1%) compared to on-task periods (47.8%), suggesting the methods isolate, to some extent, similar aspects of fluctuations. However, time out-of-the-zone was significantly higher during intentional (57.7%) versus unintentional mind-wandering (49.7%), indicating higher overlap between the objective and subjective methods for deliberate mind-wandering rather that spontaneous. These findings suggest the two methods capture complementary information about attentional fluctuations and highlights the utility of combining objective and subjective methods to gain a comprehensive understanding of sustained attention and its lapses.
+
+***A Change Localization Benefit for Mixed Arrays Over Uniform Arrays***
+
+Temilade Adekoya, Chong Zhao, Edward Vogel, Edward Awh
+
+**Sunday, May 19, 2:45pm (Pavilion)**
+
+Given relatively sharp capacity limits in visual working memory (WM), there has been sustained interest in whether these limits are based on the number of individuated items stored, or based on interference that varies as a function of inter-item similarity. Object-based models predict that the costs of concurrent storage will be determined only by the total number of items stored, while feature-based models of capacity often argue that competition for feature-specific resources is the key limiting factor. To examine this question we manipulated both the number of stimuli within each memory array, as well as the similarity between those items. Thus, we measured visual WM performance with uniform arrays with only one type of feature (e.g. color), or mixed arrays with two feature-types (e.g. color and orientation). Consistent with object-based models, we observed a significant cost of increasing load in both the mixed and uniform conditions. However, we also saw evidence for a modest advantage in the mixed array conditions, a difference that is not predicted by pure object-based models. Our follow-up work examined whether the advantage in the mixed condition reflects differences in whether items are stored, or differences in memory fidelity. We found that this advantage indeed reflected a change in memory fidelity, specifically a better precision in memory of items in the mixed arrays than in uniform arrays. Additionally, there was no evidence that participants were storing a larger number of items in the mixed condition. These results suggest that working memory performance is subject to item-based limits independent of item similarity, but the fidelity of those memories can be shaped by inter-item similarity.
+
+***Visual working memory load persists during the comparison phase***
+
+Chong Zhao, Temilade Adekoya, Sintra Horwitz, Edward Awh, Edward Vogel
+
+**Sunday, May 19, 2:45pm (Pavilion)**
+
+Working memory is often measured by presenting arrays of visual items to be remembered over a short delay that must be compared with a test display. Extensive work has elucidated the neural mechanisms that support the encoding and maintenance periods of these tasks. Though, little is still understood about the comparison process itself. For example, the contralateral delay activity (CDA) is a sustained EEG component that provides a sensitive measure of the current working memory load during the retention period. However, it is not clear whether this activity continues to track the full working memory load during the comparison phase of the task or if it is reduced to just the one item from the array that is being tested. In Experiment 1, we used a change localization task with 2-item and 4-item arrays of colors. At test, subjects had to report which item changed. We observed that the response-phase CDA for set size 4 was significantly larger than the CDA for set size 2. In Experiment 2 we used a single-probe change detection design, in which only a single item from the original array was shown at test. Despite only a single item shown on the screen, we again observed that the response-phase CDA for set size 4 was still significantly larger than the CDA for set size 2. Our results suggest that the working memory load during test reflects the load from all of the items from the array that were stored.
+
+
+***Crossing category boundaries: Perceptual hysteresis for scenes even with endpoint preview***
+
+Huiqin Chen, Mei Yang, Gaeun Son, Dirk Bernhardt-Walther
+
+**Monday, May 20, 8:30am (Pavilion)**
+
+n dynamically changing environments, how does our visual system make quick perceptual decisions based on information that is actively changing? The hysteresis effect suggests that when resolving perceptual ambiguity, people tend to stick with their current interpretation of sensory information and find it difficult to change their perception until there is a noticeable and significant change in input. We here demonstrate this effect for dynamically changing scenes. We further explored how prior exposure to target scene would affect the hysteresis effect. We used indoor scene images generated with a Generative Adversarial Network to create smooth yet realistic transitions between scene categories. Participants were asked to report when they perceived a shift in category during these transitions. Before each trial, participants were provided with information about the scene category at the end of the transition, either in the form of words, images, or both. Each transition was repeated in both directions (A to B and B to A), and the differences in responses between the two opposite directions were analyzed. Our findings indicated that exposure to words or images had no effect on perceptual hysteresis. Even when participants had knowledge of the target category, their perception of the image categories was still biased towards the initial category. This result suggests that neither semantic knowledge nor visual representation of the future can influence the hysteresis effect. The top-down knowledge of the future direction does not impact or eliminate the conservatism of the visual system. This has important implications, indicating that hysteresis is an innate characteristic of the visual system and is not easily influenced by higher-level control. Thus, perceptual conservatism is likely instrumental for the apparent stability of visual perception in most real-world settings.
 
 ***Unfolding Serial Dependence Across Perception, Working Memory Consolidation and Retrieval***
 
 Hyung-Bum Park (hbpark@uchicago.edu), Edward Awh
 
+**Tuesday, May 21, 8:30am (Banyan Breezeway)**
+
 **Abstract**
 
 The debate on serial dependence questions its origin in perceptual versus post-perceptual working memory (WM) components, with mixed findings on whether perceptual decisions exhibit attractive serial dependence toward previous target or repulsive bias linked to sensory adaptation. The present study aims to examine the dynamics of serial biases across perception and WM processes at consolidation and retrieval. Participant performed a two-part experiment, with the first part involved immediate continuous estimations of color on color-wheel within view (perceptual report). The second part involved WM recall with dual-response. A memory color followed by masks was reported after stimulus offset (consolidation report), and the same item was reported again after delay on another color-wheel (retrieval report). Mouse trajectories for all responses were recorded to index direction and magnitude of serial bias. Behavioral reports showed a gradual evolution of serial bias across opposite directions: repulsion in perceptual reports, moderate attraction in consolidation, and stronger attraction in retrieval. Critically, we found a unique mouse trajectory pattern in consolidation reports, with a repulsive curvature from the previous target appearing on the color-wheel, while the overall trajectory exhibited attraction bias. Further examination of moment-by-moment trajectories, coupled with a median-split of movement onset latency, captured a ‘repulsion-to-attraction’ transition in consolidation reports, with early repulsion evolving into attraction as movements progressed. Moreover, the median-split analysis revealed a magnification of bias from early-onset to late-onset trials within their directions (stronger repulsion vs. attraction in perceptual and WM reports, respectively). These suggest that changes in serial biases across processes are not solely time-dependent, but originate from distinct perceptual and WM mechanisms. The repulsion-to-attraction transition during the WM consolidation phase offers an intermediate window into the interplay between sensory adaptation and serial dependence, jointly shaping serial bias in behavioral reports. Together, our study provides evidence supporting the mnemonic origin of serial dependence.
-
-
-
-
-### Psychonomics 2020
-
-Ngiam, W.X.Q., Loetscher, K.B., Vogel, E.K., Awh, E. Object-based storage benefits reveal an item-based capacity limit in visual working memory. [Poster](/files/conferences/ngiamVSS2020.pdf) \| [Video](/files/conferences/ngiamPNOM2020.mp4)
 
 ## Copyright Notice
 
