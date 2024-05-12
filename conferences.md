@@ -8,11 +8,11 @@ image: /files/images/lab_photo_2021.jpg
 
 You can see the Awh/Vogel lab's conference presentations here:
 
-Conference: [VSS 2024](#VSS-2024) /| 
+Conference: [VSS 2024](#VSS-2024) 
 
-### VSS 2024
+## VSS 2024
 
-#### Talks
+### Talks
 
 ***Storage in working memory recruits a modality-independent pointer system***
 
@@ -38,6 +38,8 @@ William Ngiam, William Thyer, Henry Jones, Darius Suplica, Will Epstein, Edward 
 
 A hallmark of visual working memory is its sharp capacity limit, though this limit can be circumvented using learned knowledge. For example, when arrays of to-be-remembered items contain statistical regularities, people can learn the associations between items and recall more information overall (Brady et al., 2009; Ngiam et al., 2019). One proposed mechanism for how this recall benefit is achieved is through ‘memory compression’ – redundancies introduce a reduction of information per item, enabling more items to be stored online. Another proposed mechanism is that pointers are efficiently allocated to each ‘chunk’ with the benefit coming from long-term memory retrieval rather than changes to working memory itself. In an attempt to distinguish between these possibilities, we turned to an EEG measure that tracks the number of individuated items stored in working memory (mvLoad; Thyer et al., 2022). The memory compression account predicts an overall increase in the number of items stored online, whereas the long-term memory retrieval account predicts a reduction in working memory load. Subjects completed a training session where they learned specific color-color pairs. In a subsequent EEG session, subjects completed a recall task with 2 random colors, 4 random colors, or 2 learned color pairs. mvLoad analysis showed a reduction in working memory load for the 2 learned pairs condition (from 4 towards 2), consistent with the notion that an item-based pointer is assigned to each chunk. Moreover, multidimensional scaling shows an additional independent signal that distinguishes the 2 learned pairs condition from the other conditions. We propose that this additional signal reflects the involvement of long-term memory, consistent with the notion that the learned association is being relied upon to maintain the information.
 
+[Talk Slides](https://palm-lab.github.io/files/Ngiam_VSS2024.pdf)
+
 ***The effects of visual encoding speed on ERP markers of subsequent retrieval***
 
 Igor Utochkin, Chong Zhao, Edward Vogel
@@ -46,7 +48,7 @@ Igor Utochkin, Chong Zhao, Edward Vogel
 
 Our memory for meaningful visual stimuli is remarkable: Even when we see thousands of images, each presented for a few seconds, we can later recognize them among new images with high accuracy and in detail (Standing et al., 1973; Brady et al., 2008). However, recognition suffers if the images are encoded at a speed of 2 images per second or faster (Intraub, 1980; Potter, 1976; Potter et al., 2002). Presumably, this happens because the encoding of each new rapidly presented image disrupts relatively slow short-term memory consolidation which is essential for the instantiation of subsequent long-lasting episodic memory. Here, we studied how encoding speed impacts EEG markers of subsequent recognition, namely, ERP Old/New effects, that is, differences between ERP responses to earlier presented (old) and never presented (new) stimuli. In each block, participants memorized sequences of 20 real-world object images at a slow or fast rate (one image each 1,750 ms or 250 ms, respectively). Their memory was then tested with an “old/new” recognition task combined with EEG recording. Our analysis focused on two ERP Old/New components typically distinguished in the literature (Curran, 2000; Paller et al., 2007; Rugg & Curran, 2007): earlier frontal, FN400, and later parietal, LPC. Although observers showed significantly worse recognition at the fast compared to the slow encoding condition, we found almost equally pronounced FN400 in both conditions. In contrast, the LPC was much larger in amplitude in the slow than in the fast encoding blocks. One interpretation of this dissociation can be that fast encoding speed selectively impairs recollection-based memory (which reflects in reduced LPE) but not familiarity-based memory (little effect on FN400). However, other interpretations (e.g., that slower encoding speed causes a stronger confidence signal reflected in LPE) can also be discussed.
 
-#### Posters
+### Posters
 
 ***Reaction Time Variability and Mind-Wandering Provide Complementary Insights***
 
@@ -72,7 +74,6 @@ Chong Zhao, Temilade Adekoya, Sintra Horwitz, Edward Awh, Edward Vogel
 
 Working memory is often measured by presenting arrays of visual items to be remembered over a short delay that must be compared with a test display. Extensive work has elucidated the neural mechanisms that support the encoding and maintenance periods of these tasks. Though, little is still understood about the comparison process itself. For example, the contralateral delay activity (CDA) is a sustained EEG component that provides a sensitive measure of the current working memory load during the retention period. However, it is not clear whether this activity continues to track the full working memory load during the comparison phase of the task or if it is reduced to just the one item from the array that is being tested. In Experiment 1, we used a change localization task with 2-item and 4-item arrays of colors. At test, subjects had to report which item changed. We observed that the response-phase CDA for set size 4 was significantly larger than the CDA for set size 2. In Experiment 2 we used a single-probe change detection design, in which only a single item from the original array was shown at test. Despite only a single item shown on the screen, we again observed that the response-phase CDA for set size 4 was still significantly larger than the CDA for set size 2. Our results suggest that the working memory load during test reflects the load from all of the items from the array that were stored.
 
-
 ***Crossing category boundaries: Perceptual hysteresis for scenes even with endpoint preview***
 
 Huiqin Chen, Mei Yang, Gaeun Son, Dirk Bernhardt-Walther
@@ -90,6 +91,15 @@ Hyung-Bum Park (hbpark@uchicago.edu), Edward Awh
 **Abstract**
 
 The debate on serial dependence questions its origin in perceptual versus post-perceptual working memory (WM) components, with mixed findings on whether perceptual decisions exhibit attractive serial dependence toward previous target or repulsive bias linked to sensory adaptation. The present study aims to examine the dynamics of serial biases across perception and WM processes at consolidation and retrieval. Participant performed a two-part experiment, with the first part involved immediate continuous estimations of color on color-wheel within view (perceptual report). The second part involved WM recall with dual-response. A memory color followed by masks was reported after stimulus offset (consolidation report), and the same item was reported again after delay on another color-wheel (retrieval report). Mouse trajectories for all responses were recorded to index direction and magnitude of serial bias. Behavioral reports showed a gradual evolution of serial bias across opposite directions: repulsion in perceptual reports, moderate attraction in consolidation, and stronger attraction in retrieval. Critically, we found a unique mouse trajectory pattern in consolidation reports, with a repulsive curvature from the previous target appearing on the color-wheel, while the overall trajectory exhibited attraction bias. Further examination of moment-by-moment trajectories, coupled with a median-split of movement onset latency, captured a ‘repulsion-to-attraction’ transition in consolidation reports, with early repulsion evolving into attraction as movements progressed. Moreover, the median-split analysis revealed a magnification of bias from early-onset to late-onset trials within their directions (stronger repulsion vs. attraction in perceptual and WM reports, respectively). These suggest that changes in serial biases across processes are not solely time-dependent, but originate from distinct perceptual and WM mechanisms. The repulsion-to-attraction transition during the WM consolidation phase offers an intermediate window into the interplay between sensory adaptation and serial dependence, jointly shaping serial bias in behavioral reports. Together, our study provides evidence supporting the mnemonic origin of serial dependence.
+
+***Investigating Meaningfulness in Visual Working Memory***
+
+Leo Chang (woohyeukchang@uchicago.edu), William Ngiam, Edward Awh
+
+**Tuesday, May 21, 2:45pm (Banyan Breezeway)** (Pre-data Poster!)
+
+There has been a growing body of work in Visual Working Memory (VWM), where researchers are utilizing the real-world objects as test stimuli, instead of simple colored shapes and orientations, that are more meaningful. In addition, there are findings that show advantage in VWM capacity for real-world objects, suggesting that the meaningfulness is contributing to our visual cognition, possibly through the involvement of our episodic Long Term Memory (LTM) system. However, the concept of meaningfulness has not been defined nor tested thoroughly. To understand how such concept affects our VWM, we propose the usage of words that clearly have associated meanings and are prevalent in our daily lives, just like real-world objects. Before investigating the effect of meaningfulness in words on VWM, we will run a scalp EEG replication study with a slight modification, where we present words in CDA design with place holders. This would allow us to perform multivariate load analysis and further confirm that words do undergo similar VWM processing as simple colored stimuli. Next, we will run a more canonical working memory paradigms using words with a manipulation of meaningfulness (e.g., word frequency, emotion, semantics) and see if we observe different patterns in both behavior and neural responses in scalp EEG recordings as a function of meaningfulness in words. This dataset will not only create an opportunity for better understanding in how meaningfulness influence VWM but also allow us to directly investigate the interaction between VWM and LTM. 
+
 
 ## Copyright Notice
 
