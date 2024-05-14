@@ -1,7 +1,7 @@
 ---
 layout: default
 datatable: false
-image: /files/images/lab_photo_2021.jpg
+image: /files/images/lab_photo_2023_sep.jpg
 ---
 
 # Conferences
@@ -30,7 +30,7 @@ Piotr Styrkowiec, William Ngiam, Will Epstein, Ron Gneezy, Edward Awh, Edward Vo
 
 Recent work has suggested that storage in visual working memory (VWM) occurs through the assignment of spatiotemporal pointers to the to-be-remembered items (Thyer et al., 2022). Thus, VWM capacity limits may not be set by the stimulus content exactly, but rather by attentional processes that define the spatiotemporal pointers for item-based storage. We examined whether this is the case in the contralateral delay activity (CDA), an event-related potential long known to track VWM load. The CDA has been shown to track the number of targets in multiple-object tracking (Drew and Vogel, 2008), but also the number of to-be-remembered colors (Vogel and Machizawa, 2004). To directly contrast the effects of attentional tracking load and stimulus content load on working memory, we developed a novel dual-task paradigm. Participants track either one or two moving discs (attentional tracking load), with either two or four colors displayed across each of the discs (working memory load). Participants completed a ‘tracking only’ condition, where they would need to monitor the moving target discs like in a multiple-object tracking task, and a ‘tracking plus memory’ condition, where they would track the discs and remember all displayed colors like in a multiple-identity tracking task. The key question was whether or not CDA amplitude would be determined by the number of individuated items tracked, or by the number of distinct colors associated with the currently tracked items. Strikingly, CDA amplitude was determined almost entirely by the number of items tracked, with no reliable effect of variations in the number of colors per tracked item. These findings suggest the CDA largely reflects the maintenance of spatiotemporal pointers for moving objects, not the number of feature values associated with those objects.
 
-***Associative learning changes multivariate neural signatures of visual working memory***
+[***Associative learning changes multivariate neural signatures of visual working memory***](https://palm-lab.github.io/files/Ngiam_VSS2024.pdf)
 
 William Ngiam, William Thyer, Henry Jones, Darius Suplica, Will Epstein, Edward Awh
 
