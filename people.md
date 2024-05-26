@@ -48,15 +48,6 @@ University of Chicago  <br>
 
 ## Post-docs
 
-![Ngiam](/files/images/square_photos/ngiam.jpeg){: .image-left}**William Ngiam** <br>  
-<br>
-[Google Scholar](https://scholar.google.com/citations?user=EW1iZEMAAAAJ&hl=en)  
-<br>
-[Personal website](https://williamngiam.github.io/)
-<br>
-<br>
-<br>
-
 ![Park](/files/images/square_photos/park.jpg){: .image-left}**Hyung-Bum Park** <br>  
 <br>
 [Google Scholar](https://scholar-google-com.proxy.uchicago.edu/citations?user=4oqDb9AAAAAJ&hl=en&oi=ao)
@@ -161,6 +152,11 @@ Co-supervised by Monica Rosenberg <br>
 ## Alumni
 
 ### Former Post-docs
+
+**William Ngiam**
+Current position: Lecturer, University of Adelaide <br>
+[Personal website](https://williamngiam.github.io) <br>
+[Lab website](https://palm-lab.github.io)
 
 **Megan deBettencourt**  
 Current position: Research scientist at Ruby Neurotech <br>
