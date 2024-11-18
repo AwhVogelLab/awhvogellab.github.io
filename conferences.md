@@ -8,11 +8,88 @@ image: /files/images/lab_photo_2023_sep.jpg
 
 You can see the Awh/Vogel lab's conference presentations here:
 
-Conference: [VSS 2024](#VSS-2024) 
+Conference:  
+[OPAM/Psychonomic 2024](#OPAMPsychonomics-2024)  
+[VSS 2024](#VSS-2024) 
 
-## VSS 2024
+# OPAM/Psychonomics 2024
 
-### Talks
+## OPAM - Talks
+
+
+***Reconciling Meaningful Object Benefit in Visual Working Memory: The Role of Proactive Interference***
+
+Hyung-Bum Park & Edward Awh
+
+**Thursday, November 21, 3:40 - 4:40pm (Talk Session 4)**
+
+Visual working memory (VWM) capacity is often reported higher for meaningful objects due to their rich representations. However, previous work has confounded meaningfulness with the strength of proactive interference (PI) between stimulus types. By manipulating stimulus type and repetition in a recognition task, we found the VWM benefit for meaningful objects appeared only in the trial-unique condition due to lower false-alarm rates. Mouse trajectory analysis highlighted robust PI effects during initial movements in trial-repeated conditions. Dual-process modeling indicated the benefit was driven by global familiarity, not recollection. These results highlight the role of long-term memory, through PI, in shaping VWM capacity estimates.
+
+
+***Keynote Address: Working memory storage depends on content-independent pointers***
+
+Edward Awh
+
+**Thursday, November 21, 4:50-5:45pm**
+
+Working memory theorists have often highlighted the links between voluntary attentional control and the intentional storage of information in working memory (WM). For example, my early work provided initial evidence that covert spatial attention is oriented towards positions held in spatial WM, yielding faster behavioral responses and enhanced visually-evoked neural activity at memorized locations. Twenty-five years later, temporally resolved EEG measures of covert attention provide even clearer evidence for the parallel deployment of covert spatial attention during visual working memory tasks, even when location is irrelevant to the task. Nevertheless, here I will show that while spatial attention is a persistent partner of visual working memory, the deployment of spatial attention can be functionally dissociated from encoding into visual working memory. Specifically, WM storage recruits a content-independent indexing operation that tracks the number of items currently stored in WM, independent of the features contained in those items. Our hypothesis is that this content-independent load signal reflects the deployment of “pointers” that enables the binding of items to the surrounding context. Critically, I’ll present direct evidence that observers can spatially attend and categorize items without encoding those items into working memory. Thus, spatial attention and pointer deployment reflect dissociable aspects of voluntary attentional control, a distinction that may enrich our understanding of a range of major attentional phenomena.
+
+
+## OPAM - Posters
+
+***The brain knows more is stored in visual long-term memory than we can report***
+
+Chong Zhao, Keisuke Fukuda & Geoffrey F. Woodman
+
+**Thursday November 21, 11:30am-12:30pm (Poster Session 1)**
+
+When we attempt to recall a representation from visual long-term memory, there is a possibility that we might not succeed in retrieving it even though it exists in our brain. This study reveals that while explicit memory retrieval mechanisms sometimes fail to access these stored memories, executive control mechanisms can swiftly query the memory to confirm the presence of a representation. Our findings suggest that much of the memory typically accessed implicitly is, in fact, directly accessible by the brain’s higher-level control processes.
+
+
+## Psychonomics - Talks
+
+***Neural evidence for modality-general indexing in working memory***
+
+Henry Jones, Darius Suplica, William Thyer, Edward Awh
+
+**Friday, November 22, 10:40-11:00am (Visual Working Memory II)**
+
+Neural studies of working memory (WM) have strongly focused on the stimulus-specific neural patterns that track the stored content. By contrast, we highlight a distinct class of neural signals that appears to track the number of individuated items stored in a content-independent fashion. We propose that these load signals track the deployment of spatiotemporal pointers that bind stored items to the surrounding context. We provide support for this theory in 2 EEG experiments. First, we show that the multivariate signature of these pointers generalizes across color and motion stimuli, despite the cortically disparate representations of these features (Experiment 1). Moreover, representational similarity analysis (RSA) reveals a pointer signal that generalizes across visual and auditory sensory modalities, while also providing evidence for distinct signals reflecting spatial attention and feature load (Experiment 2). These results support the abstract indexing of individuated memory representations as a core component of WM storage and may provide ins
+
+
+***Recognition-memory asymmetries predicted from item memorability***
+
+Igor Utochkin, Nicholas Chiang, & Wilma Bainbridge
+
+**Friday, November 22, 4:50-5:10pm (Recognition I)**
+
+In two-alternative forced-choice (2-AFC) memory tests, target-foil similarity is a strong determinant of confusions. We hypothesize that confusions can be driven by intrinsic memorability properties of test items, the likelihood for each item to be correctly or falsely recognized individually. We tested old-new recognition for 240 images in two groups of 100 observers swapping target-foil roles between the groups, which yielded hit (H) and false alarm (FA) rates for each image. We z-transformed H and FA to locate both roles of all items in a signal-detection “memorability space” and predicted 2-AFC discriminability (d’) between arbitrary targets and foils. Critically, for some 2-AFC pairs we predicted strong d’ asymmetries when items swap their target-foil roles. These predictions were confirmed in a 2-AFC experiment with the same set of images and two new groups of observers studying either one or another set of targets but tested on the same target-foil pairs. The d’ asymmetries between identical pairs with swapped roles highly correlated with the asymmetries predicted by our model (rho=.73). These asymmetries cannot be explained by simple inter-item similarity and require incorporating memorability to the existing models.
+
+
+## Psychonomics - Posters
+
+***Characterizing individual differences in sustained attention, attentional control, and long-term memory***
+
+Chong Zhao, Anna Corriveau, Jin Ke, Edward K. Vogel, Monica Rosenberg
+
+**Friday, November 22, 7:45-9:15pm (Poster Session IV)**
+
+Individuals differ in their ability to sustain attention. However, whether differences in sustained attention reflect differences in attentional control (AC) and long-term memory (LTM) or whether these abilities comprise largely separable processes remains unknown. We conducted an online study measuring participants' sustained attention, AC, and LTM. We measured sustained attention with an audio-visual continuous performance task (avCPT) in which participants responded to visual or auditory stimuli while inhibiting responses to infrequent targets, AC with Square tasks, and LTM with recognition and source memory tests. An exploratory factor analysis revealed that sustained attention formed a distinct factor (eigenvalue = 4.71) that loaded positively onto LTM, and, to a lesser extent, AC factors. To test how neural signatures of sustained attention related to AC and LTM, we analyzed fMRI functional connectivity patterns collected as 20 participants performed the avCPT. A pre-trained connectome-based model of sustained attention predicted participants' performance on out-of-scanner LTM, but not AC, tasks. Together this suggests that differences in sustained attention, although correlated with AC, are more closely related to LTM.
+
+
+***Improving sustained attention with real-time monitoring of attentional lapses***
+
+Matthieu Chidharom, Monica D. Rosenberg, Edward K. Vogel
+
+**Saturday, November 23, 7:45-9:15pm (Poster Session VII)**
+
+Lapses in attention are common in everyday life, increasing the risk of errors such as missing a highway exit. In this study, we examined participants' ability to externally monitor their attentional lapses in real-time to prevent behavioral errors before they occur. Thirty participants performed a go/no-go task in which they were instructed to respond to frequent-category images (e.g., indoor scenes) and withhold response to infrequent-category images (e.g., outdoor scenes). Fast reaction times, previously identified as strong predictors of no-go trial errors, were measured during task performance and used to track periods of inattention. During the intertrial-interval, a white fixation cross turned red whenever an error-prone period of fast responding was detected. A generalized mixed model showed that participants could reduce errors by monitoring their lapse states, compared to blocks where the red-cross appeared randomly. Notably, individuals with better performance overall were more likely to benefit from external monitoring.
+
+
+
+# VSS 2024
+
+## Talks
 
 ***Storage in working memory recruits a modality-independent pointer system***
 
@@ -50,7 +127,7 @@ Igor Utochkin, Chong Zhao, Edward Vogel
 
 Our memory for meaningful visual stimuli is remarkable: Even when we see thousands of images, each presented for a few seconds, we can later recognize them among new images with high accuracy and in detail (Standing et al., 1973; Brady et al., 2008). However, recognition suffers if the images are encoded at a speed of 2 images per second or faster (Intraub, 1980; Potter, 1976; Potter et al., 2002). Presumably, this happens because the encoding of each new rapidly presented image disrupts relatively slow short-term memory consolidation which is essential for the instantiation of subsequent long-lasting episodic memory. Here, we studied how encoding speed impacts EEG markers of subsequent recognition, namely, ERP Old/New effects, that is, differences between ERP responses to earlier presented (old) and never presented (new) stimuli. In each block, participants memorized sequences of 20 real-world object images at a slow or fast rate (one image each 1,750 ms or 250 ms, respectively). Their memory was then tested with an “old/new” recognition task combined with EEG recording. Our analysis focused on two ERP Old/New components typically distinguished in the literature (Curran, 2000; Paller et al., 2007; Rugg & Curran, 2007): earlier frontal, FN400, and later parietal, LPC. Although observers showed significantly worse recognition at the fast compared to the slow encoding condition, we found almost equally pronounced FN400 in both conditions. In contrast, the LPC was much larger in amplitude in the slow than in the fast encoding blocks. One interpretation of this dissociation can be that fast encoding speed selectively impairs recollection-based memory (which reflects in reduced LPE) but not familiarity-based memory (little effect on FN400). However, other interpretations (e.g., that slower encoding speed causes a stronger confidence signal reflected in LPE) can also be discussed.
 
-### Posters
+## Posters
 
 ***Reaction Time Variability and Mind-Wandering Provide Complementary Insights***
 
