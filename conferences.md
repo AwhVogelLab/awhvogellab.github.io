@@ -12,9 +12,9 @@ Conference:
 [OPAM/Psychonomic 2024](#OPAMPsychonomics-2024)  
 [VSS 2024](#VSS-2024) 
 
-# OPAM/Psychonomics 2024
+## OPAM/Psychonomics 2024
 
-## OPAM - Talks
+### OPAM - Talks
 
 
 ***Reconciling Meaningful Object Benefit in Visual Working Memory: The Role of Proactive Interference***
@@ -35,7 +35,7 @@ Edward Awh
 Working memory theorists have often highlighted the links between voluntary attentional control and the intentional storage of information in working memory (WM). For example, my early work provided initial evidence that covert spatial attention is oriented towards positions held in spatial WM, yielding faster behavioral responses and enhanced visually-evoked neural activity at memorized locations. Twenty-five years later, temporally resolved EEG measures of covert attention provide even clearer evidence for the parallel deployment of covert spatial attention during visual working memory tasks, even when location is irrelevant to the task. Nevertheless, here I will show that while spatial attention is a persistent partner of visual working memory, the deployment of spatial attention can be functionally dissociated from encoding into visual working memory. Specifically, WM storage recruits a content-independent indexing operation that tracks the number of items currently stored in WM, independent of the features contained in those items. Our hypothesis is that this content-independent load signal reflects the deployment of “pointers” that enables the binding of items to the surrounding context. Critically, I’ll present direct evidence that observers can spatially attend and categorize items without encoding those items into working memory. Thus, spatial attention and pointer deployment reflect dissociable aspects of voluntary attentional control, a distinction that may enrich our understanding of a range of major attentional phenomena.
 
 
-## OPAM - Posters
+### OPAM - Posters
 
 ***The brain knows more is stored in visual long-term memory than we can report***
 
@@ -46,7 +46,7 @@ Chong Zhao, Keisuke Fukuda & Geoffrey F. Woodman
 When we attempt to recall a representation from visual long-term memory, there is a possibility that we might not succeed in retrieving it even though it exists in our brain. This study reveals that while explicit memory retrieval mechanisms sometimes fail to access these stored memories, executive control mechanisms can swiftly query the memory to confirm the presence of a representation. Our findings suggest that much of the memory typically accessed implicitly is, in fact, directly accessible by the brain’s higher-level control processes.
 
 
-## Psychonomics - Talks
+### Psychonomics - Talks
 
 ***Neural evidence for modality-general indexing in working memory***
 
@@ -66,7 +66,7 @@ Igor Utochkin, Nicholas Chiang, & Wilma Bainbridge
 In two-alternative forced-choice (2-AFC) memory tests, target-foil similarity is a strong determinant of confusions. We hypothesize that confusions can be driven by intrinsic memorability properties of test items, the likelihood for each item to be correctly or falsely recognized individually. We tested old-new recognition for 240 images in two groups of 100 observers swapping target-foil roles between the groups, which yielded hit (H) and false alarm (FA) rates for each image. We z-transformed H and FA to locate both roles of all items in a signal-detection “memorability space” and predicted 2-AFC discriminability (d’) between arbitrary targets and foils. Critically, for some 2-AFC pairs we predicted strong d’ asymmetries when items swap their target-foil roles. These predictions were confirmed in a 2-AFC experiment with the same set of images and two new groups of observers studying either one or another set of targets but tested on the same target-foil pairs. The d’ asymmetries between identical pairs with swapped roles highly correlated with the asymmetries predicted by our model (rho=.73). These asymmetries cannot be explained by simple inter-item similarity and require incorporating memorability to the existing models.
 
 
-## Psychonomics - Posters
+### Psychonomics - Posters
 
 ***Characterizing individual differences in sustained attention, attentional control, and long-term memory***
 
@@ -87,9 +87,9 @@ Lapses in attention are common in everyday life, increasing the risk of errors s
 
 
 
-# VSS 2024
+## VSS 2024
 
-## Talks
+### Talks
 
 ***Storage in working memory recruits a modality-independent pointer system***
 
@@ -127,7 +127,7 @@ Igor Utochkin, Chong Zhao, Edward Vogel
 
 Our memory for meaningful visual stimuli is remarkable: Even when we see thousands of images, each presented for a few seconds, we can later recognize them among new images with high accuracy and in detail (Standing et al., 1973; Brady et al., 2008). However, recognition suffers if the images are encoded at a speed of 2 images per second or faster (Intraub, 1980; Potter, 1976; Potter et al., 2002). Presumably, this happens because the encoding of each new rapidly presented image disrupts relatively slow short-term memory consolidation which is essential for the instantiation of subsequent long-lasting episodic memory. Here, we studied how encoding speed impacts EEG markers of subsequent recognition, namely, ERP Old/New effects, that is, differences between ERP responses to earlier presented (old) and never presented (new) stimuli. In each block, participants memorized sequences of 20 real-world object images at a slow or fast rate (one image each 1,750 ms or 250 ms, respectively). Their memory was then tested with an “old/new” recognition task combined with EEG recording. Our analysis focused on two ERP Old/New components typically distinguished in the literature (Curran, 2000; Paller et al., 2007; Rugg & Curran, 2007): earlier frontal, FN400, and later parietal, LPC. Although observers showed significantly worse recognition at the fast compared to the slow encoding condition, we found almost equally pronounced FN400 in both conditions. In contrast, the LPC was much larger in amplitude in the slow than in the fast encoding blocks. One interpretation of this dissociation can be that fast encoding speed selectively impairs recollection-based memory (which reflects in reduced LPE) but not familiarity-based memory (little effect on FN400). However, other interpretations (e.g., that slower encoding speed causes a stronger confidence signal reflected in LPE) can also be discussed.
 
-## Posters
+### Posters
 
 ***Reaction Time Variability and Mind-Wandering Provide Complementary Insights***
 
