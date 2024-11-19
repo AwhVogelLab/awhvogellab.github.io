@@ -9,10 +9,10 @@ image: /files/images/lab_photo_2023_sep.jpg
 You can see the Awh/Vogel lab's conference presentations here:
 
 Conference:  
-[OPAM/Psychonomic 2024](#OPAMPsychonomics-2024)  
-[VSS 2024](#VSS-2024) 
+[OPAM/Psychonomics 2024](#OPAM2024)  
+[VSS 2024](#VSS2024) 
 
-## OPAM/Psychonomics 2024
+## OPAM/Psychonomics 2024 {#OPAM2024}
 
 ### OPAM - Talks
 
@@ -87,7 +87,7 @@ Lapses in attention are common in everyday life, increasing the risk of errors s
 
 
 
-## VSS 2024
+## VSS {#VSS2024}
 
 ### Talks
 
