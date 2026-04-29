@@ -9,8 +9,8 @@ image: /files/images/lab_photo_2023_sep.jpg
 You can see the Awh/Vogel lab's conference presentations here:
 
 Conference:  
-[VSS 2026](#VSS2026)
-[OPAM/Psychonomics 2024](#OPAM2024)  
+[VSS 2026](#VSS2026)<br>
+[OPAM/Psychonomics 2024](#OPAM2024)<br>
 [VSS 2024](#VSS2024) 
 
 ## VSS 2026 {#VSS2026}
