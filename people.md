@@ -84,7 +84,7 @@ University of Chicago  <br>
 ![Leo](/files/images/square_photos/leo.jpeg){: .image-left}**Woohyeuk (Leo) Chang**
 <br>
 <br>[Google Scholar](https://scholar.google.co.uk/citations?user=8DW5ikUAAAAJ&hl=en&oi=ao)
-<br>  
+<br>
 <br>
 <br>
 <br>
