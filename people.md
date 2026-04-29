@@ -27,15 +27,6 @@ University of Chicago  <br>
 
 ## Research Scientists
 
-![Piotr](/files/images/square_photos/piotr.jpeg){: .image-left}**Piotr Styrkowiec** <br>  
-<br>
-[Google Scholar](https://scholar.google.com/citations?user=Ec4gY4kAAAAJ&hl=en)
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ![Igor](/files/images/square_photos/igor.jpeg){: .image-left}**Igor Utochkin** <br>  
 <br>
 [Google Scholar](https://scholar.google.com/citations?user=_tzlWfIAAAAJ&hl=en)
@@ -47,24 +38,6 @@ University of Chicago  <br>
 
 
 ## Post-docs
-
-![Park](/files/images/square_photos/park.jpg){: .image-left}**Hyung-Bum Park** <br>  
-<br>
-[Google Scholar](https://scholar-google-com.proxy.uchicago.edu/citations?user=4oqDb9AAAAAJ&hl=en&oi=ao)
-<br>
-<br>
-<br>
-<br>
-<br>
-
-![Jae](/files/images/square_photos/jae.jpeg){: .image-left}**Jae Peiso** <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ![Matthieu](/files/images/square_photos/matthieu.jpg){: .image-left}**Matthieu Chidharom** <br>
 <br>
@@ -79,11 +52,21 @@ Co-supervised by Monica Rosenberg <br>
 <br>
 <br>
 
+![Chenyu](/files/images/square_photos/chenyu.jpeg){: .image-left}**Chenyu Li** <br>
+<br>
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=DVXjx6cAAAAJ)
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 ## PhD Students
 
 ![Chong](/files/images/square_photos/chong.jpg){: .image-left}**Chong Zhao** <br>
 <br>
-[Google scholar profile](https://scholar.google.co.uk/citations?user=MIo5i3IAAAAJ&hl=en&oi=sra)
+[Google Scholar](https://scholar.google.co.uk/citations?user=MIo5i3IAAAAJ&hl=en&oi=sra)
 <br>  
 <br>  
 <br>
@@ -91,19 +74,9 @@ Co-supervised by Monica Rosenberg <br>
 
 ![Henry](/files/images/square_photos/henry.jpeg){: .image-left}**Henry Jones** <br>
 <br>
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=tKcVjM4AAAAJ)
+<br>
 [Twitter](https://twitter.com/IndianaJonesSr/)
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-![Aidan](/files/images/square_photos/aidan.jpg){: .image-left}**Aidan Healy** <br>
-<br>
-[Twitter](https://www.twitter.com/aidanhealy265)
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -120,7 +93,25 @@ Co-supervised by Monica Rosenberg <br>
 
 ![Huiqin](/files/images/square_photos/huiqin.jpeg){: .image-left}**Huiqin Chen** <br>
 <br>
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=oGke-RcAAAAJ)
+<br>  
+<br>  
 <br>
+<br>
+<br>
+
+![Brecken](/files/images/square_photos/brecken.jpg){: .image-left}**Brecken Marome** <br>
+<br>
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=rCXzPgUAAAAJ)
+<br>  
+[Personal Website](https://breckenmarome.com/)  
+<br>
+<br>
+<br>
+
+![Gengshi](/files/images/square_photos/gengshi.jpg){: .image-left}**Gengshi Hu** <br>
+<br>
+[ResearchGate](https://www.researchgate.net/profile/Gengshi-Hu)
 <br>  
 <br>  
 <br>
@@ -128,11 +119,11 @@ Co-supervised by Monica Rosenberg <br>
 <br>
 
 
-## Lab Specialists
+## Research Specialists
 
-![Temi](/files/images/square_photos/temi.jpg){: .image-left}**Temilade Adekoya** <br>
+![Darius](/files/images/square_photos/darius.jpeg){: .image-left}**Darius Suplica** <br>
 <br>
-<br>
+[Google Scholar](https://scholar.google.com/citations?user=nXXWoe4AAAAJ&hl=en)
 <br>
 <br>
 <br>
@@ -141,17 +132,32 @@ Co-supervised by Monica Rosenberg <br>
 
 ## Current Research Assistants
 
-**Darius Suplica**, 2021-  
-**Will Epstein**, 2022-  
-**Sintra Horwitz**, 2022-
-**Ron Gneezy**, 2023-
-**Lucas Dong**, 2024-
+**Dane Chung**, 2026-
+**Riley O'Rourke**, 2025-
+**Christina Williams**, 2025-
+**Leyla Campos**, 2025-
+**Audrey Kim**, 2025-
+
  
 <hr>
 
 ## Alumni
 
+### Former Research Scientists
+
+**Piotr Styrkowiec**
+Current position: Assistant professor, University of Wroclaw
+[Google Scholar](https://scholar.google.com/citations?user=Ec4gY4kAAAAJ&hl=en)
+
 ### Former Post-docs
+
+**Hyung-Bum Park**
+Current position: Post-doc, Washington University <br>
+[Google Scholar](https://scholar.google.com/citations?user=Ch_gQpEAAAAJ&hl=en&oi=ao)
+
+**Jae Peiso**
+Current position: Post-doc, University of Chicago  
+[LinkedIn](https://www.linkedin.com/in/jaepeiso/)
 
 **William Ngiam**
 Current position: Lecturer, University of Adelaide <br>
@@ -239,6 +245,9 @@ Current position: Data Scientist at EdgeRock Technology Partners, A CDI Company
 
 ### Former Masters Students
 
+**Aidan Healy**
+[Twitter](https://www.twitter.com/aidanhealy265)
+
 **Akiko Ikkai**  
 Current position: UX Research Scientist at Apple
 
@@ -256,6 +265,9 @@ Current position: Assistant professor at Hiroshima University
 
 ### Former Research Specialists
 
+**Temilade Adekoya**
+Current position: PhD Student at UC Irvine
+
 **Morgan Klutzke**
 
 **Anisha Karthikeyan**
@@ -268,6 +280,10 @@ Current position: Clinical Research Coordinator
 
 ### Former Undergraduate Research Assistants (incomplete)
 
+**Sintra Horwitz**, 2022-2025
+**Will Epstein**, 2022-2025
+**Lucas Dong**, 2024-2024
+**Ron Gneezy**, 2023-2024
 **Crystal Huang**, 2022-2023  
 **Jessica Guigon**, 2020-2022   
 **Paul Keene**, 2018–2020  
