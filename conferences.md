@@ -9,13 +9,100 @@ image: /files/images/lab_photo_2023_sep.jpg
 You can see the Awh/Vogel lab's conference presentations here:
 
 Conference:  
+[VSS 2026](#VSS2026)
 [OPAM/Psychonomics 2024](#OPAM2024)  
 [VSS 2024](#VSS2024) 
+
+## VSS 2026 {#VSS2026}
+
+### VSS - Talks
+
+***Electroencephalogram decoding suggests separate indexing mechanisms for attentional tracking of featureless objects and working memory storage***
+
+Henry Jones, Dawei Bai, Brian Scholl, Edward Awh
+
+**Sunday, May 17, 2026, 10:45 am – 12:30 pm, Talk Room 2**
+
+Recently, multivariate decoding of EEG data has identified a signal that scales with the number of items in working memory (WM), regardless of the specific content being maintained or the number of spatially attended locations. One possibility is that this signal reflects an abstract indexing process that binds the content of items to their context in space and time for maintenance and accessibility. To explore this possibility, we examined whether a similar load signal exists for “featureless objects”, which can only be described by their coordinates in space and time. On each trial, participants viewed a dense grid of crosses of random orientations. A moving object was implemented by having a single cross change from one random orientation to another, with changes occurring between adjacent crosses across frames. These transients yielded a persisting trackable object, even though (a) there is no constant surface feature across frames, and (b) it is impossible to identify objects on any static frame. In 2 EEG datasets, participants completed a task in which they tracked either 1 or 2 cued featureless objects, and a WM task in which they remembered either colors or the shape and location of “dot cloud” stimuli while spatial attention was controlled for. In both experiments, EEG decoding found a stable signal that scaled with the number of tracked featureless objects. However, we found no consistent evidence that the tracking load signal and the WM load signal generalized to one another. Although planned studies will examine whether this conclusion generalizes to traditional tracking tasks that may rely on other mechanisms (Lu and Sperling, 1996), these results suggest that distinct mechanisms may guide WM storage and attentional tracking.
+
+***A unique neural signature of individual differences in long-term memory from EEG inter-electrode correlation with event-related potentials***
+
+Chong Zhao, Edward K. Vogel, Monica Rosenberg
+
+**Tuesday, May 19, 2026, 10:45 am – 12:15 pm, Talk Room 1**
+
+Classic memory models suggest that the processes supporting visual working memory (VWM) play a central role in determining how effectively information is encoded into long-term memory (LTM). Consistent with this view, VWM and LTM performance are typically correlated, leaving open the question of whether LTM performance relies on neural mechanisms that are distinct from those supporting VWM encoding. To address this, we recorded EEG activity while participants performed recognition memory tasks with large set sizes (32 and 128 items), far exceeding typical VWM capacity. Using interelectrode correlation (IC) analyses, we found that IC patterns robustly predicted individual differences in LTM performance across both set sizes, indicating a stable, domain-general neural signature of LTM formation. Crucially, the predictive power of our IC model persisted even after statistically controlling for VWM capacity and attentional control, demonstrating that the model captures variance specifically related to individual differences in LTM performance rather than general cognitive performance. Temporally, IC-based predictive signals emerged shortly after stimulus onset and remained significant for approximately 500–600 ms. Distinct correlation patterns characterized early versus late encoding windows, suggesting that multiple, dynamically shifting neural processes contribute to individual differences in LTM. Together, these results identify a reliable and temporally dynamic neural signature during LTM encoding that tracks individual differences in LTM performance, independent of VWM and attentional control abilities.
+
+***The Brain Mechanisms of Attentional Lapses During Goal Competition: An EEG Study***
+
+Matthieu Chidharom, Monica Rosenberg, Edward Vogel
+
+**Sunday, May 17, 2026, 8:15 – 9:45 am, Talk Room 1**
+
+Sustained attention is the ability to maintain focus on a specific goal over time, but attentional lapses are frequent. Theories have attributed these lapses to a transient failure of cognitive control in maintaining the goal in mind. However, this proposal has been challenged by recent findings showing greater engagement of cognitive control during states more prone to lapses. To explain this result, we proposed that lapses occur when goals compete, requiring stronger cognitive control to sustain performance. We recently tested this goal-competition hypothesis with a Switch-Continuous Performance Task (CPT) in which subjects alternated task goals between blocks—either switching or holding the same goal—in an effort to manipulate periods of higher and lower competition between goals. Participants viewed a bilateral display showing a letter (vowel/consonant) and a number (even/odd) on each trial. After every 20 trials, a cue instructed participants to perform either the letter task (e.g., press for frequent vowels, not infrequent consonants) or the number task (e.g., press for frequent even, not infrequent odd, numbers). Our results showed that lapses were more frequent when competition between goals was higher during switch compared to repeat trials. Although this result has been replicated several times, the brain mechanisms by which competing goals favor lapses remain unclear. In the current study, we recorded the EEG of 30 participants during the Switch-CPT. Our ERP analysis revealed that competition between goals reduces the attention allocated to the relevant stimulus, as revealed by the lower N2pc amplitude during switch trials. Follow-up analyses showed that this effect is driven by a failure to suppress the distracting goal. A decoding analysis also revealed lower classification accuracy of task goals during switch compared to repeat trials, providing additional evidence that the relevant goal is less activated in mind during competition.
+
+### VSS - Posters
+
+***Electrophysiological evidence for dissociation between covert spatial attention and working memory gating***
+
+Brecken Marome, Henry Jones, William Thyer, Edward Vogel, Edward Awh
+
+**Sunday, May 17, 2026, 2:45 – 6:45 pm, Pavilion**
+
+To be successful at visual tasks, observers must selectively process information from cluttered environments using covert spatial attention, which selects specific regions of space, and working memory (WM) gating, which selectively encodes items into limited-capacity storage. We analyzed data from a basic change detection task, where participants encoded square target items from amongst rectangular distractors. Some trials contained 2 square targets (ss2), while others contained one target and one rectangular distractor (ss1). For ss1 trials, target/distractor similarity was manipulated such that distractors were either very dissimilar (long grey rectangles), dissimilar (long colored rectangles), or similar (squat colored rectangles). Late in the delay period, spatially-selective alpha activity showed that attention was biased towards targets over distractors. However, during the first ~600 ms after stimulus onset, spatial attention was precisely oriented towards both targets and distractors, regardless of target-distractor similarity. A WM load classifier showed that gating of distractors happened as early as 180 ms contrasting with the less selective deployment of spatial attention. In addition, the classifier showed that similar distractors were more likely to be unintentionally encoded into WM. In next steps, we are examining visually-evoked ERPs at either target or distractor locations to corroborate (or call into question) the slow time course of spatial attention that is indicated by alpha activity. Taken together, our results so far provide further evidence that covert spatial attention and WM gating represent distinct modes of attentional control.
+
+***N2pc set-size effects emerge when working memory requires flexible spatial representations***
+
+Gengshi Hu, Chong Zhao, Edward K. Vogel
+
+**Tuesday, May 19, 2026, 2:45 – 6:45 pm, Pavilion**
+
+In visual working memory (VWM) tasks the contralateral delay activity (CDA) scales with the number of items stored, while the N2pc component—reflecting attentional selection—does not vary with set size. This dissociation has been replicated many times and suggests that VWM load effects emerge mainly during maintenance, not initial selection. A notable exception is found in multiple object tracking (MOT) tasks, where the N2pc reliably increases with the number of tracked targets. Because the N2pc in MOT appears within ~250 ms of stimulus onset—well before objects begin to move—tracking cannot explain this early modulation. Instead, a key difference between MOT and standard VWM tasks is that in MOT, the target location at test differs from the object’s original position, whereas in VWM tasks, the probed item generally reappears at its initial location. To test whether expectations about future spatial transformations drive N2pc load sensitivity, subjects performed a VWM task with two block-wise conditions. In the baseline condition, the probed item appeared at the same location in which it was encoded. In the spatial-shift condition, the probe was always displaced inward within the same hemifield. Crucially, the encoding displays were physically identical between conditions, and the N2pc was measured prior to any spatial shift. Behaviorally, memory performance was equivalent across conditions. Replicating prior work, the N2pc was insensitive to set size in the baseline condition. Strikingly, in the spatial-shift condition, the N2pc showed a reliable set-size effect, with larger amplitudes for four versus two items. These findings demonstrate that the anticipatory structure of the task—specifically, whether object positions are expected to change—alters how items are individuated during selection. Expectations about future spatial uncertainty appear to recruit enhanced target individuation at encoding, revealing that attentional selection mechanisms are more flexible and forward-looking than previously assumed.
+
+***Multi-item arrays are retrieved from long-term memory into working memory as unitized chunks***
+
+Woohyeuk (Leo) Chang, Ed Awh
+
+**Sunday, May 17, 2026, 2:45 – 6:45 pm, Banyan Breezeway**
+
+Classic models propose that information retrieved from long-term memory (LTM) is reinstated into working memory (WM), engaging the same capacity-limited operations that support online storage. For example, alpha oscillations decline as a function of the number of items stored in WM, and a similar pattern is observed when observers retrieve multi-item arrays from LTM. Although this suggests that LTM retrieval mirrors WM encoding, other work indicates that alpha activity may instead reflect the spatial extent of covert attention rather than the number of WM representations per se. Thus, there is strong motivation to study reinstatement using neural signals more directly linked to WM storage and designs that de-confound spatial attention from the number of stored items. We used a sequential design in which items were separated in time rather than space, holding spatial attention constant while manipulating the number of individuated items. A multivariate decoding approach known to track WM load independently of spatial attention was used. Participants memorized LTM shape arrays containing 1 or 3 targets and then completed a sequential WM/LTM task during EEG recording. Voltage-based signatures of WM load generalized across conditions requiring the maintenance of temporal order and item identity. The key question was whether retrieving multi-item arrays from LTM would elicit a multi-item WM load signature or whether prior learning would result in unitization (i.e., chunking). Consistent with the latter, LTM retrieval elicited the same neural pattern as a WM load-1 trial, regardless of the array’s size. Alpha power was likewise insensitive to the number of retrieved items, likely because each sequence appeared at a single location. Thus, retrieval of multi-item arrays from LTM reveals a unitized representation that is insensitive to set size, providing insight into how associative learning shapes the reinstatement of multi-item LTM structures in WM.
+
+***Neural signatures of visual memorability revealed by EEG decoding***
+
+Igor Utochkin, Woohyeuk Chang, Edward Vogel, Edward Awh
+
+**Sunday, May 17, 2026, 2:45 – 6:45 pm, Banyan Breezeway**
+
+Stimulus memorability is a systematic tendency for some visual items to be remembered better than others despite variations in learning and test context. Prior studies show that memorability can be decoded from neural activity. However, the extant studies have treated memorability as a single dimension. We highlight that memorability is a compound phenomenon based on two parameters: “Hittability” (H-ability), the likelihood that a studied item will be correctly recognized, and “false-alarmability” (FA-ability), the likelihood that the same item will be erroneously recognized when not studied. Strikingly, these parameters are uncorrelated, and whether their neural bases are distinct or shared remains unclear. Using multivariate decoding of EEG, we show that both H-ability and FA-ability can be robustly decoded from neural activity. Importantly, these signatures are evident not only during the test phase, where retrieval success might drive decoding, but also during study. Neural patterns associated with each parameter generalize across study and test, indicating that their representational bases are not contingent on explicit memory judgments. We next asked whether decoding of H-ability and FA-ability reflects movement along a shared representational dimension. Despite their behavioral independence, cross-decoding revealed strong generalization: classifiers trained to decode H-ability reliably decoded FA-ability, and vice versa. Thus, these parameters share a common dimension in neural state space. A natural hypothesis is that this dimension reflects item familiarity. Contrary to this prediction, neural patterns associated with high H-ability aligned with those associated with low FA-ability. This inversion rules out a simple familiarity account and instead suggests that neural signatures of memorability track systematic biases in decision efficacy based on relative familiarity. Presumably, stimuli with high H-ability and low FA-ability are easier to endorse or reject based on mnemonic status, whereas those with low H-ability and high FA-ability make these decisions more difficult.
+
+***Stimulus-specific memorability effects go beyond memory***
+
+Darius Suplica, Igor Utochkin, Edward Awh
+
+**Tuesday, May 19, 2026, 2:45 – 6:45 pm, Banyan Breezeway**
+
+Stimulus-specific memorability refers to the finding that recognition memory performance is enhanced for specific items, independent of study and retrieval context. Nevertheless, recent work has raised the possibility that memorability effects are not specific to memory, per se. For instance, the efficiency of low-level perceptual discriminations – in the absence of memory demands – is higher for memorable stimuli (Deng et al., 2024). Following this thread, we investigated whether memorability affects visual search performance when recognition memory is not a limiting factor. Critically, memorability appears to have two distinct facets: “Hittability” and “false-alarmability” refer to the probability of correctly recognizing previously studied items, or falsely recognizing unstudied items, respectively. While both facets can strongly impact memory performance, they are virtually uncorrelated at the item level. Thus, we independently manipulated the hittability and fa-ability of targets and distractors in four separate samples. Visual search performance was strongly affected by both factors. Subjects were faster to find more hittable (rm-ANOVA, p = 1 x 10-11) and less fa-able targets (p = 6.9 x 10-10), with no effect of distractor memorability (hittability p=0.18, fa-ability p=0.08). Experiment 2 replicated these findings while employing a continuous manipulation of hittability and fa-ability within a single set of stimuli. Once again, subjects were faster to recognize more hittable and less fa-able targets (linear mixed-effects model, hittability p=7x10-17, fa-ability p=1.2x10-6), with a significant (p=2x10-19) negative interaction between the two. In line with the argument that hittability and fa-ability are distinct aspects of memorability, search performance was better explained by keeping hittability and fa-ability as independent factors, rather than combining them into single d-prime measure (WAIC=-2954 vs -3048). Therefore, stimulus-specific memorability powerfully affects performance in tasks that do not require recognition memory, motivating further work on precisely which computations are impacted by memorability.
+
+***Changes in the absolute position of attentionally tracked targets trigger a hemispheric exchange as items move between visual fields***
+
+Huiqin Chen, Piotr Styrkowiec, Edward K. Vogel
+
+**Tuesday, May 19, 2026, 8:30 am – 12:30 pm, Pavilion**
+
+Tracking objects that move between visual fields requires coordination between the two hemispheres. The CDA is a sustained negative EEG voltage over the hemisphere contralateral to the positions of the tracked targets. When targets cross the vertical midline, the CDA “flips” in polarity, revealing a handoff of information between the hemispheres (Drew et al., 2014). More recent work has shown that this CDA flip reflects the immediate demands of tracking the target position rather than reflecting prospective allocation of attention to the new region because it still occurs even when the target is expected to return to its original hemifield (Chen et al., VSS 2025). However, it is unclear which aspect of the immediate tracking demands triggered this hemispheric handoff because, during the crossing there was both movement of the target’s absolute position in space as well as relative movement between the positions of the target and its accompanying distractor. Here, we tested whether the change in absolute position on its own was sufficient to trigger the CDA flip even in the absence of relative changes in the positions of the target and distractor during the crossing. In a condition with both types of motion, we replicated the CDA flip as the target moved between fields and then “flipped back” as it returned to its original field. We compared this to a “no relative motion” condition in which the relative positions of the target and distractor were “frozen” as the items moved between visual fields. The CDA flip still occurred as the target crossed visual fields suggesting that this interhemispheric exchange did not depend on resolving the relative positions of the target and distractor. Thus, the need to track changes in the absolute position of the target appears to be the critical feature for triggering the handoff between hemispheres.
+
+***Working Memory Capacity Modulates the Link Between Lapses and Voluntary Switching***
+
+Hyung-Bum Park, Monica Rosenberg, Edward Vogel
+
+**Sunday, May 17, 2026, 2:45 – 6:45 pm, Pavilion**
+
+Attentional lapses are often interpreted as uniform failures of control, yet emerging accounts propose that they reflect competition among concurrently active goals. If lapses signal goal competition, they should prospectively predict voluntary task switches, and this relationship may depend on individual differences in working memory (WM) capacity. We tested this idea using a modified continuous performance task with bilateral face and scene stimuli. Participants freely chose whether to perform the face or scene task after each block, with the constraint that all 25 blocks of each task type had to be completed. Lapses in block n predicted the task chosen on block n+1, and this prospective link depended strongly on WM capacity. Individuals with lower WM capacity were more likely to switch after lapse-prone blocks, whereas individuals with higher WM capacity tended to switch after successful blocks. Eye-tracking revealed matching patterns, with low-capacity participants directing early saccades toward the irrelevant distractor before switches and high-capacity participants showing the opposite tendency. Pupil dilation was elevated early in pre-switch blocks for low-capacity participants, consistent with heightened internal competition. In a forced-choice control session, externally imposed task sequences selectively reduced lapse rates for low-capacity individuals while leaving high-capacity performance unchanged. These findings indicate that lapses do not uniformly reflect disengagement or a single type of control failure. Instead, the relationship between lapses and voluntary switching depends on WM capacity, and is consistent with a goal-competition framework in which lapses mark dynamic shifts in the balance between competing goals.
+
 
 ## OPAM/Psychonomics 2024 {#OPAM2024}
 
 ### OPAM - Talks
-
 
 ***Reconciling Meaningful Object Benefit in Visual Working Memory: The Role of Proactive Interference***
 
@@ -87,7 +174,7 @@ Lapses in attention are common in everyday life, increasing the risk of errors s
 
 
 
-## VSS {#VSS2024}
+## VSS 2024 {#VSS2024}
 
 ### Talks
 
