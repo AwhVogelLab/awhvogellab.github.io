@@ -91,4 +91,31 @@ $(document).ready(function() {
   cursor: pointer;
   color: #000;
 }
+
+.image-container {
+  position: relative;
+  display: block;
+  width: 100%;
+}
+
+.image-container img.default {
+  opacity: 1;
+  transition: opacity 0.3s;
+  width: 100%;
+  display: block;
+}
+
+.image-container img.hover {
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  transition: opacity 0.3s;
+  object-fit: cover;
+}
+
+.image-container:hover img.default { opacity: 0; }
+.image-container:hover img.hover   { opacity: 1; }
 </style>
