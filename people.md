@@ -167,13 +167,13 @@ Current position: Lecturer, University of Adelaide<br>
 [Personal website](https://williamngiam.github.io)<br>
 [Lab website](https://palm-lab.github.io)
 
-**Megan deBettencourt**  
+**Megan deBettencourt**<br>
 Current position: Research scientist at Ruby Neurotech <br>
 [Personal website](https://debetten.github.io)<br>
 [LinkedIn](https://www.linkedin.com/in/megan-debettencourt-7a191222b/)
 
-**Tobias Feldmann-Wüstefeld**  
-Current position: Data Scientist at FREE NOW <br>
+**Tobias Feldmann-Wüstefeld**<br>
+Current position: Humboldt Fellow, Technische Universität Berlin <br>
 Fomerly a lecturer at the University of Southampton <br>
 [Personal website](http://feldmann-wuestefeld.de/)
 
