@@ -25,6 +25,7 @@ University of Chicago<br>
 <br>
 [Faculty Page](https://imb.uchicago.edu/ed-vogel/)
 
+<br>
 
 ## Research Scientists
 
@@ -186,8 +187,8 @@ Formerly a post-doc at Boston University  <br>
 [LinkedIn](https://www.linkedin.com/in/joshua-foster-64243676/)
 
 **Kirsten Adam**  
-Current position: Assistant Professor at Rice University <br>
-Formerly a post-doc at University of California San Diego  <br>
+Current position: Assistant Professor at University of California, Davis <br>
+Formerly an Assistant Professor at Rice University and a Post-doc at University of California, San Diego <br>
 [Personal website](https://kirsten-adam.com/)
 
 **David Sutterer**  
