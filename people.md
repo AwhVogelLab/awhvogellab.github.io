@@ -93,8 +93,31 @@ University of Chicago<br>
 <br>
 <br>
 
+## Masters Students
+
+![Sandra](/files/images/square_photos/Sandra.jpg){: .image-left}**Sandra Park**
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+![Dingding](/files/images/square_photos/dingding.jpg){: .image-left}**Dingding Duan**
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Current Research Assistants
 
+**Becky (ShuNing) Guo**, 2026-<br>
 **Lina Park**, 2026-<br>
 **Marie Friend**, 2026-<br>
 **Riley O'Rourke**, 2025-<br>
