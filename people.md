@@ -282,6 +282,7 @@ Current position: Clinical Research Coordinator
 
 ### Former Undergraduate Research Assistants (incomplete)
 
+**Mai Nguyen**, 2026<br>
 **Dane Chung**, 2026<br>
 **Christina Williams**, 2025-2026<br>
 **Leyla Campos**, 2025-2026<br>
