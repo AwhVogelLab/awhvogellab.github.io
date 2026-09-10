@@ -8,20 +8,21 @@ image: /files/images/lab_photo_2021.jpg
 
 ## Principal Investigators
 
-![Awh](/files/images/square_photos/awh.jpeg){: .image-left}**Ed Awh** <br>  
-Professor  
-Department of Psychology and Institute for Mind and Biology  
-University of Chicago  <br>  
-
-[Faculty Page](https://imb.uchicago.edu/ed-awh/) <br>
+![Awh](/files/images/square_photos/awh.jpeg){: .image-left}**Ed Awh**<br><br>
+Professor<br>
+Department of Psychology and Institute for Mind and Biology<br>
+University of Chicago<br>
+<br>
+[Faculty Page](https://imb.uchicago.edu/ed-awh/)<br>
 [CV](/files/pdfs/awh_cv.pdf)
 
 
 
-![Vogel](/files/images/square_photos/vogel.jpeg){: .image-left}**Ed Vogel** <br>  
-Professor  
-Department of Psychology and Institute for Mind and Biology  
-University of Chicago  <br>  
+![Vogel](/files/images/square_photos/vogel.jpeg){: .image-left}**Ed Vogel**<br><br>
+Professor<br>
+Department of Psychology and Institute for Mind and Biology<br>
+University of Chicago<br>
+<br>
 [Faculty Page](https://imb.uchicago.edu/ed-vogel/)
 
 
@@ -39,16 +40,6 @@ University of Chicago  <br>
 
 ## Post-docs
 
-![Matthieu](/files/images/square_photos/matthieu.jpg){: .image-left}**Matthieu Chidharom**
-<br>
-<br>Co-supervised by Monica Rosenberg
-<br>
-<br>[Google Scholar](https://scholar.google.com/citations?hl=fr&user=nHYIoIQAAAAJ&view_op=list_works)
-<br>[ResearchGate](https://www.researchgate.net/profile/Matthieu-Chidharom)
-<br>[Twitter/X](https://twitter.com/MChidharom)
-<br>
-<br>
-
 ![Chenyu](/files/images/square_photos/chenyu.jpeg){: .image-left}**Chenyu Li**
 <br>
 <br>[Google Scholar](https://scholar.google.com/citations?hl=en&user=DVXjx6cAAAAJ)
@@ -60,26 +51,6 @@ University of Chicago  <br>
 <br>
 
 ## PhD Students
-
-![Chong](/files/images/square_photos/chong.jpg){: .image-left}**Chong Zhao**
-<br>
-<br>[Google Scholar](https://scholar.google.co.uk/citations?user=MIo5i3IAAAAJ&hl=en&oi=sra)
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-![Henry](/files/images/square_photos/henry.jpeg){: .image-left}**Henry Jones**
-<br>
-<br>[Google Scholar](https://scholar.google.com/citations?hl=en&user=tKcVjM4AAAAJ)
-<br>[Twitter/X](https://twitter.com/IndianaJonesSr/)
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ![Leo](/files/images/square_photos/leo.jpeg){: .image-left}**Woohyeuk (Leo) Chang**
 <br>
@@ -121,38 +92,28 @@ University of Chicago  <br>
 <br>
 <br>
 
-## Research Specialists
-
-![Darius](/files/images/square_photos/darius.jpeg){: .image-left}**Darius Suplica**
-<br>
-<br>[Google Scholar](https://scholar.google.com/citations?user=nXXWoe4AAAAJ&hl=en)
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ## Current Research Assistants
 
-**Dane Chung**, 2026-<br>
+**Lina Park**, 2026-<br>
+**Marie Friend**, 2026-<br>
 **Riley O'Rourke**, 2025-<br>
-**Christina Williams**, 2025-<br>
-**Leyla Campos**, 2025-<br>
-**Audrey Kim**, 2025-
-
- 
-<hr>
+<br>
+<br>
+<br>
 
 ## Alumni
 
 ### Former Research Scientists
 
 **Piotr Styrkowiec**<br>
-Current position: Assistant professor, University of Wroclaw<br>
+Current position: Assistant Professor, University of Wroclaw<br>
 [Google Scholar](https://scholar.google.com/citations?user=Ec4gY4kAAAAJ&hl=en)
 
 ### Former Post-docs
+
+**Matthieu Chidharom**<br>
+Current position: Junior Group Leader, French National Institute of Health and Medical Research (INSERM)<br>
+[Lab website](https://matthieuchidharom.wixsite.com/mind)
 
 **Hyung-Bum Park**<br>
 Current position: Post-doc, Washington University<br>
@@ -168,7 +129,7 @@ Current position: Lecturer, University of Adelaide<br>
 [Lab website](https://palm-lab.github.io)
 
 **Megan deBettencourt**<br>
-Current position: Research scientist at Ruby Neurotech <br>
+Current position: Research Scientist at Ruby Neurotech <br>
 [Personal website](https://debetten.github.io)<br>
 [LinkedIn](https://www.linkedin.com/in/megan-debettencourt-7a191222b/)
 
@@ -190,6 +151,16 @@ Current position: Associate Professor, University of Toyama
 [Personal website](https://sites.google.com/site/htsubomi/)
 
 ### Former PhD Students
+
+**Henry Jones**<br>
+Current position: Post-doc, Yale University<br>
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=tKcVjM4AAAAJ)<br>
+[Bluesky](https://bsky.app/profile/henryjones.bsky.social)
+
+**Chong Zhao**<br>
+Current position: Post-doc, New York University (NYU)<br>
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=ChWC4zcAAAAJ&view_op=list_works&sortby=pubdate)<br>
+[Bluesky](https://bsky.app/profile/zhaochong.bsky.social)
 
 **William Thyer**  
 Current position: Data Scientist at Cohere Health <br>
@@ -268,6 +239,10 @@ Current position: Assistant professor at Hiroshima University
 
 ### Former Research Specialists
 
+**Darius Suplica**<br>
+Current position: MD/PhD Student at Yale University<br>
+[Google Scholar](https://scholar.google.com/citations?user=nXXWoe4AAAAJ&hl=en)
+
 **Temilade Adekoya**<br>
 Current position: PhD Student at UC Irvine
 
@@ -283,6 +258,10 @@ Current position: Clinical Research Coordinator
 
 ### Former Undergraduate Research Assistants (incomplete)
 
+**Dane Chung**, 2026<br>
+**Christina Williams**, 2025-2026<br>
+**Leyla Campos**, 2025-2026<br>
+**Audrey Kim**, 2025-2026<br>
 **Sintra Horwitz**, 2022-2025  
 **Will Epstein**, 2022-2025  
 **Lucas Dong**, 2024-2024  
