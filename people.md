@@ -99,8 +99,8 @@ University of Chicago<br>
 **Riley O'Rourke**, 2025-<br>
 <br>
 <br>
+<hr>
 <br>
-
 ## Alumni
 
 ### Former Research Scientists
