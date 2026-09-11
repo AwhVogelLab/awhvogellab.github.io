@@ -17,7 +17,7 @@ lab_surnames:
 # Ignore anything older than this (keeps the scan fast and avoids dredging
 # up decades-old papers that are already in the CSV under slightly
 # different title formatting).
-min_year: 1993
+min_year: 2023
 
 # One-off titles to always skip, for cases no automated rule can catch --
 # e.g. a paper that was later retracted but whose own title gives no hint
