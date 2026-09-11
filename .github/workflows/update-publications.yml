@@ -1,0 +1,37 @@
+name: Scan for new publications
+
+# Manual trigger only — click "Run workflow" in the Actions tab whenever you want a scan.
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests pyyaml
+
+      - name: Run publication scan
+        run: python scripts/update_pubs.py --csv _data/pubs_table.csv --config scripts/pubs_config.yml
+
+      - name: Open PR if there are changes
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "Add newly detected lab publications"
+          title: "New publications found — please review"
+          body-path: pending_pubs_review.md
+          branch: auto/new-publications
+          delete-branch: true
+          add-paths: _data/pubs_table.csv

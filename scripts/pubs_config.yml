@@ -1,0 +1,20 @@
+# Semantic Scholar author IDs for the lab's PIs.
+# Find these by searching https://www.semanticscholar.org for the person,
+# opening their profile, and copying the numeric ID from the URL, e.g.
+# semanticscholar.org/author/Edward-Awh/2261234  ->  "2261234"
+semantic_scholar_author_ids:
+  awh_main: "2889676"
+  awh_secondary: "2373054044"
+  vogel_main: "39500842"
+  vogel_secondary: "2250813190"
+
+# Used for author-formatting heuristics (not load-bearing yet, but reserved
+# in case we want to flag/bold lab-affiliated authors later).
+lab_surnames:
+  - Awh
+  - Vogel
+
+# Ignore anything older than this (keeps the scan fast and avoids dredging
+# up decades-old papers that are already in the CSV under slightly
+# different title formatting).
+min_year: 2023
