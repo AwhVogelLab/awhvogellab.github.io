@@ -35,11 +35,15 @@ DEFAULT_PREPRINT_KEYWORDS = [
 
 
 def normalize_title(title: str) -> str:
-    """Lowercase, strip punctuation/whitespace for fuzzy de-duplication."""
+    """Lowercase, strip accents/punctuation for fuzzy de-duplication.
+    Punctuation and whitespace (including embedded newlines from multi-line
+    CSV fields) are collapsed to single spaces rather than deleted outright,
+    so words don't get fused together across a line break."""
     t = unicodedata.normalize("NFKD", title or "")
-    t = re.sub(r"[^a-z0-9 ]", "", t.lower())
-    t = re.sub(r"\s+", " ", t).strip()
-    return t
+    t = "".join(c for c in t if not unicodedata.combining(c))  # strip accents
+    t = t.lower()
+    t = re.sub(r"[^a-z0-9]+", " ", t)  # any non-alnum run (incl. newlines) -> one space
+    return t.strip()
 
 
 def load_existing(csv_path: Path):
@@ -60,12 +64,26 @@ def fetch_author_papers(author_id: str, session: requests.Session):
     return resp.json().get("data", [])
 
 
+_CORRECTION_KEYWORDS = [
+    "erratum", "corrigendum", "correction to", "correction:",
+    "retraction of", "retracted:", "retraction:",
+]
+
+
 def classify_paper(paper, preprint_keywords):
     """
     Return None if the paper looks like a finished, peer-reviewed piece.
-    Otherwise return a short string reason ('preprint' or 'conference-only')
-    explaining why it's being excluded.
+    Otherwise return a short string reason explaining why it's being excluded:
+    'preprint', 'conference-only', or 'correction/erratum'.
     """
+    title = (paper.get("title") or "").lower()
+    if any(kw in title for kw in _CORRECTION_KEYWORDS):
+        # Corrections/errata aren't standalone papers -- your existing rows
+        # attach them as a link on the original entry (e.g. the Adam 2017
+        # row's "Corrigendum" link), not as their own row. Flag for you to
+        # attach by hand rather than adding as a new "publication."
+        return "correction/erratum"
+
     venue = (paper.get("venue") or "").lower()
     if any(kw in venue for kw in preprint_keywords):
         return "preprint"
@@ -261,9 +279,9 @@ def main():
         return
 
     if not candidates:
-        print(f"No new finished papers found ({len(excluded)} preprint/conference item(s) skipped).")
+        print(f"No new finished papers found ({len(excluded)} preprint/conference/correction item(s) skipped).")
         lines = ["## No new finished publications found\n",
-                 f"{len(excluded)} item(s) were skipped as preprints or conference-only entries:\n"]
+                 f"{len(excluded)} item(s) were skipped as preprints, conference-only entries, or corrections/errata:\n"]
         for p, reason in excluded.values():
             lines.append(f"- ({reason}) {p.get('year', '?')} — {p.get('title', '')}")
         Path(args.draft_out).write_text("\n".join(lines) + "\n")
@@ -300,7 +318,7 @@ def main():
         for p, matches in ambiguous_pdfs:
             summary_lines.append(f"- {p.get('title', '')}: candidates {', '.join(matches)}")
     if excluded:
-        summary_lines.append(f"\n_Also skipped {len(excluded)} preprint/conference item(s) -- check these weren't wrongly excluded:_\n")
+        summary_lines.append(f"\n_Also skipped {len(excluded)} preprint/conference/correction item(s) -- check these weren't wrongly excluded:_\n")
         for p, reason in excluded.values():
             summary_lines.append(f"- ({reason}) {p.get('year', '?')} — {p.get('title', '')}")
     Path(args.draft_out).write_text("\n".join(summary_lines) + "\n")
