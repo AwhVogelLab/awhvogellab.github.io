@@ -66,8 +66,33 @@ def fetch_author_papers(author_id: str, session: requests.Session):
 
 _CORRECTION_KEYWORDS = [
     "erratum", "corrigendum", "correction to", "correction:",
-    "retraction of", "retracted:", "retraction:",
+    "retraction of", "retracted:", "retraction:", "retraction note",
+    "author-initiated retraction",
 ]
+
+# Anchored patterns (checked against the START of the lowercased title) that
+# indicate an OSF/dataset/materials record rather than a paper -- these get
+# indexed by Semantic Scholar as "papers" co-authored by whoever uploaded
+# them, but they're supplementary data/code/task files, not publications.
+_MATERIALS_TITLE_PATTERNS = [
+    re.compile(r"^data:\s"),
+    re.compile(r"^code:\s"),
+    re.compile(r"^analysis[\s\-]"),
+    re.compile(r"^open data\b"),
+    re.compile(r"^task code:"),
+    re.compile(r"^experiment\s*\d"),  # "Experiment 1a:", "Experiment 2 (inter-mixed):"
+]
+_MATERIALS_SUBSTRINGS = ["raw data & experiment scripts", "experiment scripts"]
+
+_ACKNOWLEDGMENT_PATTERN = re.compile(r"^acknowledg[e]?ment\b")
+
+
+def is_manually_excluded(title: str, excluded_titles_normalized: set) -> bool:
+    """Check a paper's normalized title against a manually curated exclusion
+    list (config's `manual_exclude_titles`) -- for one-off cases no automated
+    rule can catch, like a paper that was later retracted but whose own
+    title carries no hint of that."""
+    return normalize_title(title) in excluded_titles_normalized
 
 
 def classify_paper(paper, preprint_keywords):
@@ -83,6 +108,14 @@ def classify_paper(paper, preprint_keywords):
         # row's "Corrigendum" link), not as their own row. Flag for you to
         # attach by hand rather than adding as a new "publication."
         return "correction/erratum"
+
+    stripped_title = title.strip()
+    if any(p.match(stripped_title) for p in _MATERIALS_TITLE_PATTERNS) or \
+       any(sub in title for sub in _MATERIALS_SUBSTRINGS):
+        return "dataset/materials"
+
+    if _ACKNOWLEDGMENT_PATTERN.match(stripped_title):
+        return "reviewer-acknowledgment"
 
     venue = (paper.get("venue") or "").lower()
     if any(kw in venue for kw in preprint_keywords):
@@ -127,16 +160,25 @@ def format_authors(paper_authors, lab_surnames):
     return formatted[0] if formatted else "UNKNOWN AUTHORS"
 
 
-def scan_pdf_dir(pdf_dir: Path):
+DEFAULT_PDF_EXCLUDE_KEYWORDS = ["resume", "_cv", "cv_", "vitae"]
+
+
+def scan_pdf_dir(pdf_dir: Path, exclude_keywords=None):
     """Return a list of (url_path, normalized_filename) for every PDF found.
     url_path is built relative to the repo root, assuming the script is run
-    from there (as it is in the GitHub Action)."""
+    from there (as it is in the GitHub Action). Files matching
+    exclude_keywords (e.g. resumes/CVs that happen to share a name+year with
+    a real paper) are skipped."""
+    exclude_keywords = exclude_keywords or DEFAULT_PDF_EXCLUDE_KEYWORDS
     if not pdf_dir.is_dir():
         return []
     results = []
     for f in pdf_dir.rglob("*.pdf"):
+        lower_name = f.name.lower()
+        if any(kw in lower_name for kw in exclude_keywords):
+            continue
         url = "/" + f.as_posix()
-        norm = re.sub(r"[^a-z0-9]", "", f.name.lower())
+        norm = re.sub(r"[^a-z0-9]", "", lower_name)
         results.append((url, norm))
     return results
 
@@ -239,6 +281,7 @@ def main():
     lab_surnames = set(config.get("lab_surnames", []))
     min_year = config.get("min_year", 2020)
     preprint_keywords = [kw.lower() for kw in config.get("preprint_keywords", DEFAULT_PREPRINT_KEYWORDS)]
+    manual_exclude_titles = {normalize_title(t) for t in config.get("manual_exclude_titles", [])}
 
     existing_titles, fieldnames, rows = load_existing(csv_path)
     pdf_files = scan_pdf_dir(Path(args.pdf_dir))
@@ -262,6 +305,9 @@ def main():
                 continue
             key = normalize_title(p["title"])
             if key in existing_titles:
+                continue
+            if key in manual_exclude_titles:
+                excluded[key] = (p, "manually excluded")
                 continue
 
             reason = classify_paper(p, preprint_keywords)

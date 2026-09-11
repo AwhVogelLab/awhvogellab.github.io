@@ -19,6 +19,15 @@ lab_surnames:
 # different title formatting).
 min_year: 2023
 
+# One-off titles to always skip, for cases no automated rule can catch --
+# e.g. a paper that was later retracted but whose own title gives no hint
+# of that (the retraction notice itself gets caught automatically; the
+# original paper does not). Match doesn't need to be exact -- it's compared
+# after the same normalization used for de-duplication (case/punctuation-
+# insensitive), so just paste the title as written.
+manual_exclude_titles:
+  - "The plateau in mnemonic resolution across large set sizes indicates discrete resource limits in visual working memory"
+
 # Papers whose venue name contains any of these (case-insensitive) are
 # treated as preprints, not finished papers, and get skipped. Conference-only
 # entries (Semantic Scholar's publicationTypes == ["Conference"]) are skipped
