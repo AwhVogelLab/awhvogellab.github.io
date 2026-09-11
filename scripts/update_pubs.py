@@ -109,23 +109,93 @@ def format_authors(paper_authors, lab_surnames):
     return formatted[0] if formatted else "UNKNOWN AUTHORS"
 
 
-def format_links(paper):
+def scan_pdf_dir(pdf_dir: Path):
+    """Return a list of (url_path, normalized_filename) for every PDF found.
+    url_path is built relative to the repo root, assuming the script is run
+    from there (as it is in the GitHub Action)."""
+    if not pdf_dir.is_dir():
+        return []
+    results = []
+    for f in pdf_dir.rglob("*.pdf"):
+        url = "/" + f.as_posix()
+        norm = re.sub(r"[^a-z0-9]", "", f.name.lower())
+        results.append((url, norm))
+    return results
+
+
+_STOPWORDS = {
+    "the", "and", "for", "with", "from", "into", "during", "while", "using",
+    "a", "an", "of", "in", "on", "is", "are", "to", "as", "by", "at", "or",
+    "visual", "working", "memory", "attention", "cognitive", "neural",
+}
+
+
+def title_keywords(title: str):
+    """Distinctive words from a title, for fuzzy-matching against filename
+    fragments. Deliberately strips out words too generic to discriminate
+    between this lab's papers (e.g. 'visual', 'working', 'memory')."""
+    words = re.sub(r"[^a-z0-9 ]", " ", (title or "").lower()).split()
+    return [w for w in words if len(w) > 3 and w not in _STOPWORDS]
+
+
+def find_matching_pdfs(paper, pdf_files):
+    """
+    Fuzzy-match a paper to existing PDF filenames by first-author surname + year.
+    If that yields multiple candidates, break the tie using distinctive title
+    words that appear in the filename (several of this lab's PDFs are named
+    with a title fragment rather than a journal abbreviation, e.g.
+    'hakim_2018_phase-coding.pdf'). Returns a list: 0 = no match, 1 = confident
+    match (whether from surname+year alone or after a clean title tiebreak),
+    2+ = still ambiguous even after the tiebreak -- caller flags for review.
+    """
+    authors = paper.get("authors") or []
+    if not authors:
+        return []
+    first_author_name = (authors[0].get("name") or "").strip()
+    if not first_author_name:
+        return []
+    surname = re.sub(r"[^a-z0-9]", "", first_author_name.split()[-1].lower())
+    year = str(paper.get("year", ""))
+    if not surname or not year:
+        return []
+
+    matches = [url for url, norm in pdf_files if surname in norm and year in norm]
+    if len(matches) <= 1:
+        return matches
+
+    # Tie-break using title keywords against the filename.
+    norm_by_url = {url: norm for url, norm in pdf_files}
+    keywords = title_keywords(paper.get("title", ""))
+    if not keywords:
+        return matches
+
+    scored = [(url, sum(1 for kw in keywords if kw in norm_by_url[url])) for url in matches]
+    scored.sort(key=lambda x: x[1], reverse=True)
+    top_score = scored[0][1]
+    if top_score > 0 and sum(1 for _, s in scored if s == top_score) == 1:
+        return [scored[0][0]]  # unique winner after tiebreak
+    return matches  # still tied -- leave as ambiguous
+
+
+def format_links(paper, pdf_match=None):
     links = []
     doi = paper.get("externalIds", {}).get("DOI")
     if doi:
         links.append(f"[Link](https://doi.org/{doi})")
     elif paper.get("url"):
         links.append(f"[Link]({paper['url']})")
+    if pdf_match:
+        links.append(f"[PDF]({pdf_match})")
     return " \\| ".join(links) if links else ""
 
 
-def build_row(paper, lab_surnames):
+def build_row(paper, lab_surnames, pdf_match=None):
     return {
         "authors": format_authors(paper.get("authors", []), lab_surnames),
         "year": paper.get("year", ""),
         "title": paper.get("title", "").strip(),
         "publication": f"<i>{paper.get('venue', '').strip()}</i>" if paper.get("venue") else "",
-        "links": format_links(paper),
+        "links": format_links(paper, pdf_match),
     }
 
 
@@ -138,6 +208,11 @@ def main():
         default="pending_pubs_review.md",
         help="Where to write a human-readable summary of new rows for the PR body",
     )
+    ap.add_argument(
+        "--pdf-dir",
+        default="files/pdfs",
+        help="Directory of existing PDFs to fuzzy-match against new papers",
+    )
     args = ap.parse_args()
 
     csv_path = Path(args.csv)
@@ -148,6 +223,8 @@ def main():
     preprint_keywords = [kw.lower() for kw in config.get("preprint_keywords", DEFAULT_PREPRINT_KEYWORDS)]
 
     existing_titles, fieldnames, rows = load_existing(csv_path)
+    pdf_files = scan_pdf_dir(Path(args.pdf_dir))
+    print(f"Found {len(pdf_files)} existing PDF(s) under {args.pdf_dir}")
 
     session = requests.Session()
     session.headers.update({"User-Agent": "AwhVogelLab-pubs-bot/1.0"})
@@ -192,7 +269,16 @@ def main():
         Path(args.draft_out).write_text("\n".join(lines) + "\n")
         return
 
-    new_rows = [build_row(p, lab_surnames) for p in candidates.values()]
+    new_rows = []
+    ambiguous_pdfs = []  # (paper, list_of_candidate_paths)
+    for p in candidates.values():
+        matches = find_matching_pdfs(p, pdf_files)
+        if len(matches) == 1:
+            new_rows.append(build_row(p, lab_surnames, pdf_match=matches[0]))
+        else:
+            if len(matches) > 1:
+                ambiguous_pdfs.append((p, matches))
+            new_rows.append(build_row(p, lab_surnames))
     new_rows.sort(key=lambda r: r.get("year", 0), reverse=True)
 
     # Prepend new rows (CSV appears newest-first based on existing file)
@@ -209,6 +295,10 @@ def main():
     ]
     for r in new_rows:
         summary_lines.append(f"- **{r['year']}** — {r['title']} ({r['authors']})")
+    if ambiguous_pdfs:
+        summary_lines.append(f"\n_Found multiple possible PDF matches for {len(ambiguous_pdfs)} paper(s) -- add the right link by hand:_\n")
+        for p, matches in ambiguous_pdfs:
+            summary_lines.append(f"- {p.get('title', '')}: candidates {', '.join(matches)}")
     if excluded:
         summary_lines.append(f"\n_Also skipped {len(excluded)} preprint/conference item(s) -- check these weren't wrongly excluded:_\n")
         for p, reason in excluded.values():
