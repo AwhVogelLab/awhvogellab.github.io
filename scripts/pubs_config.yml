@@ -17,7 +17,7 @@ lab_surnames:
 # Ignore anything older than this (keeps the scan fast and avoids dredging
 # up decades-old papers that are already in the CSV under slightly
 # different title formatting).
-min_year: 2023
+min_year: 1993
 
 # Papers whose venue name contains any of these (case-insensitive) are
 # treated as preprints, not finished papers, and get skipped. Conference-only
