@@ -3,8 +3,10 @@
 # opening their profile, and copying the numeric ID from the URL, e.g.
 # semanticscholar.org/author/Edward-Awh/2261234  ->  "2261234"
 semantic_scholar_author_ids:
-  awh: "REPLACE_WITH_EDWARD_AWH_ID"
-  vogel: "REPLACE_WITH_EDWARD_VOGEL_ID"
+  awh_main: "2889676"
+  awh_secondary: "2373054044"
+  vogel_main: "39500842"
+  vogel_secondary: "2250813190"
 
 # Used for author-formatting heuristics (not load-bearing yet, but reserved
 # in case we want to flag/bold lab-affiliated authors later).
@@ -16,3 +18,18 @@ lab_surnames:
 # up decades-old papers that are already in the CSV under slightly
 # different title formatting).
 min_year: 2023
+
+# Papers whose venue name contains any of these (case-insensitive) are
+# treated as preprints, not finished papers, and get skipped. Conference-only
+# entries (Semantic Scholar's publicationTypes == ["Conference"]) are skipped
+# automatically regardless of this list. Uncomment/edit to add more:
+# preprint_keywords:
+#   - biorxiv
+#   - medrxiv
+#   - psyarxiv
+#   - arxiv
+#   - ssrn
+#   - research square
+#   - chemrxiv
+#   - osf preprints
+#   - preprints.org

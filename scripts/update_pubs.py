@@ -23,7 +23,15 @@ import requests
 import yaml
 
 S2_API = "https://api.semanticscholar.org/graph/v1"
-FIELDS = "title,year,venue,externalIds,authors,url,publicationDate"
+FIELDS = "title,year,venue,externalIds,authors,url,publicationDate,publicationTypes,journal"
+
+# Venue name fragments (checked case-insensitively) that indicate a preprint
+# server rather than a peer-reviewed venue. Extend this list in
+# pubs_config.yml under `preprint_keywords` if you spot others slipping through.
+DEFAULT_PREPRINT_KEYWORDS = [
+    "biorxiv", "medrxiv", "psyarxiv", "arxiv", "ssrn",
+    "research square", "chemrxiv", "osf preprints", "preprints.org",
+]
 
 
 def normalize_title(title: str) -> str:
@@ -50,6 +58,30 @@ def fetch_author_papers(author_id: str, session: requests.Session):
     resp = session.get(url, params=params, timeout=30)
     resp.raise_for_status()
     return resp.json().get("data", [])
+
+
+def classify_paper(paper, preprint_keywords):
+    """
+    Return None if the paper looks like a finished, peer-reviewed piece.
+    Otherwise return a short string reason ('preprint' or 'conference-only')
+    explaining why it's being excluded.
+    """
+    venue = (paper.get("venue") or "").lower()
+    if any(kw in venue for kw in preprint_keywords):
+        return "preprint"
+
+    pub_types = paper.get("publicationTypes") or []
+    # S2's publicationTypes is a list like ["JournalArticle"], ["Conference"],
+    # ["Review"], etc. If it's explicitly tagged Conference and NOT also
+    # tagged JournalArticle, treat it as a conference abstract/talk, not a
+    # finished paper. If publicationTypes is empty, S2 didn't classify it --
+    # don't exclude on that basis alone, since plenty of legitimate journal
+    # articles come through with no tag at all.
+    if pub_types and "JournalArticle" not in pub_types and "Review" not in pub_types:
+        if "Conference" in pub_types:
+            return "conference-only"
+
+    return None
 
 
 def format_authors(paper_authors, lab_surnames):
@@ -113,6 +145,7 @@ def main():
     author_ids = config["semantic_scholar_author_ids"]
     lab_surnames = set(config.get("lab_surnames", []))
     min_year = config.get("min_year", 2020)
+    preprint_keywords = [kw.lower() for kw in config.get("preprint_keywords", DEFAULT_PREPRINT_KEYWORDS)]
 
     existing_titles, fieldnames, rows = load_existing(csv_path)
 
@@ -120,6 +153,7 @@ def main():
     session.headers.update({"User-Agent": "AwhVogelLab-pubs-bot/1.0"})
 
     candidates = {}
+    excluded = {}  # key: normalized title -> (paper, reason), deduped across author IDs
     for name, author_id in author_ids.items():
         try:
             papers = fetch_author_papers(author_id, session)
@@ -134,13 +168,28 @@ def main():
             key = normalize_title(p["title"])
             if key in existing_titles:
                 continue
+
+            reason = classify_paper(p, preprint_keywords)
+            if reason:
+                excluded[key] = (p, reason)
+                continue
+
             # de-dup across the two PIs' paper lists
             candidates[key] = p
         time.sleep(1)  # be polite to the API
 
-    if not candidates:
+    if not candidates and not excluded:
         print("No new publications found.")
         Path(args.draft_out).write_text("No new publications found this run.\n")
+        return
+
+    if not candidates:
+        print(f"No new finished papers found ({len(excluded)} preprint/conference item(s) skipped).")
+        lines = ["## No new finished publications found\n",
+                 f"{len(excluded)} item(s) were skipped as preprints or conference-only entries:\n"]
+        for p, reason in excluded.values():
+            lines.append(f"- ({reason}) {p.get('year', '?')} — {p.get('title', '')}")
+        Path(args.draft_out).write_text("\n".join(lines) + "\n")
         return
 
     new_rows = [build_row(p, lab_surnames) for p in candidates.values()]
@@ -160,6 +209,10 @@ def main():
     ]
     for r in new_rows:
         summary_lines.append(f"- **{r['year']}** — {r['title']} ({r['authors']})")
+    if excluded:
+        summary_lines.append(f"\n_Also skipped {len(excluded)} preprint/conference item(s) -- check these weren't wrongly excluded:_\n")
+        for p, reason in excluded.values():
+            summary_lines.append(f"- ({reason}) {p.get('year', '?')} — {p.get('title', '')}")
     Path(args.draft_out).write_text("\n".join(summary_lines) + "\n")
     print(f"Added {len(new_rows)} new row(s). See {args.draft_out} for summary.")
 
