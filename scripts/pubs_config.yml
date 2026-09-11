@@ -3,10 +3,8 @@
 # opening their profile, and copying the numeric ID from the URL, e.g.
 # semanticscholar.org/author/Edward-Awh/2261234  ->  "2261234"
 semantic_scholar_author_ids:
-  awh_main: "2889676"
-  awh_secondary: "2373054044"
-  vogel_main: "39500842"
-  vogel_secondary: "2250813190"
+  awh: "REPLACE_WITH_EDWARD_AWH_ID"
+  vogel: "REPLACE_WITH_EDWARD_VOGEL_ID"
 
 # Used for author-formatting heuristics (not load-bearing yet, but reserved
 # in case we want to flag/bold lab-affiliated authors later).
