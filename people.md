@@ -31,12 +31,12 @@ University of Chicago<br>
 
 ![Igor](/files/images/square_photos/igor.jpeg){: .image-left}**Igor Utochkin**
 <br>
+<br>Instructional Professor
+<br>Department of Psychology
+<br>University of Chicago
+<br>
 <br>[Google Scholar](https://scholar.google.com/citations?user=_tzlWfIAAAAJ&hl=en)
 <br>[Personal Website](https://www.igorutochkin.org/home)
-<br>
-<br>
-<br>
-<br>
 <br>
 
 ## Post-docs
