@@ -117,6 +117,11 @@ University of Chicago<br>
 
 ## Current Research Assistants
 
+**Eduardo Degering**, 2026-<br>
+**Navid Sheybani**, 2026-<br>
+**Noah Rischert**, 2026-<br>
+**Summer Xia**, 2026-<br>
+**Hugh Zheng**, 2026-<br>
 **Becky (ShuNing) Guo**, 2026-<br>
 **Lina Park**, 2026-<br>
 **Marie Friend**, 2026-<br>
