@@ -125,7 +125,7 @@ University of Chicago<br>
 <br>
 <br>
 
-![Zixu](/files/images/square_photos/zixu.png){: .image-left}**Zixu Zhao**
+![Zixu](/files/images/square_photos/Zixu.jpg){: .image-left}**Zixu Zhao**
 <br>
 <br>
 <br>
