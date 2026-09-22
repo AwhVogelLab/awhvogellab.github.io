@@ -93,6 +93,16 @@ University of Chicago<br>
 <br>
 <br>
 
+![Anna](/files/images/square_photos/DuongAnna_Headshot.jpg){: .image-left}**Anna Duong**
+<br>
+<br>[Google Scholar](https://scholar.google.com/citations?hl=en&user=WsP54M0AAAAJ)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Masters Students
 
 ![Sandra](/files/images/square_photos/Sandra.jpg){: .image-left}**Sandra Park**
@@ -106,6 +116,16 @@ University of Chicago<br>
 <br>
 
 ![Dingding](/files/images/square_photos/dingding.jpg){: .image-left}**Dingding Duan**
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+![Zixu](/files/images/square_photos/zixu.png){: .image-left}**Zixu Zhao**
 <br>
 <br>
 <br>
