@@ -103,6 +103,18 @@ University of Chicago<br>
 <br>
 <br>
 
+## Visiting PhD Students
+
+![Noah](/files/images/square_photos/noah.jpeg){: .image-left}**Noah Rischert**
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Masters Students
 
 ![Sandra](/files/images/square_photos/Sandra.jpg){: .image-left}**Sandra Park**
@@ -139,7 +151,6 @@ University of Chicago<br>
 
 **Eduardo Degering**, 2026-<br>
 **Navid Sheybani**, 2026-<br>
-**Noah Rischert**, 2026-<br>
 **Summer Xia**, 2026-<br>
 **Hugh Zheng**, 2026-<br>
 **Becky (ShuNing) Guo**, 2026-<br>
