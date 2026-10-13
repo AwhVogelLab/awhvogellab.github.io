@@ -156,7 +156,6 @@ University of Chicago<br>
 **Becky (ShuNing) Guo**, 2026-<br>
 **Lina Park**, 2026-<br>
 **Marie Friend**, 2026-<br>
-**Riley O'Rourke**, 2025-<br>
 <br>
 <br>
 <hr>
@@ -320,7 +319,8 @@ Current position: Clinical Research Coordinator
 
 **Mai Nguyen**, 2026<br>
 **Dane Chung**, 2026<br>
-**Christina Williams**, 2025-2026<br>
+**Christina Williams**, 2026<br>
+**Riley O'Rourke**, 2025-2026<br>
 **Leyla Campos**, 2025-2026<br>
 **Audrey Kim**, 2025-2026<br>
 **Sintra Horwitz**, 2022-2025  
