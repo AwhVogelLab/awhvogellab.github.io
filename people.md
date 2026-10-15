@@ -149,6 +149,7 @@ University of Chicago<br>
 
 ## Current Research Assistants
 
+**Katherine Liew**, 2026-<br>
 **Eduardo Degering**, 2026-<br>
 **Navid Sheybani**, 2026-<br>
 **Summer Xia**, 2026-<br>
