@@ -147,6 +147,16 @@ University of Chicago<br>
 <br>
 <br>
 
+![Zera](/files/images/square_photos/Zera.jpg){: .image-left}**Zera Xiong**
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Current Research Assistants
 
 **Katherine Liew**, 2026-<br>
