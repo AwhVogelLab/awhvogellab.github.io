@@ -8,10 +8,95 @@ image: /files/images/lab_photo_2023_sep.jpg
 
 You can see the Awh/Vogel lab's conference presentations here:
 
-Conference:  
+Conference:<br>
+[OPAM/Psychonomics 2026](#OPAM2026)<br>
 [VSS 2026](#VSS2026)<br>
 [OPAM/Psychonomics 2024](#OPAM2024)<br>
-[VSS 2024](#VSS2024) 
+[VSS 2024](#VSS2024)<br>
+
+## OPAM/Psychonomics 2026 {#OPAM2026}
+
+### OPAM/Psychonomics - Talks
+
+***Disentangling neural signatures of working memory storage and cognitive effort***
+
+Brecken T. Marome, Henry M. Jones, Darius Suplica, Edward Awh
+
+**Thursday, November 19, 2026, 8:30 am - 8:45 am, OPAM Talk Session 1: Neural Representations in Working Memory, Pacific Ballroom 26 (North Tower, First Level)**
+
+Multivariate decoding of EEG (mvLoad) robustly indexes working memory (WM) load, generalizing across the number, type, and modality of stored features. This content-independent signal may reflect the binding of stored items to context, a process that would naturally scale alongside set size. A persistent, dueling hypothesis suggests that because storing more items is more effortful, mvLoad instead tracks effort unrelated to storage-specific activity. Across two change detection tasks manipulating set size and difficulty, we used cross-decoding to separately decode load and effort. Load signals generalized across tasks, while effort signals did not, suggesting mvLoad indexes storage-specific computation dissociable from effort.
+
+***Neural decoding reveals a unifying explanation for stimulus-specific memorability***
+
+Edward Awh, Igor Utochkin, Woohyeuk (Leo) Chang, Edward Vogel
+
+**Friday, November 20, 2026, 8:00 am - 8:20 am, Recognition I (Talk 1), Marriott Grand Ballroom 5 & 8 (North Tower, Lobby Level)**
+
+Stimulus-specific memorability, the tendency for people to remember and forget the same stimuli, can be defined in two ways: "Hit-ability" (H-ability) and "false alarm-ability" (FA-ability), the probabilities of correctly recognizing studied items or falsely recognizing unstudied items, respectively. Although past work finds these parameters uncorrelated, we present EEG evidence for a fundamental link between them. We demonstrate robust decoding of H-ability and FA-ability from stimulus-evoked EEG activity, with the same neural patterns emerging at both study and test, suggesting a stimulus-driven rather than decision-driven signal. Strikingly, when a model trained to discriminate H-ability was tested on stimuli sorted by FA-ability, items with high H-ability resembled items with low FA-ability, and vice versa. This reveals a common neural axis tracking both aspects of memorability. Finally, deep neural networks show that representational distinctiveness, an image's dissimilarity from others in feature space, predicts higher H-ability and lower FA-ability, with this effect strengthening in higher layers across networks varying in architecture and training objective, offering a unifying account of stimulus-specific memorability.
+
+***A single-item signal detection theory probes stimulus-specific memorability and its consistency***
+
+Igor Utochkin, Keisuke Fukuda
+
+**Friday, November 20, 2026, 8:20 am - 8:40 am, Recognition I (Talk 2), Marriott Grand Ballroom 5 & 8 (North Tower, Lobby Level)**
+
+The concept of memorability highlights the consistent effects that individual items have on memory strength across people. Do all items produce equally consistent memory strengths? We used receiver operating characteristic (ROC) analysis to recover memory-strength distributions for 600 object images tested as old and new items in a confidence-rating recognition task across 234 participants. This allowed us to estimate the average memory strength and its variability for each item (both as old and new) and locate item-specific distributions in a unitary signal-detection continuum. We found that the memory-strength distributions of new items underlying their "false-alarmability" differ considerably in both mean and variance, and that these two parameters are uncorrelated, highlighting variability as an independent baseline dimension of memorability. For old items, variance increased with average memory strength suggesting that a stronger memorability boost from encoding is accompanied by greater variation across people. Finally, taking unequal variance into account leads to adjustments in the representational distances between item distributions, with important implications for measuring memorability and identifying its determinants.
+
+***Does How We Expect to Be Tested Alter How We Use Visual Working Memory?***
+
+Gengshi Hu, Chenyu Li, Edward Awh, Edward Vogel
+
+**Friday, November 20, 2026, 12:00 pm - 1:30 pm, Poster Session II (II-117), Pacific Ballroom (North Tower, First Level)**
+
+Visual working memory (VWM) performance is commonly assessed using paradigms such as change detection and forced-choice tasks, which are often treated as interchangeable measures of a shared memory construct. However, these tasks differ in how memory is tested in both spatial uncertainty and decision demands, raising the possibility that the expected test format may alter how representations are initially selected and stored. Subjects completed change-detection, 2AFC, and 9AFC VWM trials while EEG was recorded. We used the memory measurement model (Oberauer & Lewandowsky, 2019) to estimate latent memory strength across paradigms on a common scale. We also examined whether the expected test altered the N2pc during encoding. Consistent with recent evidence that anticipatory task demands shape attentional selection, paradigms with greater spatial uncertainty produced enhanced N2pc set-size effects despite equivalent stimulus displays. These findings suggest that common VWM paradigms differ not only in decision demands, but also in the selection processes engaged during encoding.
+
+***To What Extent Do Mask Parameters Reshape the Masking Function in Delayed Recall?***
+
+Noah Rischert, Jacob Zepp
+
+**Friday, November 20, 2026, 12:00 pm - 1:30 pm, Poster Session II (II-118), Pacific Ballroom (North Tower, First Level)**
+
+Visual masks are widely used in working memory (WM) research to limit encoding from brief displays, yet "masking" names an outcome rather than a mechanism: Qualitatively different target–mask relations can yield similar costs, and superficially similar masks can produce markedly different ones. Treating the mask as a unitary intervention may therefore obscure variation that gets attributed to WM processes such as consolidation or capacity. Focusing on the classical VWM arrangement of backward masking with spatial overlap, we identify from the masking literature a set of mask parameters expected to shape the masking function (i.e., target recall as a function of target–mask onset asynchrony): contrast, spatial frequency, presentation duration, feature overlap, spatial configuration, and predictability. We will report a Registered Report series of delayed-recall experiments that systematically varies these parameters.
+
+***Multivariate decoding of electrophysiological activity suggests a post-perceptual locus of working memory gating***
+
+Brecken T. Marome, Henry M. Jones, William Thyer, Edward Awh
+
+**Friday, November 20, 2026, 6:00 pm - 7:30 pm, Poster Session III (III-184), Pacific Ballroom (North Tower, First Level)**
+
+Visual working memory (WM) is an online memory system that holds relevant information in a readily accessible state. Given sharp capacity limits, effective WM gating, in which distractors are blocked from storage, is critical. Here, we present evidence WM gating occurs during post-perceptual stages of processing, where discrimination of target/distractor status precedes encoding. We recorded EEG while observers performed a visual WM task in which each trial contained either one target and one distractor (load 1) or two targets (load 2), with target/distractor featural similarity parametrically varied. A multivariate classifier trained to distinguish load 1 from load 2 based on EEG patterns succeeded as early as ~150 ms after sample onset. As distractors grew more visually similar to targets, distractors were more likely to be encoded into WM. Critically, even with the most visually similar distractors, WM storage was often precluded, consistent with a post-perceptual locus of WM gating. Follow-up work extends this approach using lexical and semantic discriminations to further probe the boundary conditions of post-perceptual WM gating.
+
+***A unique neural signature of long-term memory encoding from EEG inter-electrode correlation***
+
+Chong Zhao, Monica Rosenberg, Edward Vogel
+
+**Saturday, November 21, 2026, 12:00 pm - 1:30 pm, Poster Session IV (IV-067), Pacific Ballroom (North Tower, First Level)**
+
+Classic memory models proposed that the encoding process in visual working memory (VWM) controls the bandwidth of encoding in long-term memory (LTM). Behaviorally, VWM and LTM accuracies are reliably correlated, raising the question of whether LTM encoding engages processes distinct from VWM encoding. To investigate this, we recorded EEG activity while participants completed recognition memory tasks with set sizes of 32 and 128, far beyond typical VWM capacity. Using interelectrode correlation (IC) analysis, we found that IC patterns reliably predicted individual differences in LTM across both set sizes, indicating a robust domain-general neural signature. Critically, this predictive power remained after controlling for VWM and attentional control performance, suggesting that the model captured variance specific to LTM encoding. Predictive signals emerged only after stimulus onset and persisted for 500-600 ms. Together, these findings reveal a temporally dynamic neural signature supporting individual differences in LTM encoding independent of general cognitive abilities.
+
+***Is there a trade-off between processing and maintenance of information in working memory?***
+
+Chenyu Li, Klaus Oberauer
+
+**Saturday, November 21, 2026, 5:10 pm - 5:30 pm, Working Memory (Talk 265), Marriott Grand Ballroom 13 (North Tower, Lobby Level)**
+
+Working memory maintains information for ongoing processing. Concurrent maintenance and processing often incur a cost: Processing can impair memory, and memory load can slow processing responses. Such costs in complex-span tasks are often interpreted as shared-resource competition. Alternatively, these costs may arise when processing requires additional information to be encoded into working memory. Across three experiments, we tested these accounts with a complex-span paradigm separating processing demand from encoding additional information. Participants remembered novel objects while performing no processing, a constant response, a size judgment on each object against a constant reference, or a size judgment against a changing reference. Memory accuracy declined primarily when processing introduced a changing reference object, not when processing demand increased alone. Memory load did not progressively impair processing. These findings suggest that maintenance and processing are not generally constrained by a shared resource; memory costs instead depend on whether processing introduces additional representations.
+
+***Distinct Neural Dynamics Support Continuous and Noncontinuous Interhemispheric Handoffs During Attentional Tracking***
+
+Huiqin Chen, Keisuke Fukuda, Edward Vogel
+
+**Saturday, November 21, 2026, 6:00 pm - 7:30 pm, Poster Session V (V-020), Pacific Ballroom (North Tower, First Level)**
+
+When an attended object crosses the vertical midline, the contralateral delay activity (CDA) flips polarity, reflecting an interhemispheric handoff of object representations (Drew et al., 2014). Our previous work established that this handoff is time-locked to the target's real-time position, and is triggered by the target's own positional change across the midline — independent of distractor motion. These findings support a "soft handoff" model, in which the original hemisphere maintains the object representation until the receiving hemisphere has acquired it. This study explores this hemispheric handoff mechanism and its dependence on spatiotemporal continuity during attentional tracking. Here, we ask whether continuous motion through the midline is necessary for this soft handoff. Participants tracked a pair of dot stimuli while EEG was recorded. In the critical wrap condition, dots slid through the edge of a virtual window and re-entered from the opposite side, instantaneously shifting hemifields without traversing the midline. Preliminary data suggest that the CDA flip may occur later during discontinuous crossing, indicating a more temporally conservative handoff compared to continuous motion.
+
+***EEG Load Decoding Reveals Chunking of Idioms in Verbal Working Memory***
+
+Woohyeuk (Leo) Chang, Summer Xia, Ming Xiang, Edward Awh, Liv Wu
+
+**Saturday, November 21, 2026, 6:00 pm - 7:30 pm, Poster Session V (V-143), Pacific Ballroom (North Tower, First Level)**
+
+Working memory (WM) capacity is item-based: storage limits are better predicted by the number of individuated "chunks" than by total information. This challenges WM quantification during language processing, where the number of items engaged in WM is difficult to determine. We address this using an EEG-based decoding approach that provides an item-based index of WM storage across diverse materials, including colors, motion, auditory stimuli, and familiar words. In the present work, we extended this approach to a more naturalistic language context by measuring whether familiar verbal constructions (idioms) reduced WM load compared to random word sequences. Participants performed free recall on phrases varying in expression type (idiom vs. random word strings) and set size (2 vs. 4 words). Classifiers trained on random-word trials successfully decoded set size, establishing a baseline for verbal WM load. Within approximately 600 ms after stimulus onset, WM load for 4-word idioms was reduced compared to that for 4 random words, providing clear evidence of chunking during idiom processing. Multivariate analysis of EEG activity thus offers a promising approach for quantifying WM during the processing of complex verbal expressions.
 
 ## VSS 2026 {#VSS2026}
 
