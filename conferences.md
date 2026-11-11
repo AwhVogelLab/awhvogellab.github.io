@@ -42,6 +42,14 @@ Igor Utochkin, Keisuke Fukuda
 
 The concept of memorability highlights the consistent effects that individual items have on memory strength across people. Do all items produce equally consistent memory strengths? We used receiver operating characteristic (ROC) analysis to recover memory-strength distributions for 600 object images tested as old and new items in a confidence-rating recognition task across 234 participants. This allowed us to estimate the average memory strength and its variability for each item (both as old and new) and locate item-specific distributions in a unitary signal-detection continuum. We found that the memory-strength distributions of new items underlying their "false-alarmability" differ considerably in both mean and variance, and that these two parameters are uncorrelated, highlighting variability as an independent baseline dimension of memorability. For old items, variance increased with average memory strength suggesting that a stronger memorability boost from encoding is accompanied by greater variation across people. Finally, taking unequal variance into account leads to adjustments in the representational distances between item distributions, with important implications for measuring memorability and identifying its determinants.
 
+***Is there a trade-off between processing and maintenance of information in working memory?***
+
+Chenyu Li, Klaus Oberauer
+
+**Saturday, November 21, 2026, 5:10 pm - 5:30 pm, Working Memory (Talk 265), Marriott Grand Ballroom 13 (North Tower, Lobby Level)**
+
+Working memory maintains information for ongoing processing. Concurrent maintenance and processing often incur a cost: Processing can impair memory, and memory load can slow processing responses. Such costs in complex-span tasks are often interpreted as shared-resource competition. Alternatively, these costs may arise when processing requires additional information to be encoded into working memory. Across three experiments, we tested these accounts with a complex-span paradigm separating processing demand from encoding additional information. Participants remembered novel objects while performing no processing, a constant response, a size judgment on each object against a constant reference, or a size judgment against a changing reference. Memory accuracy declined primarily when processing introduced a changing reference object, not when processing demand increased alone. Memory load did not progressively impair processing. These findings suggest that maintenance and processing are not generally constrained by a shared resource; memory costs instead depend on whether processing introduces additional representations.
+
 ### Psychonomics - Posters
 
 ***Does How We Expect to Be Tested Alter How We Use Visual Working Memory?***
@@ -75,14 +83,6 @@ Chong Zhao, Monica Rosenberg, Edward Vogel
 **Saturday, November 21, 2026, 12:00 pm - 1:30 pm, Poster Session IV (IV-067), Pacific Ballroom (North Tower, First Level)**
 
 Classic memory models proposed that the encoding process in visual working memory (VWM) controls the bandwidth of encoding in long-term memory (LTM). Behaviorally, VWM and LTM accuracies are reliably correlated, raising the question of whether LTM encoding engages processes distinct from VWM encoding. To investigate this, we recorded EEG activity while participants completed recognition memory tasks with set sizes of 32 and 128, far beyond typical VWM capacity. Using interelectrode correlation (IC) analysis, we found that IC patterns reliably predicted individual differences in LTM across both set sizes, indicating a robust domain-general neural signature. Critically, this predictive power remained after controlling for VWM and attentional control performance, suggesting that the model captured variance specific to LTM encoding. Predictive signals emerged only after stimulus onset and persisted for 500-600 ms. Together, these findings reveal a temporally dynamic neural signature supporting individual differences in LTM encoding independent of general cognitive abilities.
-
-***Is there a trade-off between processing and maintenance of information in working memory?***
-
-Chenyu Li, Klaus Oberauer
-
-**Saturday, November 21, 2026, 5:10 pm - 5:30 pm, Working Memory (Talk 265), Marriott Grand Ballroom 13 (North Tower, Lobby Level)**
-
-Working memory maintains information for ongoing processing. Concurrent maintenance and processing often incur a cost: Processing can impair memory, and memory load can slow processing responses. Such costs in complex-span tasks are often interpreted as shared-resource competition. Alternatively, these costs may arise when processing requires additional information to be encoded into working memory. Across three experiments, we tested these accounts with a complex-span paradigm separating processing demand from encoding additional information. Participants remembered novel objects while performing no processing, a constant response, a size judgment on each object against a constant reference, or a size judgment against a changing reference. Memory accuracy declined primarily when processing introduced a changing reference object, not when processing demand increased alone. Memory load did not progressively impair processing. These findings suggest that maintenance and processing are not generally constrained by a shared resource; memory costs instead depend on whether processing introduces additional representations.
 
 ***Distinct Neural Dynamics Support Continuous and Noncontinuous Interhemispheric Handoffs During Attentional Tracking***
 
