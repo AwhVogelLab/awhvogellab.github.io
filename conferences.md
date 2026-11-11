@@ -42,6 +42,8 @@ Igor Utochkin, Keisuke Fukuda
 
 The concept of memorability highlights the consistent effects that individual items have on memory strength across people. Do all items produce equally consistent memory strengths? We used receiver operating characteristic (ROC) analysis to recover memory-strength distributions for 600 object images tested as old and new items in a confidence-rating recognition task across 234 participants. This allowed us to estimate the average memory strength and its variability for each item (both as old and new) and locate item-specific distributions in a unitary signal-detection continuum. We found that the memory-strength distributions of new items underlying their "false-alarmability" differ considerably in both mean and variance, and that these two parameters are uncorrelated, highlighting variability as an independent baseline dimension of memorability. For old items, variance increased with average memory strength suggesting that a stronger memorability boost from encoding is accompanied by greater variation across people. Finally, taking unequal variance into account leads to adjustments in the representational distances between item distributions, with important implications for measuring memorability and identifying its determinants.
 
+### Psychonomics - Posters
+
 ***Does How We Expect to Be Tested Alter How We Use Visual Working Memory?***
 
 Gengshi Hu, Chenyu Li, Edward Awh, Edward Vogel
